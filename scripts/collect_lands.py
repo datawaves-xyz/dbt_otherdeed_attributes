@@ -34,12 +34,12 @@ def run():
     s.mount('https://', HTTPAdapter(max_retries=retries))
     s.mount('http://', HTTPAdapter(max_retries=retries))
 
-    filename = "../seeds/lands.csv.{0}_{1}".format(start, end)
+    filename = "../seeds/lands_{0}_{1}.csv".format(start, end)
 
     with open(filename, "a") as f:
 
         writer = csv.writer(f)
-        if not exists(filename):
+        if start == 0:
             header = ['token_id', 'image', 'category', 'sediment', 'sediment_tier', 'environment', 'environment_tier',
                 'eastern', 'eastern_tier', 'southern', 'southern_tier', 'western', 'western_tier', 'northern', 'northern_tier',
                 'artifact', 'plot', 'koda'
@@ -75,6 +75,7 @@ def run():
                     land.get('Plot', None),
                     land.get('Koda', None)
                 ]
+                print(row)
                 writer.writerow(row)
 
 run()

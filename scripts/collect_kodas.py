@@ -47,7 +47,7 @@ def run():
                     koda.get('Eyes', None),
                     koda.get('Core', None),
                     koda.get('Clothing', None),
-                    koda.get('Weapon', None)
+                    koda.get('Weapon', None),
                 ]
                 writer.writerow(row)
 
