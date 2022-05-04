@@ -1,5 +1,5 @@
 
-name: 'dbt_otherdeed_attributes'
+name: 'otherdeed_attributes'
 version: '1.0.0'
 config-version: 2
 profile: 'dbt_otherdeed_attributes'
