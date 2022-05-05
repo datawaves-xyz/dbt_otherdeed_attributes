@@ -2,5 +2,15 @@ version: 2
 
 seeds:
   - name: kodas
-  - name: lands
+  - name: lands_0_10000
+  - name: lands_10000_20000
+  - name: lands_20000_30000
+  - name: lands_30000_40000
+  - name: lands_40000_50000
+  - name: lands_50000_60000
+  - name: lands_60000_70000
+  - name: lands_70000_80000
+  - name: lands_80000_90000
+  - name: lands_90000_100000
+
 

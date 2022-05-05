@@ -10,5 +10,5 @@ Include in your `packages.yml`:
 ```yml
 packages:
   - git: "https://github.com/datawaves-xyz/dbt_otherdeed_attributes"
-    revision: 0.1
+    revision: 0.2
 ```

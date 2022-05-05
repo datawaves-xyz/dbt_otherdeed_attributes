@@ -39,12 +39,11 @@ def run():
     with open(filename, "a") as f:
 
         writer = csv.writer(f)
-        if start == 0:
-            header = ['token_id', 'image', 'category', 'sediment', 'sediment_tier', 'environment', 'environment_tier',
-                'eastern', 'eastern_tier', 'southern', 'southern_tier', 'western', 'western_tier', 'northern', 'northern_tier',
-                'artifact', 'plot', 'koda'
-            ]
-            writer.writerow(header)
+        header = ['token_id', 'image', 'category', 'sediment', 'sediment_tier', 'environment', 'environment_tier',
+            'eastern', 'eastern_tier', 'southern', 'southern_tier', 'western', 'western_tier', 'northern', 'northern_tier',
+            'artifact', 'plot', 'koda'
+        ]
+        writer.writerow(header)
 
         for token_id in np.arange(start, end):
 
