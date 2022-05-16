@@ -35,6 +35,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 34,https://assets.otherside.xyz/otherdeeds/6a1a62bd068ddf81d007383fee16f4456ca411875d78b1fbd0f0f0904323b6d1.jpg,Volcanic,Biogenic Swamp,2,Sulfuric,1,Chlorocite,2,Brimstone,2,Psychosilk,2,Psychosilk,2,Celestial Tear,34,
 35,https://assets.otherside.xyz/otherdeeds/224ae53f443a3c601f206a0a6e7a10e20318e27c657e315f1b24587791581285.jpg,Volcanic,Biogenic Swamp,3,Molten,2,Psychosilk,1,Whisper,1,Oblivion,3,Luster,3,,35,
 36,https://assets.otherside.xyz/otherdeeds/533f3b211445c680a8a93e0747bf17da066ce517046e8de173078d845c212059.jpg,Volcanic,Biogenic Swamp,1,Crimson,2,,,,,,,Luster,2,,36,
+37,https://assets.otherside.xyz/otherdeeds/aff5c0699d6dea29062246415f27183dc38b17ffa8c457dcf6190d0a3562326f.jpg,Harsh,Biogenic Swamp,1,Splinter,1,,,Petrified,2,,,Psychosilk,2,,37,
 38,https://assets.otherside.xyz/otherdeeds/ae6b6d96f010f3e69f0532c8c1126f22eebbd328fed11517c5e9d8f3850a6ae4.jpg,Mineral,Biogenic Swamp,2,Biolume,1,Tantalite,2,Kinsoul,1,Brimstone,1,Whisper,1,Celestial Tear,38,
 39,https://assets.otherside.xyz/otherdeeds/ce70d2708fa0e8b37060f0494b4756096147088cd5da57a73e9cccee1807da6e.jpg,Spirit,Biogenic Swamp,1,Steppes,1,Moldium,3,,,,,,,,39,
 40,https://assets.otherside.xyz/otherdeeds/e899562db3a17d7d26fee1249daee1d77375bd8c6ea3a6925572461d0c84fb9b.jpg,Volcanic,Biogenic Swamp,1,Molten,2,Bonestone,3,,,,,,,,40,
@@ -160,6 +161,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 160,https://assets.otherside.xyz/otherdeeds/4cd8b4d867edf53c85b56a7f5394602920a80b6ef4cf504857cf6e124fe47957.jpg,Harsh,Biogenic Swamp,1,Splinter,4,,,,,,,,,,160,
 161,https://assets.otherside.xyz/otherdeeds/a6aeab36243433daf95fad9d100714fda11569afb6c94c239b4eec2f4568713d.jpg,Mineral,Biogenic Swamp,1,Biolume,5,Petrified,3,,,Lumileaf,1,Psychosilk,1,,161,
 162,https://assets.otherside.xyz/otherdeeds/c946dd35c5f03e60d06633e9d59c1bb31f2eefdf6cf698d77ca38a1a7527fc9c.jpg,Spirit,Biogenic Swamp,1,Steppes,4,,,Whisper,2,Kinsoul,3,Moldium,1,Knight's Pail,162,
+163,https://assets.otherside.xyz/otherdeeds/5261a90b79335fc113563065dbf5c80bb46374371bb2b14777d05e96d9fe73ba.jpg,Decay,Biogenic Swamp,3,Bog,3,,,,,Spikeweed,3,,,,163,
 164,https://assets.otherside.xyz/otherdeeds/4edecf4e22ca172c777c89c1cd39ae1e1a4274e0c7750f942faf2b6ab4e8c3fd.jpg,Spirit,Biogenic Swamp,1,Veldan,1,,,,,Petrified,2,,,,164,393
 165,https://assets.otherside.xyz/otherdeeds/a93cafdc03b5b4af86cbd0aa681220c9b75f7f90c09983c4667ec8fb1bea719d.jpg,Volcanic,Biogenic Swamp,1,Obsidian,2,,,Lumileaf,1,,,,,,165,6829
 166,https://assets.otherside.xyz/otherdeeds/a25e993e4fdd027b4711385cc79f2d1deb7adcdd6d347cadb741cf38e38c3dde.jpg,Harsh,Biogenic Swamp,2,Glacia,2,,,,,Slushia,2,Petrified,1,,166,
@@ -248,6 +250,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 252,https://assets.otherside.xyz/otherdeeds/e6343b25f736a5346b73f397453160710f339a110ea5e9c6dcfc968e0624d23c.jpg,Decay,Biogenic Swamp,1,Bog,2,,,,,Bonestone,2,Kinsoul,1,Banana Peel,252,
 253,https://assets.otherside.xyz/otherdeeds/784c3bcfe42d98f5785468a1cef842384b7583955332afbfa1e2de5a4f609318.jpg,Volcanic,Biogenic Swamp,1,Molten,4,,,Luster,2,,,,,,253,
 254,https://assets.otherside.xyz/otherdeeds/4c2a8648e8f5df6d16a8e1f9b7191e69d6caccde0dd62738c97ae48d40c7ec98.jpg,Mineral,Biogenic Swamp,1,Spires,3,,,,,Oblivion,3,,,Rugged Pickaxe,254,
+255,https://assets.otherside.xyz/otherdeeds/5885b5f68aed98e9d3460d76741a3b4673060fad8f231aaeb2569f2db789e13c.jpg,Volcanic,Biogenic Swamp,2,Obsidian,1,,,,,,,,,,255,
 256,https://assets.otherside.xyz/otherdeeds/365cf50fa4da6197622c5c5322b231294e736937a510b49d26c84893fa08a5bc.jpg,Decay,Biogenic Swamp,2,Thornwood,1,Runa,1,,,Kinsoul,2,,,,256,
 257,https://assets.otherside.xyz/otherdeeds/5558368c5d27ebd5ba14996d7585a39cfb9964340c96fd9254d6a12dba6be7ad.jpg,Decay,Biogenic Swamp,1,Bog,3,,,,,Whisper,2,Bonestone,3,Banana Peel,257,
 258,https://assets.otherside.xyz/otherdeeds/2c87a529c3990ff03edf6dd721ce5d9bc906cc067f5c71c2c1981121163e7342.jpg,Decay,Biogenic Swamp,2,Bog,3,Luster,2,,,,,,,,258,
@@ -257,6 +260,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 262,https://assets.otherside.xyz/otherdeeds/de58d16bb402ef24c2090851b0c61141a1e08e13ddc60ceb161e6fdda2e67d01.jpg,Growth,Biogenic Swamp,3,Mycelium,5,Petrified,2,,,Entradium,1,Senticybia,1,,262,
 263,https://assets.otherside.xyz/otherdeeds/27b82192115a49ae88bd0712c76b6913c1743bd5dd2bde7b253c3888996b042b.jpg,Growth,Biogenic Swamp,2,Mystic,2,Nether,2,Luster,1,Luster,3,Spikeweed,1,Jar of Koda Farts,263,
 264,https://assets.otherside.xyz/otherdeeds/4c062d509b55c75bb2cef0091dbfdc70c9cbd9eaef033b1b99e2ae62a598b6e1.jpg,Mineral,Biogenic Swamp,1,Biolume,1,,,,,,,,,,264,
+265,https://assets.otherside.xyz/otherdeeds/211cd1001fe5ee2967c14b9bf54fc41708daae2789f6967bc296fdb93cbc5a68.jpg,Decay,Biogenic Swamp,1,Ruins,1,,,Psychosilk,2,,,Lumileaf,2,,265,
 266,https://assets.otherside.xyz/otherdeeds/be1660e0c9b84a6568bbc2c728e4006c7c36899d1d31d615128ef230270c336a.jpg,Spirit,Biogenic Swamp,1,Sands,1,,,Brineslime,2,Oblivion,2,,,,266,
 267,https://assets.otherside.xyz/otherdeeds/13b66bef65e41560b1e98904dbab394c2f69f7cd1328e5f327a8ed275153b26d.jpg,Decay,Biogenic Swamp,3,Plague,3,Spikeweed,3,Moldium,2,,,,,,267,
 268,https://assets.otherside.xyz/otherdeeds/e7b738266c82b4e22bc06edae05de968ea4f539abe031a13bbc59084bdf947dd.jpg,Decay,Biogenic Swamp,2,Bog,2,,,,,Void,1,Kinsoul,3,,268,
@@ -266,6 +270,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 272,https://assets.otherside.xyz/otherdeeds/085f0e5ac504d825c94187dff489a2d70173780715dd80fb36a46162283abd6b.jpg,Mineral,Biogenic Swamp,3,Biolume,2,Bonestone,1,Lumileaf,2,,,Spikeweed,2,,272,8247
 273,https://assets.otherside.xyz/otherdeeds/b697051207e7f50c1d40c8613ba030eb9403cb5b437f483204ff5cce7b910ef6.jpg,Harsh,Biogenic Swamp,3,Bone,1,Moldium,1,Amberskull,1,,,,,Ancient Coin,273,
 274,https://assets.otherside.xyz/otherdeeds/29d47b025f81923f4639c656b85630da82f1aaf96106e3ceb89cbd9f90c63064.jpg,Decay,Biogenic Swamp,1,Plague,2,,,,,Moldium,3,,,,274,
+275,https://assets.otherside.xyz/otherdeeds/f6afcbf59d51d6c6322fe2f45a35f1fe168ceb38d0987a71aeb47e21f4a76a34.jpg,Spirit,Biogenic Swamp,1,Sands,2,Kinsoul,2,,,,,,,Celestial Tear,275,
 276,https://assets.otherside.xyz/otherdeeds/46d01452b22b0c69b37efb67fc4b258972f495963be20cb711a0f6c622713efb.jpg,Mineral,Biogenic Swamp,2,Biolume,4,,,Lumileaf,2,,,,,,276,
 277,https://assets.otherside.xyz/otherdeeds/05b4d555e0a373e83251b6b1288ca70fbe86381c9f7fbbb79037553e3307bfb1.jpg,Decay,Biogenic Swamp,1,Ruins,4,,,,,Psychosilk,2,,,,277,
 278,https://assets.otherside.xyz/otherdeeds/b04747d0d5421e3662244cf03f51ee29b542da5ee4a1c829ecc9cfb0b5886f47.jpg,Spirit,Biogenic Swamp,3,Steppes,2,Luster,2,Luster,3,Kinsoul,1,Vaporhaze,3,,278,
@@ -292,15 +297,21 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 300,https://assets.otherside.xyz/otherdeeds/fa266d2ca407da5d6b62aeea914df32991b6a811b526e162b622b947406b8422.jpg,Volcanic,Biogenic Swamp,2,Molten,1,Runa,1,Luster,2,,,,,,300,
 301,https://assets.otherside.xyz/otherdeeds/b2d3ba76a0175ba4a474a1c907b5c7864cfeb8c3b1204fa5f29dff9b27e07501.jpg,Spirit,Biogenic Swamp,1,Steppes,1,,,,,,,,,,301,7207
 302,https://assets.otherside.xyz/otherdeeds/bc46809fd4bd59caa835cd50cbe64716fd7f30c028031505a376eee44c6fff7a.jpg,Mineral,Biogenic Swamp,2,Spires,3,,,,,Oblivion,1,,,Relic Card,302,
+303,https://assets.otherside.xyz/otherdeeds/bf1157b66a0fed66821246a25b9054d3e8c311acfb5736068c8712e35f28e4de.jpg,Harsh,Biogenic Swamp,1,Glacia,2,,,,,Luster,2,Shatterfrost,3,Rugged Axe,303,
+304,https://assets.otherside.xyz/otherdeeds/594b9bd4d02567646db0315e992abd515f248cf9391bcdddbcf6a7204a43bd44.jpg,Growth,Biogenic Swamp,3,Mystic,5,Spikeweed,2,,,Petrified,1,Oblivion,2,,304,6322
 305,https://assets.otherside.xyz/otherdeeds/78268de246007f57471c857667aaea7d703d3ca02601f9d440f7b09154f8ebf0.jpg,Harsh,Biogenic Swamp,3,Bone,2,Amberskull,1,,,,,Psychosilk,1,,305,5442
+307,https://assets.otherside.xyz/otherdeeds/4977abb41eaac4ae2297fd9c96edd0e3ff5c37ef060f2225b0f87b6794213a45.jpg,Growth,Biogenic Swamp,1,Mystic,2,Psychosilk,2,,,Petrified,1,,,,307,
+308,https://assets.otherside.xyz/otherdeeds/5e3e3f9c56f09ccbcc96151c2479893e6531392c9b56ca0db2438cf7f99f4eb6.jpg,Harsh,Biogenic Swamp,1,Wastes,1,,,,,,,Moldium,3,,308,
 309,https://assets.otherside.xyz/otherdeeds/f460bb13f15c2ec1a2f59e06aa50b2091f89c0cffa2c3b8ff24123c4326ec664.jpg,Decay,Biogenic Swamp,2,Bog,1,Spikeweed,1,Runa,1,,,,,,309,
 310,https://assets.otherside.xyz/otherdeeds/3ae8000aac690e638a47c3c9e2b41cc486865bcfc26ebad7d063bbc1a142c17e.jpg,Growth,Biogenic Swamp,1,Mystic,5,Omni,2,Lunarian,3,Nether,2,Nether,1,,310,
+311,https://assets.otherside.xyz/otherdeeds/3fe26eab6c7cd925e368d6c25f302e8a01da033063f240262e7ef333bc1a9e14.jpg,Spirit,Biogenic Swamp,2,Veldan,2,,,Lumileaf,1,,,,,Monkey Barrel,311,
 312,https://assets.otherside.xyz/otherdeeds/fa34d58900180a9cc5350a6239f47f87324ca4871a5c34c4a5349a6c9f31cb93.jpg,Harsh,Biogenic Swamp,1,Splinter,2,,,Psychosilk,1,,,Moldium,2,,312,
 313,https://assets.otherside.xyz/otherdeeds/9d082298fd83ae50738e00478b8cae7b4f1fcf30b80f39f55081f51d9cc9a8f7.jpg,Mineral,Biogenic Swamp,2,Spires,2,,,,,,,,,Jar of Koda Farts,313,
 314,https://assets.otherside.xyz/otherdeeds/dbbe20b98f54f02e1707bcd00a3087f1dbfca0309928eb818cce9ab1fffde9df.jpg,Psychedelic,Biogenic Swamp,2,Shadow,2,,,,,,,,,,314,
 315,https://assets.otherside.xyz/otherdeeds/ecd119030d8856563e3a754ccdf4487e934f143cc9e80e7adbbdedadad6065ec.jpg,Spirit,Biogenic Swamp,2,Veldan,1,Brimstone,2,,,Luster,1,Scholara,2,,315,9552
 316,https://assets.otherside.xyz/otherdeeds/c5dbf76acf7e5eccb085be227c3852d0815359781c5dae020967544e1a78d6a4.jpg,Harsh,Biogenic Swamp,1,Splinter,2,,,,,Runa,3,Oblivion,2,,316,
 317,https://assets.otherside.xyz/otherdeeds/85195871575e38216c1a636c32b86e1655416ff7748d1934ff31acfe752abe4e.jpg,Harsh,Biogenic Swamp,1,Wastes,3,,,Lumileaf,2,,,Kinsoul,2,Whale Statue,317,
+318,https://assets.otherside.xyz/otherdeeds/7d4e70ad4bb7c5ed2a45f9b9570135cbf4c22b16bbd413035b2fe7187368dc0a.jpg,Harsh,Biogenic Swamp,2,Glacia,4,Lumileaf,3,,,,,,,,318,
 319,https://assets.otherside.xyz/otherdeeds/db4e8832a42cbacabee363e022be138783c4256d01c15e6381ef052c04913f2b.jpg,Harsh,Biogenic Swamp,1,Glacia,1,,,,,Kinsoul,3,,,,319,
 320,https://assets.otherside.xyz/otherdeeds/0c394ef153c40870a881b2129694ba81566c4f970107223ac0663ebab388e964.jpg,Decay,Biogenic Swamp,3,Thornwood,3,Bonestone,3,,,Duskia,3,,,,320,
 321,https://assets.otherside.xyz/otherdeeds/574f1d2683a4b087fffc5d3c4ceb6ddc9cad4b2ba21a656e93f50173ec5d8435.jpg,Decay,Biogenic Swamp,1,Ruins,3,,,Brimstone,2,,,,,,321,3394
@@ -667,6 +678,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 707,https://assets.otherside.xyz/otherdeeds/9791ef1dc93691b3c669092f638de9eef06531c2d0e52b1f9a7e12feeec0ff26.jpg,Spirit,Biogenic Swamp,1,Steppes,1,,,Psychosilk,3,,,Lumileaf,3,,707,
 708,https://assets.otherside.xyz/otherdeeds/73dd9d78a1d127149e7690bda6a5b11a382ae1a3b51974bc1042aecaf9cea69d.jpg,Harsh,Biogenic Swamp,2,Splinter,2,,,Runa,2,Bonestone,2,,,,708,
 709,https://assets.otherside.xyz/otherdeeds/1c607184be45d8f628f2d28f557d9fbb08cddc52ca95a123802fbd6aa0a77c83.jpg,Mineral,Biogenic Swamp,3,Biolume,1,Lunarian,2,Psychosilk,1,,,,,,709,
+710,https://assets.otherside.xyz/otherdeeds/5092298b15a6d027413301b19e59c933f8e3ece1faef9b0eeb150024ae569a09.jpg,Harsh,Biogenic Swamp,3,Splinter,3,,,,,Psychosilk,3,,,,710,
 711,https://assets.otherside.xyz/otherdeeds/1f9bd8c4b4547ef18272ad5675a4b9c9f436a01d2292f08dd2f88647374d145c.jpg,Spirit,Biogenic Swamp,1,Sky,1,Brimstone,1,Spikeweed,1,,,Oblivion,3,,711,
 712,https://assets.otherside.xyz/otherdeeds/7fde77ed53abd44b139403953b255bf44861dd719e80037ebd37230bfccfc75d.jpg,Decay,Biogenic Swamp,1,Thornwood,1,,,,,,,,,Forged Pickaxe,712,
 713,https://assets.otherside.xyz/otherdeeds/d2a243bd3b340a777278eccad2ea44d4f3ec0b16faa624547a23896684753dcc.jpg,Spirit,Biogenic Swamp,2,Steppes,1,Vaporhaze,1,Runa,1,Spikeweed,3,,,,713,
@@ -718,6 +730,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 760,https://assets.otherside.xyz/otherdeeds/636b5b1c62836c4eca6c79ab29167bacf10ef6ad48cb7d3ebdfae12f2ffa7402.jpg,Psychedelic,Biogenic Swamp,2,Acid,2,,,,,Lunarian,1,Kinsoul,3,,760,
 761,https://assets.otherside.xyz/otherdeeds/8a0c5512537b346054cce401dfc2e8f65bccfc1109dec5acfe89e4d89d955817.jpg,Decay,Biogenic Swamp,3,Thornwood,2,Bonestone,3,,,,,,,,761,
 762,https://assets.otherside.xyz/otherdeeds/6a57b8969e333ce3e38201e134795566eaa3ef9edaead7d0d2d5349e82ac5c89.jpg,Decay,Biogenic Swamp,1,Plague,3,Brimstone,2,Kinsoul,1,Luster,1,Bonestone,2,,762,
+763,https://assets.otherside.xyz/otherdeeds/0a26293f5a333247cb48fedaa669ed8a65f7cb6f10f8afdbdb5b57aac459d949.jpg,Decay,Biogenic Swamp,3,Bog,2,Mossmoon,2,Moldium,2,,,Petrified,3,Chomps,763,
 764,https://assets.otherside.xyz/otherdeeds/d701ce1b1cfb3296d6726cf9cc33678308eabd6bcd24e794655ddaecb5932d92.jpg,Psychedelic,Biogenic Swamp,1,Acid,1,,,Lumileaf,1,,,,,Celestial Tear,764,
 765,https://assets.otherside.xyz/otherdeeds/ab90f6f0ad82cf9b62a2c7bee1b604207c477187f93daa76639b7396ff70977a.jpg,Volcanic,Biogenic Swamp,2,Sulfuric,2,Moldium,1,Lumileaf,1,,,,,,765,
 766,https://assets.otherside.xyz/otherdeeds/26f6bc7281b11620fc24347016ff6718fa12a387793d30e603171b3d2047919f.jpg,Spirit,Biogenic Swamp,1,Steppes,3,Runa,2,,,,,Oblivion,2,Fire Sale Scroll,766,
@@ -996,6 +1009,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 1050,https://assets.otherside.xyz/otherdeeds/9d262093fff3e5d311bb4e15aeb2628d874a4357566aa7fe66a6758bb57aa75b.jpg,Spirit,Biogenic Swamp,1,Sands,4,,,,,Nether,2,Lunarian,1,Knight's Pail,1050,
 1051,https://assets.otherside.xyz/otherdeeds/eb7dff56c39e8b4e2c8a5117b374001a89329cba116c2c5b365c4dd4104df08b.jpg,Volcanic,Biogenic Swamp,1,Molten,2,Spikeweed,2,Psychosilk,1,Petrified,2,Psychosilk,1,,1051,
 1052,https://assets.otherside.xyz/otherdeeds/950f2eed9d476a4d011e07cea067ab10bf38b830012caf5a7bc473d60aabfa3d.jpg,Psychedelic,Biogenic Swamp,3,Mallow,2,Nether,2,,,,,,,,1052,
+1053,https://assets.otherside.xyz/otherdeeds/e6c2ebd7cea16562d453cb61ba5f823033578417d34dd1e162b375068039d138.jpg,Volcanic,Biogenic Swamp,3,Molten,2,,,Luster,1,,,Oblivion,3,,1053,
 1054,https://assets.otherside.xyz/otherdeeds/ce10f152d04ee38da1b750ebebadc6156f072292839f56146c5a51bcebb845c1.jpg,Mineral,Biogenic Swamp,1,Biolume,3,,,,,,,Tantalite,2,,1054,
 1055,https://assets.otherside.xyz/otherdeeds/38a51521465ff8aa4bf736c664018c01dcf3bd724e07bda287c73f70f7f0d74a.jpg,Volcanic,Biogenic Swamp,1,Obsidian,3,,,Petrified,2,Kinsoul,1,Oblivion,1,Whale Statue,1055,
 1056,https://assets.otherside.xyz/otherdeeds/4e60a421a3078e5291cfb143324b3b9413ef970e88f3772b6a0e75ba37cd0392.jpg,Decay,Biogenic Swamp,2,Plague,1,Rotworth,2,,,Brimstone,2,Brimstone,2,,1056,7853
@@ -1063,6 +1077,8 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 1119,https://assets.otherside.xyz/otherdeeds/7b2e7f3d0c1e3d9b0e0df502d1d2113b7db8678dc47d32a781d536308d3a4970.jpg,Decay,Biogenic Swamp,3,Ruins,4,Nether,1,,,,,,,Magic Powder,1119,
 1120,https://assets.otherside.xyz/otherdeeds/c0d972a7282e897787fa94fcc197cf2cae5fb8e40781f8c830da1eb9456a54f2.jpg,Harsh,Biogenic Swamp,1,Wastes,2,,,Spikeweed,2,,,,,,1120,
 1121,https://assets.otherside.xyz/otherdeeds/8593f563edb7dce580bb61e00b04d3427e6032ec065438be0552e767b338e4f0.jpg,Spirit,Biogenic Swamp,1,Sky,3,Oblivion,2,Runa,1,Element 115,3,,,,1121,
+1122,https://assets.otherside.xyz/otherdeeds/418509dcae5fca940948b4daee0cf58bee70f89e0e097a69e7d150592c73716a.jpg,Volcanic,Biogenic Swamp,2,Sulfuric,1,Sulfirica,2,Moldium,2,,,Brimstone,1,Fairy in a Jar,1122,
+1123,https://assets.otherside.xyz/otherdeeds/0f0316e0c303961f271089c2b51f7aa6b2e3d2a1430842d440a8f1cb59c3ec5e.jpg,Mineral,Biogenic Swamp,2,Biolume,3,Brimstone,2,Brimstone,2,Spikeweed,1,Moldium,3,,1123,
 1125,https://assets.otherside.xyz/otherdeeds/06f1345c77270ea6d1544cc2199d69c59726070a89aba3bfda7394be75c3b003.jpg,Spirit,Biogenic Swamp,1,Veldan,3,Whisper,1,,,,,,,,1125,
 1126,https://assets.otherside.xyz/otherdeeds/d82b3a6ecf989b7fe209ec045cba333d7bfefbac6a2997d73838a7a46d07e4d0.jpg,Spirit,Biogenic Swamp,2,Steppes,1,Vaporhaze,1,Omni,2,,,,,,1126,
 1127,https://assets.otherside.xyz/otherdeeds/ceea3a27da9a075b5aec5183b202043c24690ef2e0e9590f5b020d2750f31701.jpg,Decay,Biogenic Swamp,1,Bog,4,Nether,1,Runa,3,Whisper,2,,,,1127,
@@ -1084,10 +1100,12 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 1143,https://assets.otherside.xyz/otherdeeds/eb5092b064be0acc590708613bbf92a35e5aecdee2a864f20f9e81d6cb81c31d.jpg,Spirit,Biogenic Swamp,1,Veldan,2,,,Lunarian,1,,,Bonestone,2,,1143,
 1144,https://assets.otherside.xyz/otherdeeds/65ddeef2f2ad050a4b8de7d1431a42ace8c8be671ed74fe32d9e250a1a0e97af.jpg,Mineral,Biogenic Swamp,3,Biolume,3,Luster,2,Spikeweed,1,Bonestone,2,Petrified,1,,1144,
 1145,https://assets.otherside.xyz/otherdeeds/6635f4ce18c2c4dca114ad13fe19c112bb7ec085f096ac653b8b29b28023d617.jpg,Decay,Biogenic Swamp,1,Plague,3,,,Kinsoul,2,Brimstone,2,Runa,3,,1145,
+1146,https://assets.otherside.xyz/otherdeeds/c699856626628b26d8fc2070b12dd4c0283d7912ff0118c51960d86e38e13527.jpg,Volcanic,Biogenic Swamp,1,Crimson,1,,,,,,,,,,1146,
 1147,https://assets.otherside.xyz/otherdeeds/3aadb054556ad96ba8982380a5554f975e133317a985a493c2a3fa0ef467222c.jpg,Mineral,Biogenic Swamp,2,Spires,1,Runa,1,Bonestone,3,Brimstone,2,Kinsoul,2,Mystical Crown,1147,
 1148,https://assets.otherside.xyz/otherdeeds/99c4db6e1f000514904cb9ab4f4c8088213ec35c2d579b59ba669a0d7dfe7c11.jpg,Decay,Biogenic Swamp,3,Bog,4,,,Moldium,1,,,,,,1148,
 1149,https://assets.otherside.xyz/otherdeeds/46058a1e48cf2c0ce25043c79ac96fc16b63317d770894c4f97b7c177d06e25b.jpg,Psychedelic,Biogenic Swamp,2,Mallow,1,Psychosilk,1,Luster,1,Mallo,2,,,,1149,
 1150,https://assets.otherside.xyz/otherdeeds/2580a6977032ad542c65a600d04bcfc0c1981132f960821a2616bc69f965cdc9.jpg,Volcanic,Biogenic Swamp,3,Sulfuric,3,Whisper,1,,,Runa,1,Chlorocite,2,,1150,
+1151,https://assets.otherside.xyz/otherdeeds/fa5ce86e66832fec86058136387b3b2b72ace6a61ecfab9c61df4151c1efcc2f.jpg,Spirit,Biogenic Swamp,2,Sky,2,Lumileaf,1,Nucleod,1,,,Moldium,1,,1151,
 1152,https://assets.otherside.xyz/otherdeeds/a9221f91d5476fe075a6c849d5a92d006f52242dd9cf282c05bab80d89e865fc.jpg,Psychedelic,Biogenic Swamp,2,Acid,1,Whisper,1,,,,,,,,1152,
 1153,https://assets.otherside.xyz/otherdeeds/64f3efa2fb878e47602d628060b651d4e0ef1c71e14cc9f7ecef716808d36544.jpg,Mineral,Biogenic Swamp,1,Spires,2,,,Psychosilk,3,,,,,,1153,
 1154,https://assets.otherside.xyz/otherdeeds/7df886b4495ff9373ab01301b40bfb72f75456e87ca02f1f80c0b581681e0f1f.jpg,Harsh,Biogenic Swamp,1,Glacia,1,,,,,,,,,Magic Powder,1154,
@@ -1380,6 +1398,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 1449,https://assets.otherside.xyz/otherdeeds/45e73a7988900c0741742ecaa474771dc6e64f3e103d96ec5ba6459954d2a191.jpg,Volcanic,Biogenic Swamp,1,Obsidian,3,,,,,Runa,1,,,Camp Fire,1449,
 1450,https://assets.otherside.xyz/otherdeeds/fb3fe37f20189da08ae8ac1ace3903491266dc1ee2738a82e2f37320666ef9b7.jpg,Spirit,Biogenic Swamp,1,Sands,1,,,,,Whisper,2,Coralia,3,,1450,
 1451,https://assets.otherside.xyz/otherdeeds/76c732e2f695b127371d593b8948d9fc05cedce4d3f133424d5b4e47f481f10c.jpg,Growth,Biogenic Swamp,1,Jungle,1,,,Psychosilk,1,,,Runa,2,,1451,
+1452,https://assets.otherside.xyz/otherdeeds/c5b174034b9e0c4090d79f49f6120028d219435ac903c9e5df62f60ca4fbcd32.jpg,Mineral,Biogenic Swamp,1,Biolume,1,Lumileaf,1,,,Lunarian,2,Brimstone,2,,1452,
 1453,https://assets.otherside.xyz/otherdeeds/89b77e0ebf0dc96ab9d3f0258f6824b7fa02d7e86b853cefe397c62c5d0a9379.jpg,Decay,Biogenic Swamp,2,Thornwood,1,,,Duskia,2,Moldium,1,,,,1453,
 1454,https://assets.otherside.xyz/otherdeeds/2982a3138894528923c53e58033189fc7300ae23c73f206ffde2757cac99f8cd.jpg,Decay,Biogenic Swamp,2,Ruins,1,,,Runa,1,Oblivion,1,Moldium,2,,1454,
 1455,https://assets.otherside.xyz/otherdeeds/57ad974fdf9c2a41095a95328e38e40e60fb5923adb7df6844c5724fa3dda004.jpg,Harsh,Biogenic Swamp,1,Wastes,2,Lumileaf,3,,,Moldium,2,,,,1455,8312
@@ -1395,6 +1414,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 1466,https://assets.otherside.xyz/otherdeeds/e128d9e4f2af0b5e3981d1af40b009c49c39ae743bab93c0334fc499055ebdd5.jpg,Spirit,Biogenic Swamp,1,Sky,3,,,,,,,,,,1466,
 1467,https://assets.otherside.xyz/otherdeeds/9e5e68e0e871d33b4dc45912ef823041380fe4919b2f53e4f3e4326bdb06ba0b.jpg,Decay,Biogenic Swamp,1,Plague,2,,,Lunarian,3,Omni,2,Whisper,2,,1467,
 1468,https://assets.otherside.xyz/otherdeeds/98412f6a6d1264f968ca53b24fd39328ee003a9da2c9decc5f2275f6b87afbac.jpg,Decay,Biogenic Swamp,2,Thornwood,4,,,Brimstone,1,Spikeweed,1,,,,1468,
+1470,https://assets.otherside.xyz/otherdeeds/69cca298925c81512f817b3128b27d65a6702d6f469c534a42b46509d7fb32b1.jpg,Decay,Biogenic Swamp,1,Ruins,4,,,Runa,2,Luster,1,Kinsoul,3,Banana Peel,1470,
 1471,https://assets.otherside.xyz/otherdeeds/29000a64879bca27ba820f7d1922fd219472f56dbddfe52a7862c3cfc93aace0.jpg,Spirit,Biogenic Swamp,1,Veldan,5,,,,,,,,,,1471,
 1472,https://assets.otherside.xyz/otherdeeds/4cd8b4d867edf53c85b56a7f5394602920a80b6ef4cf504857cf6e124fe47957.jpg,Harsh,Biogenic Swamp,1,Splinter,4,,,,,,,,,,1472,
 1473,https://assets.otherside.xyz/otherdeeds/b5333a4d06772dd011e4f1ba5a3e123c08011e53b037c1192294ba51cf92ed19.jpg,Volcanic,Biogenic Swamp,1,Crimson,3,,,Runa,1,Lumileaf,1,,,Fairy in a Jar,1473,
@@ -1428,6 +1448,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 1501,https://assets.otherside.xyz/otherdeeds/ca88dac1ab062411bdbbc1b53bae56f4918b33e322a38399df2f1d5abfdccd38.jpg,Growth,Biogenic Swamp,2,Jungle,1,Lumileaf,2,Runa,1,Kinsoul,1,,,,1501,
 1502,https://assets.otherside.xyz/otherdeeds/742c63f8901c0d4aa5ffa82f30da8b340fbe3b3976810dcbf1b7f0fc7f4bcb58.jpg,Harsh,Biogenic Swamp,2,Wastes,3,,,Bonestone,1,Kinsoul,1,Hollowcine,2,,1502,
 1504,https://assets.otherside.xyz/otherdeeds/c6b63c04c7e81ef539bc125de6956566d49698b8f8fa0a4728002d86ebebe4b8.jpg,Psychedelic,Biogenic Swamp,1,Sludge,2,,,,,Brimstone,2,,,,1504,
+1505,https://assets.otherside.xyz/otherdeeds/1d1299d9cc07511bcdbc4019690056e94d34535110384d106bc715f4d989dd8c.jpg,Psychedelic,Biogenic Swamp,1,Mallow,1,Runa,1,,,Oblivion,2,Runa,3,,1505,
 1507,https://assets.otherside.xyz/otherdeeds/2922392521d015dcb685df16a1e47c912f524b58b51d4980ee266106922d4bcf.jpg,Spirit,Biogenic Swamp,1,Sands,1,,,,,,,,,,1507,
 1508,https://assets.otherside.xyz/otherdeeds/e45edb2c50a2f53fbaa81b4b2f7623993c921a13f5104ed36cb34e747e5effab.jpg,Decay,Biogenic Swamp,3,Thornwood,3,,,Lumileaf,3,,,,,,1508,
 1509,https://assets.otherside.xyz/otherdeeds/bce22fa0fd145fb5c52018afca58354794fd7a528a63246e4fb252d058618745.jpg,Harsh,Biogenic Swamp,1,Glacia,1,Whisper,3,,,Whisper,3,Lumileaf,1,,1509,
@@ -1473,6 +1494,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 1551,https://assets.otherside.xyz/otherdeeds/f3458bffdd41921e5d4b30f963e0f9b261da2a3b2c9db8367bb22e79012b5642.jpg,Psychedelic,Biogenic Swamp,2,Sludge,1,,,,,,,Lunarian,1,,1551,
 1552,https://assets.otherside.xyz/otherdeeds/40698326c52c2128e9d6659f1875e61847b3487559b92dccc41c95edb44d9ed3.jpg,Psychedelic,Biogenic Swamp,2,Acid,3,Dimensional,2,,,Bonestone,3,,,,1552,
 1553,https://assets.otherside.xyz/otherdeeds/62b2352b5270d9579562eceee05415334b383cfbce60d2e6721680860e906976.jpg,Decay,Biogenic Swamp,1,Ruins,4,,,,,,,Spikeweed,2,,1553,7633
+1554,https://assets.otherside.xyz/otherdeeds/ee3f3cc17c0fa39a6897e9c8980fe48153262005447f814fca72e9a684e7773c.jpg,Volcanic,Biogenic Swamp,1,Crimson,3,,,Spikeweed,3,Lunarian,2,,,Whale Statue,1554,
 1555,https://assets.otherside.xyz/otherdeeds/15929e0f031807538dda1a81911384f2a56b325f8acb9bac480547e7a3a84623.jpg,Decay,Biogenic Swamp,1,Bog,2,,,Spikeweed,1,,,,,,1555,
 1556,https://assets.otherside.xyz/otherdeeds/419f77857becbd7703e839f9d9dde9e3df62f577bddec45894a08fb07681deb1.jpg,Growth,Biogenic Swamp,1,Jungle,3,Luster,1,,,,,Runa,3,,1556,
 1558,https://assets.otherside.xyz/otherdeeds/dab58eadf01aa1f7561cb5f9333f2145c97753fcd967e2c12d7327638dd8b31e.jpg,Harsh,Biogenic Swamp,2,Bone,2,Luster,2,Amberskull,3,Fossica,1,,,Ancient Coin,1558,
@@ -1508,6 +1530,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 1588,https://assets.otherside.xyz/otherdeeds/ab022d1b808316f2bce44a92ff109a3a50e84960c505caf0c64b3452523abd94.jpg,Volcanic,Biogenic Swamp,1,Sulfuric,1,Luster,3,Luster,2,,,,,,1588,
 1589,https://assets.otherside.xyz/otherdeeds/b4d45afcf7f5aaea11a9a0d957259d07990a96ccb30a8b96b9bdd65dab1a4055.jpg,Harsh,Biogenic Swamp,1,Splinter,2,Moldium,2,,,Lumileaf,2,Lumileaf,1,,1589,
 1590,https://assets.otherside.xyz/otherdeeds/d6994908cd2645969ec90bda3de69dc8c668865415812cfcc5bd63390f502af5.jpg,Decay,Biogenic Swamp,2,Bog,2,Oblivion,3,,,,,,,,1590,
+1591,https://assets.otherside.xyz/otherdeeds/1ebd6b64871adf8df54b7caf981d031aab23945ded26b161dbc667be3d91164c.jpg,Decay,Biogenic Swamp,1,Thornwood,3,Kinsoul,3,Oblivion,2,Duskia,3,Psychosilk,1,,1591,
 1592,https://assets.otherside.xyz/otherdeeds/350539024507781929ace931e01be86cf94e745690159e49acb69492ab3872ec.jpg,Decay,Biogenic Swamp,1,Ruins,1,Runa,2,Petrified,2,,,Luster,1,,1592,
 1593,https://assets.otherside.xyz/otherdeeds/2f2139ffcf41d6379caf2a8170f22490895d5094017e6e465609b0efde9595ec.jpg,Growth,Biogenic Swamp,2,Botanical,2,,,,,,,Sporicite,3,Rugged Hammer,1593,
 1594,https://assets.otherside.xyz/otherdeeds/66fb7232ca94c826a6219d1c1a4f6d38cb20a5d17ac41a42d7884cbc448b5be5.jpg,Spirit,Biogenic Swamp,1,Veldan,2,Nether,3,,,Runa,1,,,Sloth Juice,1594,
@@ -1597,6 +1620,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 1683,https://assets.otherside.xyz/otherdeeds/2a303034d9b39cbd11aac27562a5276698fb83b668f727572edcf9d1ad88127e.jpg,Decay,Biogenic Swamp,1,Plague,1,Oblivion,3,Oblivion,2,Luster,2,Whisper,2,,1683,
 1684,https://assets.otherside.xyz/otherdeeds/a10da1a86c3a9a1d5b81ef190ad9020bb2d0ac79ce90250065999f6dbbe10692.jpg,Mineral,Biogenic Swamp,1,Biolume,3,Tantalite,3,,,Brimstone,2,Kinsoul,2,,1684,
 1685,https://assets.otherside.xyz/otherdeeds/93ebaf272901cb59f2e114613e0bd39f269452e514639c0f961f48854fcb17ef.jpg,Volcanic,Biogenic Swamp,1,Crimson,2,,,Petrified,2,,,Whisper,3,Forged Axe,1685,
+1686,https://assets.otherside.xyz/otherdeeds/df612e1c6651b0c551f3705a267e3808177491c1920eb07d1b57039c1b4e553d.jpg,Volcanic,Biogenic Swamp,1,Sulfuric,2,Lumileaf,3,,,,,Moldium,1,,1686,
 1687,https://assets.otherside.xyz/otherdeeds/bf9d045f927cdffc57bfb596bd9de5e45149729596fde0ab1abacbf8c8fb26e6.jpg,Volcanic,Biogenic Swamp,2,Molten,5,Lunarian,1,Whisper,1,Brimstone,1,Luster,2,,1687,
 1688,https://assets.otherside.xyz/otherdeeds/aa23544144fce7a1ae50244b6e733fdac7cb2402d4e49dabd967f7a16b35469f.jpg,Decay,Biogenic Swamp,1,Thornwood,1,,,Nocturna,2,Luster,1,Lumileaf,2,Slime Juice,1688,
 1689,https://assets.otherside.xyz/otherdeeds/caec66de265532d8d9b4ce5de87a064af7470e090210ba4ab8c46ffd62422e72.jpg,Spirit,Biogenic Swamp,1,Steppes,3,Nebula,1,Brimstone,3,Spikeweed,3,,,Sooper Box,1689,
@@ -1724,6 +1748,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 1816,https://assets.otherside.xyz/otherdeeds/286cd9409a8f6a1a2364f00938850ae8f69b34fbb087264fecf98d05b1a3cb7f.jpg,Decay,Biogenic Swamp,2,Thornwood,3,,,Spikeweed,2,Petrified,1,Oblivion,3,,1816,
 1817,https://assets.otherside.xyz/otherdeeds/cb57095d2fcead5bad5e02de720136a29c3b87252d1c150c005646dbbadc5fde.jpg,Growth,Biogenic Swamp,2,Mystic,2,,,,,,,,,,1817,
 1818,https://assets.otherside.xyz/otherdeeds/0d43e070cb0be91e2cfc323136cc0d835cbfb8b0e6b7839b1e8a9b499a494442.jpg,Harsh,Biogenic Swamp,1,Splinter,1,Petrified,2,Lunarian,3,Luster,3,Spikeweed,2,,1818,
+1819,https://assets.otherside.xyz/otherdeeds/e36009fddaa80e4191c333d75cbe72e081adf570dfb38d31b439768cbc581989.jpg,Growth,Biogenic Swamp,1,Jungle,2,Oblivion,1,,,,,,,,1819,
 1820,https://assets.otherside.xyz/otherdeeds/b0b735d10ed5ae2a326d562242fdee0ae976fde044dfa3fdb0563410a6f0a9de.jpg,Harsh,Biogenic Swamp,3,Splinter,5,,,,,Lumileaf,2,Petrified,2,,1820,
 1821,https://assets.otherside.xyz/otherdeeds/4a98eb5c7aaa9a3ca759e03fe630332e2f8e24f6b8fa0b34126f927e45f1dbbe.jpg,Decay,Biogenic Swamp,3,Plague,4,Runa,1,Whisper,3,,,Nether,2,,1821,
 1822,https://assets.otherside.xyz/otherdeeds/574d9c307c7327fdc80615d163eea1a10b5c3d2303bcf3258a892be814bf7416.jpg,Volcanic,Biogenic Swamp,1,Obsidian,3,,,Kinsoul,2,,,Onyx,2,,1822,
@@ -1786,6 +1811,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 1880,https://assets.otherside.xyz/otherdeeds/eb1cb2dc797bfe0dead4f87793d130b036de42292529e5057d6a0459275dd44f.jpg,Decay,Biogenic Swamp,1,Bog,1,,,,,Lunarian,1,,,Rugged Shovel,1880,
 1881,https://assets.otherside.xyz/otherdeeds/69ecab46552bba91158739f6e78028b367fd3066125b9bfe427d26e39983f1ce.jpg,Growth,Biogenic Swamp,3,Jungle,2,Petrified,3,Bonestone,2,,,Magentia,3,,1881,
 1882,https://assets.otherside.xyz/otherdeeds/0930261572f22dd59cfbc36d4a92f7433443c576adf8b746b571214c5b9816ac.jpg,Mineral,Biogenic Swamp,1,Luster,1,,,Petrified,2,Bonestone,1,,,,1882,
+1883,https://assets.otherside.xyz/otherdeeds/2965f0fc244b297b97e636859ef1b4f7d65b7f45fc4800a0565c371c00d86f15.jpg,Volcanic,Biogenic Swamp,1,Crimson,2,Bonestone,1,,,,,,,,1883,
 1885,https://assets.otherside.xyz/otherdeeds/a1d4bc885df7cb4326f87b2b1f9dec5fa08caeb3b7c7564ca930acd34f64d827.jpg,Volcanic,Biogenic Swamp,3,Molten,2,,,,,,,Brimstone,2,,1885,
 1886,https://assets.otherside.xyz/otherdeeds/8073a17e563d10dbb6e20cb7b965cb41f097d41cee81be731201960217b3fa0a.jpg,Decay,Biogenic Swamp,2,Bog,1,Mossmoon,2,,,,,Luster,1,,1886,
 1887,https://assets.otherside.xyz/otherdeeds/7f30faba65e4e9ddf1ba70782afc56ab577f7e354227804a135fed44d6dc8ef1.jpg,Growth,Biogenic Swamp,1,Mycelium,2,,,,,,,Moldium,1,,1887,
@@ -1819,6 +1845,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 1915,https://assets.otherside.xyz/otherdeeds/369e4ed7f6f9b32f52bdb84b9f6665d1be7f6516923c259f9c8a0233053aad92.jpg,Spirit,Biogenic Swamp,1,Sky,4,,,,,Lunarian,3,,,,1915,
 1916,https://assets.otherside.xyz/otherdeeds/5dd15ed50bacb292e0f04b9a50d72e69e1a0fbc86bd11075f7dc6277dea346eb.jpg,Spirit,Biogenic Swamp,1,Sands,5,Psychosilk,3,,,Lumileaf,3,,,Celestial Tear,1916,
 1917,https://assets.otherside.xyz/otherdeeds/df60e82795d78268702570b0c1a21066d07935ef7188006ebd6447f16ed45552.jpg,Mineral,Biogenic Swamp,2,Biolume,3,Moldium,2,,,Whisper,3,,,,1917,1399
+1918,https://assets.otherside.xyz/otherdeeds/bd27c016fd55669f5eb0ae1173ed676b106a117c36c1bd5b0c3cdf078520a0d4.jpg,Decay,Biogenic Swamp,1,Bog,5,,,Runa,2,Runa,3,Scumbria,3,Rugged Shovel,1918,
 1919,https://assets.otherside.xyz/otherdeeds/3ca63873b067693bb43aa5f2b10f0e3cc2830f3573714935da3c81d6fc2d913f.jpg,Spirit,Biogenic Swamp,3,Steppes,4,,,,,Psychosilk,2,,,,1919,
 1920,https://assets.otherside.xyz/otherdeeds/b0029561aebfbe36ea377d9acb4dc7cef6daa8aa368208cb52b6065ecde4a4c9.jpg,Psychedelic,Biogenic Swamp,1,Mallow,5,,,Maltosia,2,,,Psychosilk,1,,1920,
 1921,https://assets.otherside.xyz/otherdeeds/1618b19769d949947adef9b1f0f7bb0304e949961b357d0b4d757f88f2eeb995.jpg,Harsh,Biogenic Swamp,3,Bone,1,Runa,3,,,,,Spikeweed,2,,1921,
@@ -1902,6 +1929,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 1999,https://assets.otherside.xyz/otherdeeds/3a29785308040fe60d9f2bc5dde3f00755753e1ba72078f930990219ae16467c.jpg,Spirit,Biogenic Swamp,1,Sands,1,,,Moldium,2,,,Coralia,1,,1999,
 2000,https://assets.otherside.xyz/otherdeeds/c3020f67b165c9d9190f5acc213cc8a97539cdb12af6115b237798c4f7361e83.jpg,Harsh,Biogenic Swamp,1,Wastes,1,Spikeweed,3,,,,,Whisper,1,,2000,
 2001,https://assets.otherside.xyz/otherdeeds/2a4b49ed7a3f64ea1637535b9eced954fc66c8605e6bbdfe001f6b2cd7ca3387.jpg,Harsh,Biogenic Swamp,3,Bone,1,,,,,,,,,,2001,
+2002,https://assets.otherside.xyz/otherdeeds/2c0dca032cbba81fb82c230d339085d1dad77076bfda61b96349e4dca80b1e4d.jpg,Spirit,Biogenic Swamp,2,Sands,4,Kinsoul,2,Brineslime,1,,,,,,2002,
 2003,https://assets.otherside.xyz/otherdeeds/6327d15cb967ba5536e6ea1c8b6d66facac176af87bb6125cc0619ea007bb6da.jpg,Harsh,Biogenic Swamp,1,Bone,1,,,Runa,3,Runa,2,Petrified,1,,2003,
 2004,https://assets.otherside.xyz/otherdeeds/6101bd53dcb1da747e1279aa701a98d2047052e6e9edbb10b7436d370ec04a41.jpg,Mineral,Biogenic Swamp,1,Biolume,1,,,Whisper,3,,,Fortuna,2,,2004,
 2005,https://assets.otherside.xyz/otherdeeds/383c12ea10447b04783bd113fed3ac786ad7faf2262695ce2aee9cb4b87f5978.jpg,Harsh,Biogenic Swamp,1,Glacia,1,,,Moldium,3,Petrified,1,,,,2005,
@@ -1983,6 +2011,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 2085,https://assets.otherside.xyz/otherdeeds/556c17aa2cb2c48a53e9dfff6bc33bef9c427482274fbe12841aad9e9bb71a5c.jpg,Psychedelic,Biogenic Swamp,1,Sludge,4,Bonestone,1,,,,,,,,2085,
 2086,https://assets.otherside.xyz/otherdeeds/2f5140e687a735e4e1c993fe5897b13c6c5aa438fe2cb78b38007ac0c957e0e5.jpg,Spirit,Biogenic Swamp,2,Veldan,2,,,,,,,Luster,3,Unknown Map,2086,
 2088,https://assets.otherside.xyz/otherdeeds/1b17d2aa82c9c5c8c4a5cef446d38aebb04fa5299114d35800b07ec9636ada97.jpg,Decay,Biogenic Swamp,1,Ruins,1,Lumileaf,1,Brimstone,1,Runa,1,Lunarian,1,,2088,
+2089,https://assets.otherside.xyz/otherdeeds/2d40fe272fe9b91a93fa1365fe56a21fbbc84f2ddc9c313f5a7f2ba9a2b30bf8.jpg,Decay,Biogenic Swamp,1,Bog,2,Oblivion,1,Oblivion,3,Runa,2,Runa,1,,2089,
 2090,https://assets.otherside.xyz/otherdeeds/7ca5db3d0ffcdc6fdae4a551bed231dd89c9ba07098b53374722f7e3d53a31e0.jpg,Harsh,Biogenic Swamp,1,Bone,2,Oblivion,1,Runa,3,Brimstone,2,,,Rugged Axe,2090,
 2091,https://assets.otherside.xyz/otherdeeds/dcdc3ec971e8237f827116c43cd46de16ba66c1194f2f7a0d863a0dc14c8867f.jpg,Mineral,Biogenic Swamp,1,Biolume,4,Petrified,1,Nether,2,Petrified,2,,,,2091,
 2092,https://assets.otherside.xyz/otherdeeds/deed04953bc82f8e4ff62e3e949b12adcd8990b99164c2597b153cf7049a9228.jpg,Psychedelic,Biogenic Swamp,1,Acid,5,Dimensional,2,,,,,,,,2092,
@@ -2028,6 +2057,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 2134,https://assets.otherside.xyz/otherdeeds/2a84567c224d381369f498dd53bfd372086daadcb0e677aedc9d8f07429f1657.jpg,Volcanic,Biogenic Swamp,1,Molten,3,,,,,Lumileaf,1,Lunarian,1,,2134,
 2135,https://assets.otherside.xyz/otherdeeds/d95cd0e25cd5a3526277b043b7834c85a3513f17dfeb1711bf819495da19745f.jpg,Harsh,Biogenic Swamp,2,Glacia,3,Petrified,3,Runa,1,Lunarian,3,,,,2135,
 2136,https://assets.otherside.xyz/otherdeeds/44a4c2c24f70e7fe04d9caaac7512c1d7ae7e028e27a652bf2bc3bc4352ce36e.jpg,Decay,Biogenic Swamp,2,Bog,1,Whisper,1,Runa,1,,,Whisper,3,,2136,
+2137,https://assets.otherside.xyz/otherdeeds/bbafa6a6ab4e3fcb31ab939b61ccb29662d31186971262eb9a3778d33ae1b939.jpg,Harsh,Biogenic Swamp,1,Splinter,2,,,,,,,Moldium,1,,2137,
 2138,https://assets.otherside.xyz/otherdeeds/49686bb51f36f8bb2cc12f7f64023adcb4e45a92cc585c21740a69bf04ab3474.jpg,Spirit,Biogenic Swamp,1,Steppes,1,Degradia,1,Whisper,3,Whisper,3,Lunarian,2,,2138,6499
 2139,https://assets.otherside.xyz/otherdeeds/7f8114c18bfd40c83095bd08e7b2a825fdac65ef87b63690ed84512c17979b3d.jpg,Decay,Biogenic Swamp,1,Bog,4,,,Bonestone,1,,,,,,2139,8752
 2140,https://assets.otherside.xyz/otherdeeds/953491cf1ebab2a8aeb3ed0636aa1d9c4b832564a902e8f0350b169a381e9e97.jpg,Growth,Biogenic Swamp,3,Botanical,3,,,Spikeweed,1,,,,,,2140,
@@ -2059,6 +2089,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 2166,https://assets.otherside.xyz/otherdeeds/d7816178e0a960457f4369a0b378c2cefae46c45f3b09af369183f567106c4fc.jpg,Decay,Biogenic Swamp,1,Thornwood,3,,,,,,,,,,2166,6350
 2167,https://assets.otherside.xyz/otherdeeds/4f21fdd2d49ed6b8285fe5d341219d26fdb72ca03b49fcbaa356fffb7b15e3ca.jpg,Volcanic,Biogenic Swamp,1,Crimson,2,,,Spikeweed,1,,,,,,2167,
 2168,https://assets.otherside.xyz/otherdeeds/9eb6f4734e25494a834acca5120744c7aec7987b1fe3ef56e96773584c9c81e6.jpg,Mineral,Biogenic Swamp,3,Spires,4,Lumileaf,3,Lunarian,2,,,Nether,2,,2168,
+2169,https://assets.otherside.xyz/otherdeeds/d605b5d32db79f1f7f680b226d588df4800cd3cb5c58b40e371e8097c66a01f6.jpg,Harsh,Biogenic Swamp,2,Splinter,3,,,,,,,,,,2169,
 2170,https://assets.otherside.xyz/otherdeeds/6b864c721a5340db2e5e7b92ec8d24a7c4a6f6ce0d3082c1b623095d1b827c51.jpg,Mineral,Biogenic Swamp,1,Crystal,2,Bonestone,2,,,,,Lunarian,1,,2170,
 2171,https://assets.otherside.xyz/otherdeeds/ea7e2da22bb54c03c6aceb5e13371bf43a574ca89725d19052ca98337d4805ea.jpg,Mineral,Biogenic Swamp,3,Biolume,4,Fortuna,3,Brimstone,2,Kinsoul,2,Tantalite,3,,2171,
 2172,https://assets.otherside.xyz/otherdeeds/4df35ab25e1967c082209df9079b450fe3a21c489fd384b99e8cebc7d6617542.jpg,Growth,Biogenic Swamp,1,Mystic,1,,,Brimstone,1,Moldium,1,Oblivion,3,,2172,67
@@ -2076,6 +2107,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 2185,https://assets.otherside.xyz/otherdeeds/1e3fea7f3517a375371ea4516ec277c481e59872d812d56f2956c3f029c2e444.jpg,Decay,Biogenic Swamp,1,Thornwood,3,,,,,Nocturna,1,,,,2185,2857
 2186,https://assets.otherside.xyz/otherdeeds/e737bac20a3792f2cf08d9d974838c51ea7fe30bd1824e6c31edf88b0053164e.jpg,Spirit,Biogenic Swamp,3,Veldan,2,,,Luster,1,,,,,,2186,
 2187,https://assets.otherside.xyz/otherdeeds/9951786ce49bf936120cbf6d8e4f84e401941e50aa5c2b3bbf70e700aa072fa0.jpg,Growth,Biogenic Swamp,1,Mystic,5,,,,,Moldium,2,,,,2187,
+2188,https://assets.otherside.xyz/otherdeeds/8293388b63020567b15b42fbd0b22ef6f395f4ca8401539c3f8be363e3cdc50c.jpg,Growth,Biogenic Swamp,1,Mystic,4,,,Bonestone,2,,,,,Rugged Shovel,2188,
 2189,https://assets.otherside.xyz/otherdeeds/939a34d2e6be7c9a349861d5c84e310cf3b365aff83a2f7a5c44cd8bc804e5e3.jpg,Mineral,Biogenic Swamp,1,Luster,1,Lunarian,2,,,,,,,,2189,
 2190,https://assets.otherside.xyz/otherdeeds/2faa2f3f964dc3ca2005f0167bf494598e5d87e93f340f112617042124cb8515.jpg,Spirit,Biogenic Swamp,1,Sands,5,Spikeweed,1,Nether,2,Psychosilk,1,Lumileaf,1,,2190,
 2191,https://assets.otherside.xyz/otherdeeds/28cdcc0650dd6088d8cc4cc477d5b40bc53f4496e502b537921c4b1c3918ebc1.jpg,Spirit,Biogenic Swamp,1,Veldan,2,Lumileaf,3,,,Oblivion,1,Kinsoul,1,,2191,
@@ -2424,6 +2456,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 2558,https://assets.otherside.xyz/otherdeeds/ae3f725d1489ddc89e73201d3546b7d198affd1fefe305670b63f4504e639820.jpg,Harsh,Biogenic Swamp,2,Splinter,1,Psychosilk,2,Petrified,2,Runa,1,Whisper,2,,2558,
 2559,https://assets.otherside.xyz/otherdeeds/4e6d3cd474d3855433da8f84582beea126419b518b66fbd4d152e5491deb1ad1.jpg,Spirit,Biogenic Swamp,2,Veldan,4,Luster,2,,,,,,,Forged Axe,2559,
 2561,https://assets.otherside.xyz/otherdeeds/17bfbd61dffba0431bc018823cd60aace38b2fbb9194ee1e5a44a2b035a75575.jpg,Decay,Biogenic Swamp,1,Plague,2,Spikeweed,3,Whisper,3,Oblivion,2,,,,2561,
+2562,https://assets.otherside.xyz/otherdeeds/a4a5ca45faf7a3ac556341609519237186a7529358996b67f2d52231ee4c17ce.jpg,Growth,Biogenic Swamp,3,Mystic,4,Runa,1,Oblivion,3,Nether,1,Oblivion,1,,2562,
 2563,https://assets.otherside.xyz/otherdeeds/5c292c42ce1caa9163dc11df3171cf3a721b8e1ccb0ee7f13aa84510f1a67823.jpg,Decay,Biogenic Swamp,3,Plague,3,,,Bonestone,2,Whisper,2,Psychosilk,2,,2563,
 2564,https://assets.otherside.xyz/otherdeeds/06208d6882573e40dede66905569951e1d5a791e1ad140f1e006423f44210b6f.jpg,Psychedelic,Biogenic Swamp,3,Shadow,5,,,,,Lunarian,3,Whisper,1,,2564,
 2565,https://assets.otherside.xyz/otherdeeds/019eabe25315bb079bd5926e2e8601e21a73fee48018df778d3b8d17fe91c37f.jpg,Growth,Biogenic Swamp,1,Mycelium,4,,,Runa,3,Oblivion,2,,,,2565,
@@ -2516,6 +2549,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 2661,https://assets.otherside.xyz/otherdeeds/5def08c2ad9d28991857556a78f6d3accb01972346278a89ab2d33fccf2583b8.jpg,Psychedelic,Biogenic Swamp,3,Mallow,1,Lunarian,3,Lunarian,3,,,Mallo,2,,2661,
 2662,https://assets.otherside.xyz/otherdeeds/fb356a21a0e64941187f155fd5ccc1c929c76171c9978e13c207bc5db1b64f71.jpg,Decay,Biogenic Swamp,2,Ruins,2,Moldium,1,Runa,2,Nether,1,Oblivion,1,,2662,
 2663,https://assets.otherside.xyz/otherdeeds/d0ad4d9bed4df3863d1957395dc70b7a80025ad26c496f4fe00e19c868d5c528.jpg,Mineral,Biogenic Swamp,1,Luster,3,Lunarian,2,,,,,Whisper,3,,2663,
+2664,https://assets.otherside.xyz/otherdeeds/0b2f72622de2432cbbbd0a07772f869141a392e5fc9cc1a82170cb5ed88d84df.jpg,Decay,Biogenic Swamp,1,Bog,1,,,Spikeweed,1,,,Lunarian,3,,2664,
 2665,https://assets.otherside.xyz/otherdeeds/36d9536141402368febc8b1fe953d71827dd1ab5805a66f328518283be1b645b.jpg,Spirit,Biogenic Swamp,1,Veldan,4,Luster,1,Spikeweed,1,Scholara,2,,,Sooper Box,2665,
 2666,https://assets.otherside.xyz/otherdeeds/17e7dc4449ab24726ccc5a98dfc90ef0c6c995782f4b3bc138d192b82d2df487.jpg,Decay,Biogenic Swamp,2,Plague,1,,,,,,,,,,2666,
 2667,https://assets.otherside.xyz/otherdeeds/b4c610afb5da5bdffd35a04369c3c9affbffd6f2eaca17d53f9740711241a6c3.jpg,Psychedelic,Biogenic Swamp,1,Mallow,3,Whisper,2,,,,,Petrified,2,,2667,
@@ -2671,6 +2705,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 2842,https://assets.otherside.xyz/otherdeeds/174abd94adc274830ccd70e62f07963954c3647dc055156d79bb0ab8952e524a.jpg,Volcanic,Biogenic Swamp,1,Crimson,4,Brimstone,3,Petrified,3,,,Entropy,1,,2842,
 2843,https://assets.otherside.xyz/otherdeeds/5ca26a06acc3791504f92390e6872c45731e35acfa1d9b96acdacf256c0eb4ea.jpg,Harsh,Biogenic Swamp,3,Splinter,1,Whisper,3,,,,,,,,2843,
 2844,https://assets.otherside.xyz/otherdeeds/bf240edab7288e38cdd2b9fd5a143aec29321b3673d5c64b048e62ced5abbf6f.jpg,Harsh,Biogenic Swamp,2,Splinter,1,,,Runa,2,Oblivion,1,Whisper,2,,2844,
+2845,https://assets.otherside.xyz/otherdeeds/df0f691548fa1f579f9583d742896ab05cedc6fdce5a8b291488a25d85435bb2.jpg,Harsh,Biogenic Swamp,3,Wastes,4,Runa,2,,,Luster,1,,,,2845,
 2846,https://assets.otherside.xyz/otherdeeds/288ca2b819662b3b31c436b5fd48d884b910f39bf680f734c272339008e41806.jpg,Spirit,Biogenic Swamp,2,Steppes,4,,,Whisper,2,,,Psychosilk,3,,2846,
 2847,https://assets.otherside.xyz/otherdeeds/267645b7924fa2de77ce8a05f1243e94f8d5c977701c386d395458447e694f4b.jpg,Decay,Biogenic Swamp,3,Ruins,1,,,Psychosilk,2,Whisper,2,,,,2847,
 2848,https://assets.otherside.xyz/otherdeeds/0e5ca8c2a701ac7f756481b1b6a80205ad7919f06d5a0319c064b54f92fa50ce.jpg,Psychedelic,Biogenic Swamp,3,Acid,2,Lunarian,2,Lunarian,3,Petrified,3,Lumileaf,2,,2848,
@@ -2790,6 +2825,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 2964,https://assets.otherside.xyz/otherdeeds/3a336a8b0a351f520a34e0024871a7247b0fa1891e22aca48509562cd6b5bcf8.jpg,Growth,Biogenic Swamp,1,Mycelium,3,Whisper,3,,,Lunarian,3,,,,2964,2371
 2965,https://assets.otherside.xyz/otherdeeds/fdd892beaefff15a3b0d56ece674736fe70ec0e615211cad59a393938dab76a5.jpg,Psychedelic,Biogenic Swamp,1,Mallow,1,Lumileaf,3,Psychosilk,2,Spikeweed,2,,,,2965,
 2966,https://assets.otherside.xyz/otherdeeds/6a4885b6ee05206a630504def95a7c29891ada4d22e04af990614182dd4df0f2.jpg,Mineral,Biogenic Swamp,2,Spires,2,,,,,,,,,,2966,4766
+2967,https://assets.otherside.xyz/otherdeeds/be8e95e9b11e5f0e0aeff8a769b5b4f7a6a76c7732c4878f65c8aec9a72abf27.jpg,Harsh,Biogenic Swamp,3,Splinter,5,,,,,Bonestone,1,Petrified,3,Rugged Axe,2967,
 2968,https://assets.otherside.xyz/otherdeeds/e97ac24ff05b1182269e5ec8fd4a9fec31d0b8c8cd8443d40beacf90a01f50ab.jpg,Spirit,Biogenic Swamp,1,Veldan,2,,,,,,,Geopillar,2,,2968,
 2969,https://assets.otherside.xyz/otherdeeds/89e7c5b667f63e0e9f115b8b309a51b4d5f4c3bc506b7708967d969c42ae7aa7.jpg,Spirit,Biogenic Swamp,3,Sky,1,,,,,Oblivion,3,,,Celestial Orb,2969,
 2970,https://assets.otherside.xyz/otherdeeds/d1582e6ef0196d45fd6b4b190877859d892150ccb33523006b0129c5c916605d.jpg,Growth,Biogenic Swamp,1,Mycelium,5,Bonestone,2,Psychosilk,3,,,Entradium,3,,2970,
@@ -2915,6 +2951,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 3093,https://assets.otherside.xyz/otherdeeds/a959a36e1db8b24844f68b4670f0738bbc0f7c2d3c34a921524cbe419bc6361a.jpg,Volcanic,Biogenic Swamp,1,Sulfuric,5,,,Kinsoul,2,Psychosilk,3,,,Celestial Tear,3093,
 3094,https://assets.otherside.xyz/otherdeeds/a0d743becfb5e70fbb8be32af883b3be90f36549ab4e3ed88b76bcbb8f4942bf.jpg,Harsh,Biogenic Swamp,2,Glacia,4,Slushia,1,Lunarian,2,Lumileaf,3,Whisper,3,,3094,
 3095,https://assets.otherside.xyz/otherdeeds/fe3c45b939350a75a83edbf1d80c32e2c7669904c661446a218150b4235d5d81.jpg,Chaos,Biogenic Swamp,3,Chaos,5,Void,3,Entropy,2,Degradia,2,Entropy,2,,3095,
+3096,https://assets.otherside.xyz/otherdeeds/a83fd4dc6bdfdb82536d1df333e288e310c056ed40435bc1439cc18b83eaab73.jpg,Decay,Biogenic Swamp,3,Bog,4,,,Runa,2,,,,,,3096,
 3097,https://assets.otherside.xyz/otherdeeds/0ada15dd9242374d0b62438387f47efef48be03f2d708ae7eeb36b21d347017f.jpg,Psychedelic,Biogenic Swamp,3,Sludge,2,,,Psychosilk,1,,,,,,3097,
 3098,https://assets.otherside.xyz/otherdeeds/de606c03ea140d24f7fad1049f990f0d2390e9ecfdadabe49ad93e0f7b7c3d98.jpg,Harsh,Biogenic Swamp,1,Wastes,2,,,Petrified,3,,,Oblivion,1,,3098,
 3099,https://assets.otherside.xyz/otherdeeds/2b3ce8a5a1d98a190c3a5532bee61018faff1c096b0fb6d9fec87e68f01c5dcc.jpg,Harsh,Biogenic Swamp,1,Glacia,3,,,,,,,Spikeweed,3,,3099,
@@ -3025,6 +3062,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 3209,https://assets.otherside.xyz/otherdeeds/055f2b96ea93deea9ed8f97c2b4da7d22d17d8e518742aec2e5e7338fb18a2cf.jpg,Growth,Biogenic Swamp,1,Mystic,3,,,Nether,3,Luster,2,,,,3209,
 3210,https://assets.otherside.xyz/otherdeeds/5bce8cd78f867d93aadd9d386d336ecaa02666ce3454e0a99b772cccdf5e3ae5.jpg,Spirit,Biogenic Swamp,2,Steppes,1,,,,,,,Kinsoul,1,,3210,
 3211,https://assets.otherside.xyz/otherdeeds/cb80598754d06185880e8375c86ca39e8fce0f5310ed01e2f29e5206864236fa.jpg,Decay,Biogenic Swamp,1,Bog,1,,,Whisper,2,Nether,3,,,,3211,
+3212,https://assets.otherside.xyz/otherdeeds/5c7f04b1239aedbb8cf2b4bc04e91a6912c2d5839e1892daddd2748561b6cbb5.jpg,Psychedelic,Biogenic Swamp,1,Mallow,4,Brimstone,3,Petrified,3,,,,,,3212,
 3213,https://assets.otherside.xyz/otherdeeds/5f7944d2948af4e1dd94d9874c0815c1fc102f4b914fd3948d0d551143d2947a.jpg,Spirit,Biogenic Swamp,3,Sands,2,,,Runa,3,,,,,,3213,
 3214,https://assets.otherside.xyz/otherdeeds/f6a5662d69b4050dddcecc7eac30fdd31ce46f8652944a12a45e6c892c8c8a3d.jpg,Mineral,Biogenic Swamp,3,Biolume,1,Fortuna,1,Brimstone,3,Oblivion,1,Nether,1,,3214,
 3215,https://assets.otherside.xyz/otherdeeds/e10785c3a15e0241c2595b48c181ef2fd6c464934d8c3e9b56e8ac2cbe8f174a.jpg,Volcanic,Biogenic Swamp,2,Crimson,1,,,Nether,2,Psychosilk,1,,,,3215,
@@ -3080,6 +3118,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 3266,https://assets.otherside.xyz/otherdeeds/94fee0552cf7be5eb89ba0c507cce3aa6721616a3382a0b7b3f4d54e96acec0d.jpg,Volcanic,Biogenic Swamp,3,Molten,3,,,,,,,,,,3266,
 3267,https://assets.otherside.xyz/otherdeeds/031b751f2aec0d876ef4e30fc3e3ae49d7ea8e06f03578ef33578054fec8e689.jpg,Volcanic,Biogenic Swamp,3,Sulfuric,1,Kinsoul,2,,,Nether,3,Psychosilk,3,,3267,
 3268,https://assets.otherside.xyz/otherdeeds/25277903c2ee664d4ad927be28b4fc042ba68e03ba1dd71af71bff15476e7acd.jpg,Growth,Biogenic Swamp,1,Mycelium,1,,,,,Runa,1,,,Fire Sale Scroll,3268,
+3269,https://assets.otherside.xyz/otherdeeds/e2c1f2d05602686a04c583b0308dc5f0b5a1a99875fa8ba592a804137d4fc2e0.jpg,Growth,Biogenic Swamp,1,Mycelium,1,,,Petrified,1,Runa,1,Lunarian,1,,3269,
 3270,https://assets.otherside.xyz/otherdeeds/d16c25e3933aff5982527763f20d50e2799a08fe61b850b156bb09f50329bd7d.jpg,Mineral,Biogenic Swamp,1,Biolume,1,,,,,,,,,Camp Fire,3270,
 3271,https://assets.otherside.xyz/otherdeeds/e3d2d1aafde887d0aed64bc894b1d1df91b9e725a422d369e25f433dab37b8d7.jpg,Spirit,Biogenic Swamp,1,Sands,2,Bonestone,1,,,Oblivion,3,,,,3271,
 3272,https://assets.otherside.xyz/otherdeeds/5ee2274f1e87236964adbd16493d0bdc024450972ef1b6da2c0e529cca09c2f0.jpg,Mineral,Biogenic Swamp,1,Biolume,2,Lumileaf,1,Runa,1,,,Oblivion,1,,3272,
@@ -3257,6 +3296,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 3453,https://assets.otherside.xyz/otherdeeds/4412db104bbb36b08c66c59cd7a1c327b734acc78f168b47f014acc7376a21d4.jpg,Volcanic,Biogenic Swamp,3,Sulfuric,4,,,,,,,,,,3453,
 3454,https://assets.otherside.xyz/otherdeeds/4d87560e043e5d46888b89cc846dd6916fa5b7656e6f17971d64c2a927b873e1.jpg,Mineral,Biogenic Swamp,1,Biolume,1,,,,,Lumileaf,3,Luster,2,,3454,3187
 3455,https://assets.otherside.xyz/otherdeeds/b6df719cbeb9331de64305baab85bb21e9e5cfbda66a90903a1b875013869aba.jpg,Harsh,Biogenic Swamp,1,Glacia,1,Oblivion,1,Lumileaf,3,Slushia,2,,,Blue Orb,3455,
+3456,https://assets.otherside.xyz/otherdeeds/2c9954e7372b0a49f06ad30eb7c681b540db991271b67bcf0dce9c5185961336.jpg,Spirit,Biogenic Swamp,3,Sands,1,,,,,Luster,3,Psychosilk,3,,3456,
 3457,https://assets.otherside.xyz/otherdeeds/52b1840173b0289b1008d8c74377852d4fb9da8dd04b0c09f9fdd01154ef1c60.jpg,Decay,Biogenic Swamp,3,Plague,2,,,Moldium,2,Rotworth,1,Bonestone,1,Celestial Heart,3457,
 3458,https://assets.otherside.xyz/otherdeeds/1d3ca6f31a88e400ad0ba49e5aaa60a6d6c8ac41491bc71b4eb7e077eafcf597.jpg,Harsh,Biogenic Swamp,2,Glacia,3,Oblivion,3,Lunarian,3,Nether,3,Shatterfrost,1,,3458,
 3459,https://assets.otherside.xyz/otherdeeds/53e123644c49e9e733b4519e263871b1c1c2b0f8c589e43c229b425f06fcab07.jpg,Mineral,Biogenic Swamp,3,Luster,2,Brimstone,2,,,,,,,,3459,
@@ -3401,6 +3441,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 3607,https://assets.otherside.xyz/otherdeeds/e23698a1e37a27b8c08d3ed2e7cd1a77c720d4a1fcbc41b98395d90c7b7d150c.jpg,Growth,Biogenic Swamp,3,Mystic,2,Psychosilk,1,Spikeweed,2,Petrified,2,Nether,1,,3607,
 3608,https://assets.otherside.xyz/otherdeeds/af6dcb183e8f9c505fb7883fd72a6a05b8fb911ddc0fe703449a731f2e547d68.jpg,Spirit,Biogenic Swamp,1,Steppes,2,,,Whisper,3,,,,,,3608,
 3609,https://assets.otherside.xyz/otherdeeds/f34a9d64ed13a2e5f177b4b0444488865e1da995ba1ab0252c1f55add1fad109.jpg,Growth,Biogenic Swamp,1,Jungle,4,,,Lunarian,1,,,Magentia,1,,3609,
+3610,https://assets.otherside.xyz/otherdeeds/bab1113828c8fa15856c203a5a6c308490d6a91ff30ef035980ab0cb7e5fcd7d.jpg,Harsh,Biogenic Swamp,1,Glacia,2,,,Slushia,2,,,Brimstone,2,,3610,
 3611,https://assets.otherside.xyz/otherdeeds/3b94f23af6d3903eedf61b347c505f7e8e44855cb4c1917876ec641949d468b7.jpg,Harsh,Biogenic Swamp,1,Glacia,4,,,,,,,Whisper,3,,3611,
 3612,https://assets.otherside.xyz/otherdeeds/11a7bab31f35277228a1e10040550ef1bed51de315950de17e4429c6ec4f3717.jpg,Mineral,Biogenic Swamp,2,Biolume,5,Whisper,3,Brimstone,2,Psychosilk,2,,,,3612,
 3613,https://assets.otherside.xyz/otherdeeds/283a2ca16c43ca202f2414e04a3123126e0394ce415deb7fbb8ae772c6eea665.jpg,Mineral,Biogenic Swamp,2,Crystal,3,,,,,,,Brimstone,1,,3613,
@@ -3425,6 +3466,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 3632,https://assets.otherside.xyz/otherdeeds/4d49726389d13b942c7edd2eb513456761eda340a01ca3a0b60b57b6c894c887.jpg,Volcanic,Biogenic Swamp,3,Sulfuric,4,Kinsoul,1,,,Luster,3,Runa,2,,3632,
 3633,https://assets.otherside.xyz/otherdeeds/0516e91f6f3127e1014eb99ca644df19c1abc599627b8f15bb6de2f44fc02ddf.jpg,Growth,Biogenic Swamp,1,Mystic,2,Bonestone,1,Moldium,2,,,,,,3633,
 3634,https://assets.otherside.xyz/otherdeeds/14e086166079611c7176a097b5e46a211a5ea3ff6b4d4248782a1e4a3a3e1007.jpg,Harsh,Biogenic Swamp,1,Splinter,1,,,Whisper,3,,,Psychosilk,2,,3634,
+3635,https://assets.otherside.xyz/otherdeeds/f1817cd20a202ffab4a02948d23631785ea6be1f7aff3d055265250ce3df418f.jpg,Harsh,Biogenic Swamp,3,Bone,2,,,Moldium,1,Bonestone,3,Whisper,1,Glass Eye,3635,
 3636,https://assets.otherside.xyz/otherdeeds/7652eb4d0369548a567c68757bb8d99e2099c14d245e9c40f8ade624e417f76e.jpg,Decay,Biogenic Swamp,1,Plague,1,Whisper,1,Luster,1,Petrified,1,Rotworth,1,Rugged Pickaxe,3636,
 3637,https://assets.otherside.xyz/otherdeeds/f52c90238139198ce0e5b063368a9d933e4b593c97521407e94299e2c1d22c5a.jpg,Mineral,Biogenic Swamp,2,Spires,1,,,Luster,1,,,Bonestone,3,Forged Axe,3637,
 3638,https://assets.otherside.xyz/otherdeeds/4465f143a99788fb6405382bb6e5464c2a6bdfc2e793aa2c6ea3449960d3d5ea.jpg,Harsh,Biogenic Swamp,2,Glacia,1,Psychosilk,2,Nether,3,Kinsoul,3,Lumileaf,3,,3638,
@@ -3454,6 +3496,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 3662,https://assets.otherside.xyz/otherdeeds/10f50d763b50f25a357ae203a557f24278ab4f2d9ca77dec33cada303ce1e2b9.jpg,Decay,Biogenic Swamp,1,Bog,1,,,Nether,2,,,,,,3662,
 3663,https://assets.otherside.xyz/otherdeeds/d7ee776ab9d6de3a535b55352a73ff718bf17913e2437ede570aedd60010caee.jpg,Volcanic,Biogenic Swamp,1,Sulfuric,1,,,,,Kinsoul,2,,,,3663,
 3664,https://assets.otherside.xyz/otherdeeds/d5b90eb55e75f3a3c55069866d8675238b7ebb0fbadb43ceee4e97f71ed16db5.jpg,Mineral,Biogenic Swamp,1,Spires,3,,,,,,,Psychosilk,3,,3664,
+3665,https://assets.otherside.xyz/otherdeeds/4ba05374bccae9b5021ec0ee3fbae53014550975de174392713bda39cd9bc713.jpg,Volcanic,Biogenic Swamp,1,Obsidian,4,,,,,,,Whisper,1,,3665,
 3666,https://assets.otherside.xyz/otherdeeds/03cefcb83871f1d5963147404f1c9be9a8e766a7c340744265658c17eba23a1d.jpg,Volcanic,Biogenic Swamp,3,Molten,4,,,Lumileaf,1,,,,,,3666,
 3668,https://assets.otherside.xyz/otherdeeds/2369b585af4a865a549e63efa575072dc3a91ab1053b9a75af409aac8d3c8b97.jpg,Mineral,Biogenic Swamp,1,Luster,3,,,Psychosilk,1,,,,,,3668,
 3669,https://assets.otherside.xyz/otherdeeds/02c03e26130095a581005e72f59f8d41fb395973a201147d9ef33160b1dc7883.jpg,Volcanic,Biogenic Swamp,2,Molten,2,Runa,1,,,Luster,2,,,,3669,
@@ -3477,6 +3520,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 3688,https://assets.otherside.xyz/otherdeeds/7babea9d06458e71d44531cb0a7d6423079634f5f5f6e3e3b47a4db8e6d15818.jpg,Volcanic,Biogenic Swamp,1,Crimson,4,Brimstone,1,,,Nether,1,,,,3688,
 3689,https://assets.otherside.xyz/otherdeeds/ec7087ebd0529b568feb8815cdaa4d83a990382c364f3c0909e1267e072753a6.jpg,Psychedelic,Biogenic Swamp,2,Mallow,1,,,Bonestone,2,Mallo,2,,,Celestial Heart,3689,3114
 3690,https://assets.otherside.xyz/otherdeeds/130ab4b33b8b808e58b4a5081b231be1f421fad54ad2744cdae40d73c57e9fbd.jpg,Psychedelic,Biogenic Swamp,2,Shadow,2,Spikeweed,3,,,Luster,1,Moldium,3,,3690,
+3691,https://assets.otherside.xyz/otherdeeds/ce4def42099468fe578fc2d0ec5c50c73a1bd93844cdc927d265b843d875cb2a.jpg,Mineral,Biogenic Swamp,1,Spires,1,Moldium,2,Nether,3,,,,,Mia,3691,
 3692,https://assets.otherside.xyz/otherdeeds/0c251de3488eeac5a9b03799e1c581d216da15cdab795ae0d4e12e52ed6d0d64.jpg,Volcanic,Biogenic Swamp,2,Molten,2,,,Spikeweed,2,Bonestone,1,,,,3692,
 3693,https://assets.otherside.xyz/otherdeeds/238c3074df84f23709610820372b16918fd882f118525b7f764a6ef9337b004a.jpg,Spirit,Biogenic Swamp,2,Sky,2,Petrified,1,Oblivion,1,,,,,,3693,
 3694,https://assets.otherside.xyz/otherdeeds/779d8f381e4a8e1977b40f7cb6aa9b914d999ae36603e25efaf70630ee2b090d.jpg,Volcanic,Biogenic Swamp,1,Obsidian,2,Bonestone,2,Onyx,3,,,,,,3694,
@@ -3484,6 +3528,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 3696,https://assets.otherside.xyz/otherdeeds/a8243461144d26661b00fc87e9c70fde8636188f54796f44050829297b537eef.jpg,Mineral,Biogenic Swamp,1,Spires,3,Kinsoul,3,,,,,Runa,2,,3696,
 3697,https://assets.otherside.xyz/otherdeeds/cb3d3dce3d34a78d6e58a451a625c49c3e2d7b93039b564e1974b6aab9f0c9cb.jpg,Harsh,Biogenic Swamp,3,Wastes,3,,,Lunarian,3,Lunarian,3,Psychosilk,2,,3697,
 3698,https://assets.otherside.xyz/otherdeeds/b6a366041aa9d3016d6eea53fa9a65316e1396e0f4eb6525b16794182caf77a5.jpg,Spirit,Biogenic Swamp,3,Steppes,4,,,,,,,,,,3698,
+3699,https://assets.otherside.xyz/otherdeeds/20f41a83b6b4f6736c0bfd7dc37b9e2e9547afa2298cb09b96a482fdf63feaa6.jpg,Harsh,Biogenic Swamp,2,Bone,5,Oblivion,1,,,Runa,1,,,,3699,
 3700,https://assets.otherside.xyz/otherdeeds/3b92840ea3650025fb6dd8430dda66956f34303522d690b4b88fd08a7f3bd0ae.jpg,Mineral,Biogenic Swamp,1,Crystal,1,,,,,Moldium,2,,,,3700,
 3701,https://assets.otherside.xyz/otherdeeds/8d0193d80e3f7120370e14e98c3c29e0b563dca6e22ced5b466bde1a56af894b.jpg,Harsh,Biogenic Swamp,2,Glacia,4,Luster,1,,,Psychosilk,2,,,Card from a Deck,3701,
 3702,https://assets.otherside.xyz/otherdeeds/699651d9ca7e501b661b585b2b704d80f3d9c8c9f4905cc4e8ccbde97378a313.jpg,Spirit,Biogenic Swamp,1,Steppes,5,Luster,2,Luster,2,,,Lumileaf,3,,3702,
@@ -3513,6 +3558,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 3726,https://assets.otherside.xyz/otherdeeds/f3f3f1073c452d51ca36dbd5947b658fc91169108ba0cb80352328badb58c8d4.jpg,Volcanic,Biogenic Swamp,2,Obsidian,1,,,Onyx,2,Spikeweed,2,,,,3726,
 3727,https://assets.otherside.xyz/otherdeeds/54d27eba608ad20151522a64a6783376ced8d32b0e893d50666a96aa828175d6.jpg,Decay,Biogenic Swamp,3,Ruins,3,,,,,,,,,Glass Eye,3727,
 3728,https://assets.otherside.xyz/otherdeeds/579ff766bcf08b6366ca4b31e6e61dd3f4d815dc0b2bb6b6c3b76bb6337ad234.jpg,Volcanic,Biogenic Swamp,3,Crimson,2,,,Kinsoul,3,Lumileaf,1,,,,3728,
+3729,https://assets.otherside.xyz/otherdeeds/880859b06fc540fe2475d340206fefcddaa13cd9b5a0d04f39b8c61f9121599a.jpg,Harsh,Biogenic Swamp,3,Glacia,3,,,,,,,,,,3729,
 3730,https://assets.otherside.xyz/otherdeeds/60b24a91be46ce29232d01db068329db898932e7dac6d3097a1ed0f9ab06528e.jpg,Growth,Biogenic Swamp,1,Jungle,1,Whisper,2,,,,,,,,3730,
 3731,https://assets.otherside.xyz/otherdeeds/4e62e8dd8b43fac299f254cadfa9ba3d75aab24f1f43f6391009ae371c6aa6fd.jpg,Harsh,Biogenic Swamp,2,Glacia,3,Whisper,2,Bonestone,2,Nether,1,,,Whale Statue,3731,
 3732,https://assets.otherside.xyz/otherdeeds/9fa816308d97e93ccea3036cb817a4545845bb84d7396b61b5740006c5b00c35.jpg,Volcanic,Biogenic Swamp,2,Sulfuric,3,,,,,Oblivion,1,,,,3732,
@@ -3596,6 +3642,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 3814,https://assets.otherside.xyz/otherdeeds/365c78b08606a94754a077a44fc5625b642eac9f8cf4ebcbb54171cdc4f7edfc.jpg,Volcanic,Biogenic Swamp,2,Molten,4,,,,,,,Luster,2,,3814,
 3815,https://assets.otherside.xyz/otherdeeds/1c7ba9f96d75be3c396055acbb8a0aed606fdaafa79e7727115ac347137e94a0.jpg,Harsh,Biogenic Swamp,3,Wastes,2,,,,,,,,,,3815,
 3816,https://assets.otherside.xyz/otherdeeds/ec2cdca7c66f633d97db5170b48bb56aaeb91c1afc4f577b7c18feffc7b1a2b6.jpg,Decay,Biogenic Swamp,2,Thornwood,4,,,,,,,,,,3816,2139
+3817,https://assets.otherside.xyz/otherdeeds/59332a3d5b305374221e182fb39c72d6f980c631597d49f33d9553054b6eb54e.jpg,Spirit,Biogenic Swamp,3,Steppes,2,Whisper,1,,,,,Psychosilk,2,,3817,
 3818,https://assets.otherside.xyz/otherdeeds/32e60c8ae3ca92fbac1aedc8967d5c2de86105c6af634a48b4bc874984ac66f3.jpg,Harsh,Biogenic Swamp,3,Bone,5,Runa,2,,,Brimstone,1,Whisper,2,,3818,
 3819,https://assets.otherside.xyz/otherdeeds/17d30011ec66df2585d751cf1b88648be26407a56c4fbfb650d6860bda200df3.jpg,Growth,Biogenic Swamp,1,Mycelium,3,,,Runa,3,Psychosilk,1,,,,3819,
 3820,https://assets.otherside.xyz/otherdeeds/9486ae1835e684f26d9bfa3d6ff1821242f096b490fe1c5f9e02c2ba1a0b21d3.jpg,Harsh,Biogenic Swamp,1,Splinter,4,Nether,2,,,,,,,,3820,
@@ -3751,6 +3798,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 3977,https://assets.otherside.xyz/otherdeeds/1b0da4e72c8d94e7d42a85763aa2ef1e3a2ce0474d1e60ee24f1c88b51fb8659.jpg,Volcanic,Biogenic Swamp,2,Crimson,4,Bonestone,2,,,,,Luster,1,,3977,
 3978,https://assets.otherside.xyz/otherdeeds/d508609fbc253a986251c5c3c4ff25b758c9428ce849262e1a1ab896cd54c8e7.jpg,Harsh,Biogenic Swamp,1,Glacia,5,,,Petrified,3,,,,,,3978,
 3979,https://assets.otherside.xyz/otherdeeds/88cf986b7c27b4de2796d8cfb0f8066064594fc791f8a62ff4ff536999fd1c0a.jpg,Growth,Biogenic Swamp,1,Mystic,1,,,Spiritseep,1,,,Runa,1,,3979,
+3980,https://assets.otherside.xyz/otherdeeds/83db2edd90ab12223dbca34ec3cc944e84081b0b658a9d5b04b12731940246f0.jpg,Decay,Biogenic Swamp,3,Bog,1,,,Mossmoon,1,,,,,Magic Powder,3980,
 3981,https://assets.otherside.xyz/otherdeeds/b7681d5bc706f5028088071740e49ba9cc8e831ee538cc4a2c72c309871b5e72.jpg,Harsh,Biogenic Swamp,1,Bone,2,Psychosilk,1,,,Petrified,2,,,,3981,
 3982,https://assets.otherside.xyz/otherdeeds/a2a30db2498bd2a20267a49e5ae5c459739fc5cd09c49001f6e2c267e2e8855f.jpg,Growth,Biogenic Swamp,1,Mystic,1,Luster,2,Runa,3,Runa,2,Spikeweed,3,,3982,
 3983,https://assets.otherside.xyz/otherdeeds/16ba719e17fd1e4baf15de7403deb23cea13e4ca60816158bc536b1901e3dd64.jpg,Decay,Biogenic Swamp,2,Plague,1,,,Runa,2,Rotworth,3,,,,3983,
@@ -3784,6 +3832,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 4012,https://assets.otherside.xyz/otherdeeds/67980fad692d3c1af56e11050002a9b17d74b2fe70d12c7a85ef2179e5ca6bcd.jpg,Harsh,Biogenic Swamp,1,Wastes,4,Oblivion,1,Brimstone,2,,,,,,4012,
 4013,https://assets.otherside.xyz/otherdeeds/8594681673f648661a551ef901f2ecd113a0b594c3c4817c0105a2a340620345.jpg,Decay,Biogenic Swamp,2,Bog,1,Lunarian,2,Bonestone,1,Kinsoul,3,Mossmoon,1,,4013,
 4014,https://assets.otherside.xyz/otherdeeds/d6e978d50b8ca8a452b9e8871cc8d13945f4c34827cb7290df4ed74b625b4442.jpg,Growth,Biogenic Swamp,1,Jungle,4,,,Bonestone,3,,,,,Sooper Box,4014,
+4015,https://assets.otherside.xyz/otherdeeds/37620e2efb238298a87a1f4de5eaa7d22d6672a6b221631f4343d782f2b1bd89.jpg,Mineral,Biogenic Swamp,1,Spires,1,,,Lunarian,1,Brimstone,1,,,,4015,
 4016,https://assets.otherside.xyz/otherdeeds/d4bab738fe4c78bdbc1ae15865cabe127b928aafa4e6f0e29d0becf863f46ef8.jpg,Growth,Biogenic Swamp,1,Mystic,1,,,Moldium,3,Kinsoul,1,,,Card from a Deck,4016,
 4017,https://assets.otherside.xyz/otherdeeds/0e59d83b88d743a0e18d6d99e7d69f03ef6b13548d296c7607980c3b01b32d98.jpg,Decay,Biogenic Swamp,1,Ruins,3,Luster,3,Chroma,3,,,Kinsoul,1,,4017,
 4018,https://assets.otherside.xyz/otherdeeds/67a49fe86ccd50dc1522bb0a834fec85b15aae188d9e9d5dcc35690217373722.jpg,Harsh,Biogenic Swamp,3,Bone,5,,,Psychosilk,2,Psychosilk,1,Lunarian,1,Rugged Hammer,4018,
@@ -3843,6 +3892,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 4074,https://assets.otherside.xyz/otherdeeds/58735c7da2fb6b7c6fc8d22ea66e3f2f9b46020a1cfca00ac72a2b1efb44674e.jpg,Decay,Biogenic Swamp,3,Bog,2,Nether,1,,,Whisper,1,Petrified,1,,4074,
 4075,https://assets.otherside.xyz/otherdeeds/8d9f17534be52b3a4581d3a2550f243d01a4c4723d250442a36173b289d11831.jpg,Volcanic,Biogenic Swamp,1,Molten,3,Bonestone,1,Lunarian,2,Whisper,2,,,,4075,
 4076,https://assets.otherside.xyz/otherdeeds/c057e3d764f56cccd99843332d4d105dfdd116730d12314a0c64f10307cf76b7.jpg,Harsh,Biogenic Swamp,1,Glacia,4,,,,,Psychosilk,3,Kinsoul,2,,4076,
+4079,https://assets.otherside.xyz/otherdeeds/a462b23c0887aca3659a94cfb6b8121b56a31a1a1e90290f51490c37b6ce3f97.jpg,Psychedelic,Biogenic Swamp,2,Shadow,1,,,,,Oblivion,3,,,,4079,
 4080,https://assets.otherside.xyz/otherdeeds/589e44271386a98e14702be752ac32a41ccccc32d363156760e3d9ece8cf20a7.jpg,Mineral,Biogenic Swamp,1,Crystal,1,Luminite,1,,,,,Petrified,2,Ancient Coin,4080,
 4081,https://assets.otherside.xyz/otherdeeds/b0953c1f9150d1b43a72d805bcbc13c2ce2f3c3d0df6d6ff19667acdea61415d.jpg,Psychedelic,Biogenic Swamp,2,Mallow,5,Mallo,2,Psychosilk,1,Runa,3,,,,4081,
 4082,https://assets.otherside.xyz/otherdeeds/57798af6c4f0804656cdc6d3ff1fa7641528d93e286870775d104312ae0dcbde.jpg,Volcanic,Biogenic Swamp,3,Molten,2,Spikeweed,2,,,Bonestone,2,Luster,2,,4082,
@@ -3882,6 +3932,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 4118,https://assets.otherside.xyz/otherdeeds/df239884e46bff4da8eead0fab1cdcf63f24f72c1064674f887f54cb0a454337.jpg,Growth,Biogenic Swamp,1,Jungle,5,,,,,,,Whisper,1,Sands of Time,4118,
 4119,https://assets.otherside.xyz/otherdeeds/00e1df065876d8f3188cda569595f5ee7d09311e09bd12087d59cbedefebef58.jpg,Mineral,Biogenic Swamp,3,Luster,5,,,Spikeweed,2,Lunarian,1,,,,4119,
 4120,https://assets.otherside.xyz/otherdeeds/d88eb167abb3bf31a341e29eff077445c93ed9a28b79e0802bb1fbccf10a35d8.jpg,Spirit,Biogenic Swamp,1,Veldan,1,Scholara,2,,,Petrified,3,Bonestone,3,,4120,
+4121,https://assets.otherside.xyz/otherdeeds/504269c39a4529beeceb254b499d7a5a1ebe69dfce53704c72eb25d088401099.jpg,Volcanic,Biogenic Swamp,1,Molten,2,Kinsoul,1,,,Lunarian,1,Kinsoul,1,,4121,
 4122,https://assets.otherside.xyz/otherdeeds/6ba0377ee4d4df3d2d2f2e68c98f195518036c976a3190780fa9ace74afa02bc.jpg,Harsh,Biogenic Swamp,3,Wastes,2,,,,,Obsilica,1,,,,4122,
 4123,https://assets.otherside.xyz/otherdeeds/e964859c13e856dc0fe6cf570e40e9c7a41a6e4c0a1a39a90e7e46dc6d577d4b.jpg,Mineral,Biogenic Swamp,2,Biolume,4,,,,,,,Runa,3,Celestial Tear,4123,
 4124,https://assets.otherside.xyz/otherdeeds/0aa3af419329104db51975ee0b14bedb6b7ac86d5372def911a0fd381651c763.jpg,Volcanic,Biogenic Swamp,1,Molten,1,Slaglia,3,,,Lunarian,3,Brimstone,1,Rugged Shovel,4124,
@@ -3969,6 +4020,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 4210,https://assets.otherside.xyz/otherdeeds/783d7b58a1ab6fbcd60d9c333557fea71ebacd111c90508c6bda8ec59e6dca8c.jpg,Decay,Biogenic Swamp,2,Thornwood,2,Lunarian,1,,,,,Nocturna,1,Blue Orb,4210,7596
 4211,https://assets.otherside.xyz/otherdeeds/e3a243084f16376c5a4ebbbd03ff56902ca424c48e27d343ba6bb053158b7662.jpg,Harsh,Biogenic Swamp,1,Wastes,1,,,,,,,Moldium,1,Forged Hammer,4211,
 4212,https://assets.otherside.xyz/otherdeeds/d78f52516fce9b6dcf60cc68d576a79295f9abc0739a470c781dede0b7872005.jpg,Harsh,Biogenic Swamp,1,Glacia,1,Psychosilk,2,Shatterfrost,1,Lumileaf,3,Whisper,3,Mystic Triangles,4212,
+4213,https://assets.otherside.xyz/otherdeeds/3a5f4010aaff272b827a1a7cd876f3b8b35b44a770e5ddcd4e7baf9752b9381f.jpg,Harsh,Biogenic Swamp,3,Wastes,1,,,,,,,,,,4213,
 4214,https://assets.otherside.xyz/otherdeeds/8d5b4f37ee97bdd3f633db86962294896ef63fc8e2d6eb687b77385aada7a41a.jpg,Volcanic,Biogenic Swamp,2,Molten,5,Moldium,3,,,,,Psychosilk,3,,4214,
 4215,https://assets.otherside.xyz/otherdeeds/ea1283dc64598b8074457cc61d09b93a5b74dd6a821761e21bbd6762cb79c232.jpg,Decay,Biogenic Swamp,1,Thornwood,1,,,Petrified,1,,,Nether,1,Camp Fire,4215,
 4216,https://assets.otherside.xyz/otherdeeds/9241dbafbadd9a8310f8cfcea329d1bda04789d355bd44d3c4d6d5617dd481cf.jpg,Volcanic,Biogenic Swamp,1,Molten,2,Thermodite,1,Psychosilk,1,Petrified,1,Brimstone,2,,4216,
@@ -4197,6 +4249,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 4454,https://assets.otherside.xyz/otherdeeds/709737e2b3d27718edf6ca2e56d5dcbe5f593ad64a603c71752298432b22f31a.jpg,Volcanic,Biogenic Swamp,2,Molten,4,Petrified,3,Petrified,1,,,,,Relic Card,4454,
 4455,https://assets.otherside.xyz/otherdeeds/102a6b3381ca1a17ad03909f46f46c0c4accaa4136ebaae9f9ba797a0fc82e30.jpg,Spirit,Biogenic Swamp,1,Sands,5,,,Luster,1,,,Bonestone,3,,4455,
 4456,https://assets.otherside.xyz/otherdeeds/6a9391b8fb4d6333d253e3f1398ea09209fafe2d576dea27acfaf93b6b5d7f81.jpg,Decay,Biogenic Swamp,1,Bog,3,,,,,,,,,,4456,
+4457,https://assets.otherside.xyz/otherdeeds/cde5c605feeb809958b7d9572871b7235d861c22c24d2c7cfbdb93bb4d0a21dd.jpg,Mineral,Biogenic Swamp,1,Crystal,1,,,Luminite,1,,,Petrified,2,,4457,9355
 4458,https://assets.otherside.xyz/otherdeeds/177f89466a17c5a79369aa3cc9ebe3f06fef489138df90f851b9000a9f4ed8d5.jpg,Spirit,Biogenic Swamp,2,Veldan,2,,,,,Runa,1,,,,4458,
 4459,https://assets.otherside.xyz/otherdeeds/ddd6435b9e642bef01fc5899ed1ed3704e9672420bb380fbc57cc278d0dd2eba.jpg,Harsh,Biogenic Swamp,1,Bone,1,Luster,2,,,,,Lumileaf,1,,4459,
 4460,https://assets.otherside.xyz/otherdeeds/1f93068c1689156e09aea3e9190d3b3b49211a3511e9ca6daa56d86763f648a8.jpg,Spirit,Biogenic Swamp,1,Steppes,4,,,,,Brimstone,3,Brimstone,3,Jar of Koda Farts,4460,
@@ -4232,6 +4285,8 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 4491,https://assets.otherside.xyz/otherdeeds/a470f6d022a391ae6f428891cc9465f63c5c1acd9dc3b0304cb368ac88388c20.jpg,Spirit,Biogenic Swamp,3,Sands,2,,,,,Kinsoul,1,Luster,2,Fairy in a Jar,4491,
 4492,https://assets.otherside.xyz/otherdeeds/ec0fba3b6a99df99e762db47002078ca56b4d120926923073ce22c565e0f8e5f.jpg,Growth,Biogenic Swamp,1,Mystic,5,,,Nether,2,,,,,Whim,4492,
 4493,https://assets.otherside.xyz/otherdeeds/1fa4d1a49bd335835ceaa3b6034a92d1ee0aeb69e9c68b1cf34bce4a60aaa120.jpg,Decay,Biogenic Swamp,2,Thornwood,2,,,Moldium,1,Brimstone,2,Runa,2,,4493,
+4494,https://assets.otherside.xyz/otherdeeds/cea124ac9086e9d6734bda7db6783cb5606c7d2dee6fc9a698b321d300178c41.jpg,Growth,Biogenic Swamp,3,Mystic,3,Bonestone,1,Spikeweed,3,Luster,1,Psychosilk,2,,4494,
+4495,https://assets.otherside.xyz/otherdeeds/9725865ad9405bebe7eb1425e83e8cf174e730c25d4cd23ddd0727bbbb9361a3.jpg,Psychedelic,Biogenic Swamp,1,Mallow,5,Mallo,1,Oblivion,3,Psychosilk,1,Moldium,2,,4495,
 4496,https://assets.otherside.xyz/otherdeeds/fe7ec4d56f6fff12f7e154203164fe6cd8a8eab0955cb9a824cf34850be9824e.jpg,Harsh,Biogenic Swamp,1,Bone,4,,,,,,,,,Rugged Pickaxe,4496,2110
 4497,https://assets.otherside.xyz/otherdeeds/384311e9992015f051a6d3d4fa6c7b314905d97f828cf8e3d1db20f5de553ffa.jpg,Decay,Biogenic Swamp,2,Bog,4,,,,,,,Lumileaf,3,,4497,
 4498,https://assets.otherside.xyz/otherdeeds/afb9f7849f676dab63a8be984cb920721b9412f2d36d834de57067a6e88b13d7.jpg,Volcanic,Biogenic Swamp,2,Crimson,2,Runa,1,,,Oblivion,2,Kinsoul,3,,4498,
@@ -4255,6 +4310,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 4519,https://assets.otherside.xyz/otherdeeds/484ccaf29cb74dd65ad0e4d4ba45b1cb27bf6386731a6c800a033fe831193468.jpg,Mineral,Biogenic Swamp,1,Biolume,2,Lunarian,1,Nether,3,Kinsoul,3,Oblivion,1,Sloth Juice,4519,
 4520,https://assets.otherside.xyz/otherdeeds/ea4b59805dcfa650cd40f6b86e775b63fee616f5ed90747921747fd7ac8865f0.jpg,Growth,Biogenic Swamp,3,Jungle,2,,,,,,,,,,4520,
 4521,https://assets.otherside.xyz/otherdeeds/463b9224e4547d07b8744ce950bf47de8039f282071d59f6604a6eabfbb6c51b.jpg,Decay,Biogenic Swamp,3,Bog,1,,,,,,,,,Relic Card,4521,
+4522,https://assets.otherside.xyz/otherdeeds/b0363405416b805efc5176e16f3090fdb400e675ea199a1929df376b1e2c1b55.jpg,Decay,Biogenic Swamp,2,Bog,1,Moldium,2,,,,,,,,4522,
 4523,https://assets.otherside.xyz/otherdeeds/f74c04357677193d079f41ff6cf14b812f7d9e14d6936698dd1109f9c4717345.jpg,Decay,Biogenic Swamp,1,Bog,1,,,,,,,Lunarian,1,Celestial Tear,4523,
 4524,https://assets.otherside.xyz/otherdeeds/2935e6a2edc2e599e404fb97ff8a65a3076b558ff61dfd7d7bfd33e56ca13c1c.jpg,Decay,Biogenic Swamp,1,Bog,2,,,,,,,,,,4524,
 4525,https://assets.otherside.xyz/otherdeeds/7a1472eba0d575cfac50c2885b08c0aa4f8b1ec67d2edeae1d6178fc38bf80dc.jpg,Decay,Biogenic Swamp,2,Thornwood,5,,,Luster,2,Lumileaf,1,Spikeweed,2,,4525,
@@ -4446,6 +4502,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 4721,https://assets.otherside.xyz/otherdeeds/0487eb7a69dd14ed1d0d03b3c5b8e8cbbb2cab31227a3e53a0e62925685c575a.jpg,Volcanic,Biogenic Swamp,1,Molten,2,Lumileaf,1,Brimstone,2,Spikeweed,1,,,Rugged Hammer,4721,
 4722,https://assets.otherside.xyz/otherdeeds/4b602c44ee0081b89a29cea3381f0baaa2aae3cd263d6ef03318fdd016f91afb.jpg,Decay,Biogenic Swamp,1,Thornwood,1,,,Lumileaf,1,,,Psychosilk,1,Ancient Coin,4722,
 4723,https://assets.otherside.xyz/otherdeeds/24662716974103c690fbb974607db7ddd3139784a874f023a0764758320e26b7.jpg,Growth,Biogenic Swamp,2,Mycelium,1,,,Moldium,1,,,Nether,2,,4723,
+4724,https://assets.otherside.xyz/otherdeeds/c4686202b64804cc4b91dfcc2fbfcc3036d387cfb680c204f87a600806e8f672.jpg,Decay,Biogenic Swamp,1,Bog,1,Petrified,1,Moldium,3,,,Lumileaf,3,,4724,
 4725,https://assets.otherside.xyz/otherdeeds/b778c6500edda16e8c00356bacd990df666338401326d796039bc6160d60caa6.jpg,Spirit,Biogenic Swamp,1,Steppes,1,,,Bonestone,2,Vaporhaze,1,,,,4725,
 4726,https://assets.otherside.xyz/otherdeeds/263ee9b4c0046d77bef68e96a981db15855a047bf7c7c4f3919223d6f16bb15b.jpg,Growth,Biogenic Swamp,3,Mycelium,1,Psychosilk,2,Moldium,1,Petrified,2,Luster,1,,4726,
 4727,https://assets.otherside.xyz/otherdeeds/33d6c1e373862330bc1bf95983b2778cd85c4d30ad58343a6ed61494447536bc.jpg,Volcanic,Biogenic Swamp,1,Crimson,2,Lunarian,1,Runa,2,Pricklia,1,,,,4727,
@@ -4480,6 +4537,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 4758,https://assets.otherside.xyz/otherdeeds/333c8dad3b3277a62b02e0329cdb5fffe9bbe36f36252ee5f5155125d26a8e0f.jpg,Volcanic,Biogenic Swamp,3,Sulfuric,1,,,Moldium,3,,,Spikeweed,3,,4758,6996
 4759,https://assets.otherside.xyz/otherdeeds/7a76ea99124d4d1207425f277012dac1ce8d639cda99a7d6017a2ab73e30d8f6.jpg,Decay,Biogenic Swamp,3,Ruins,2,Moldium,3,Spikeweed,2,Prysmatica,1,Oblivion,1,Forged Axe,4759,
 4760,https://assets.otherside.xyz/otherdeeds/eb8793307b957d55ad9c4a7f8c565234d3589bfa4f55fa86a2c48224b045dc37.jpg,Mineral,Biogenic Swamp,1,Biolume,3,,,Oblivion,3,Fortuna,2,Tantalite,3,,4760,
+4761,https://assets.otherside.xyz/otherdeeds/f1197694a06e062b4743bcd4e1c9eb9a90a36db539fac789d257833298020d65.jpg,Spirit,Biogenic Swamp,2,Sands,1,,,,,Spikeweed,1,Kinsoul,1,,4761,4285
 4762,https://assets.otherside.xyz/otherdeeds/f251ee6bbe4d0067f8d3dc972d248f58deecedb808ad2ef62a2de6a64eb97136.jpg,Growth,Biogenic Swamp,2,Botanical,3,,,Bonestone,2,Luster,1,,,,4762,
 4763,https://assets.otherside.xyz/otherdeeds/06d94eb889a5d5466a6f74cd9b2b7a7e23bc01ee769592350d3cabde5d557af2.jpg,Decay,Biogenic Swamp,1,Thornwood,2,,,,,,,Spikeweed,2,Fairy in a Jar,4763,1158
 4764,https://assets.otherside.xyz/otherdeeds/a7ef41dd4fe5b61bf564cdd7bee9bc3a8d0eddb5935f32367338ec6c980071c8.jpg,Decay,Biogenic Swamp,1,Thornwood,2,,,,,Brimstone,1,Lumileaf,1,,4764,
@@ -4673,6 +4731,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 4961,https://assets.otherside.xyz/otherdeeds/8bb9bcea2001849e59a49b78e73b9cab5b1e508ba73d43b4900ab3283e147f99.jpg,Spirit,Biogenic Swamp,1,Steppes,3,Brimstone,3,,,Oblivion,1,,,,4961,
 4962,https://assets.otherside.xyz/otherdeeds/1ed9cae7722028914db0b1d72eb92060d1cceec814268ddefb76d911317dc5ca.jpg,Growth,Biogenic Swamp,2,Mystic,5,Psychosilk,2,,,,,,,,4962,
 4963,https://assets.otherside.xyz/otherdeeds/93638b94beb9be66b9e3dd3b325b06d296688f56ddd94d59816901b03c46b61e.jpg,Psychedelic,Biogenic Swamp,3,Mallow,3,,,Nether,1,Whisper,3,Nether,3,,4963,
+4964,https://assets.otherside.xyz/otherdeeds/d8b6f9813438412169653776d82393833574fac21c46c95c71c869d56dc804fe.jpg,Volcanic,Biogenic Swamp,2,Molten,5,Psychosilk,1,Psychosilk,1,Brimstone,2,,,,4964,
 4965,https://assets.otherside.xyz/otherdeeds/115407c206c21333d3a655437798c6ed7b17b36932db0fa9dc0bc4b774708d1a.jpg,Harsh,Biogenic Swamp,3,Glacia,2,,,Whisper,3,Bonestone,1,,,Forged Pickaxe,4965,
 4966,https://assets.otherside.xyz/otherdeeds/c8bb2760cf8055729741156d520bc2392b60ce203dc595bcc6879999c61500ac.jpg,Spirit,Biogenic Swamp,1,Veldan,3,,,Luster,1,Bonestone,1,Geopillar,2,,4966,
 4967,https://assets.otherside.xyz/otherdeeds/75fdd31768d1d51101170004eb42162ab00acfcdd33492e32a99da506c8f1964.jpg,Mineral,Biogenic Swamp,1,Biolume,2,,,,,Petrified,1,,,,4967,
@@ -4766,6 +4825,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 5058,https://assets.otherside.xyz/otherdeeds/9fc4b8a36b0e5d89888f097b3876212b20d10583dc68dc0f1b93d79b8bc8037f.jpg,Mineral,Biogenic Swamp,3,Spires,3,Lunarian,1,,,,,Petrified,1,,5058,
 5059,https://assets.otherside.xyz/otherdeeds/557d44b4bce93b713c74c04427085b59ab669f506c86dbc71a0e7d4768b9627b.jpg,Harsh,Biogenic Swamp,1,Wastes,2,,,,,Whisper,1,Oblivion,2,,5059,
 5060,https://assets.otherside.xyz/otherdeeds/cacc09771b7673d51dae027f7f2c4374100e8a4b3dcc39b230dade3d85ff737d.jpg,Harsh,Biogenic Swamp,1,Glacia,1,Oblivion,1,,,,,Spikeweed,2,,5060,
+5061,https://assets.otherside.xyz/otherdeeds/477191b87bd17a25cf4fbdddc1294544890c66714334a791ac73f1f4ceb4dde2.jpg,Volcanic,Biogenic Swamp,1,Molten,3,Spikeweed,3,,,,,,,,5061,
 5063,https://assets.otherside.xyz/otherdeeds/24841494cf1fcdb2b6e3b866de13eca24f44fb2cc99b6c7e5794df4ba110ccf8.jpg,Mineral,Biogenic Swamp,3,Biolume,3,Brimstone,1,,,,,Whisper,3,Rugged Axe,5063,
 5064,https://assets.otherside.xyz/otherdeeds/86839590b5080a21004315c83535f48afe007362faac601e77fcc14fa9f66bdd.jpg,Decay,Biogenic Swamp,3,Bog,5,Mossmoon,3,Nether,3,Oblivion,1,Lumileaf,2,,5064,
 5065,https://assets.otherside.xyz/otherdeeds/31ac9a8909f0d332824d291063d5dee790cc6a5279ff8543e5e6a6e6c222c67c.jpg,Mineral,Biogenic Swamp,3,Biolume,3,Nether,2,,,,,,,Mecha Piece,5065,
@@ -5027,6 +5087,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 5331,https://assets.otherside.xyz/otherdeeds/4451173ef3b7c883ca26a4dd7bf6a0273c30851fc15eb234ee74e0890ac000be.jpg,Spirit,Biogenic Swamp,1,Steppes,2,,,,,,,,,,5331,
 5332,https://assets.otherside.xyz/otherdeeds/08c66fe9c12a537a6fe8264284d6bb4c35576066ee0f893119de3fe8dc135483.jpg,Volcanic,Biogenic Swamp,1,Obsidian,1,,,,,Spikeweed,1,,,Celestial Orb,5332,
 5333,https://assets.otherside.xyz/otherdeeds/d6cacc1c28dc135f6d56fa94b76493162afd3b59e8cbef5e23aedc86039879b5.jpg,Mineral,Biogenic Swamp,1,Luster,3,Lunarian,3,,,,,Oblivion,2,,5333,8270
+5334,https://assets.otherside.xyz/otherdeeds/d57b1ff9287ce12a8329c5a131917d7d2c50cf4aced90c180449cbf7e3998d6d.jpg,Mineral,Biogenic Swamp,2,Biolume,2,,,,,Fortuna,2,Bonestone,2,,5334,
 5335,https://assets.otherside.xyz/otherdeeds/e7b15cbab6df56c0d357bcb93cfb1fd5ba25044342294903504637ab8e4b4216.jpg,Decay,Biogenic Swamp,2,Plague,3,Whisper,1,,,,,,,,5335,
 5336,https://assets.otherside.xyz/otherdeeds/da7a5e954ef2089099c1bb3e7547ae343a9111c6a0d4ce816c5658e66a72924a.jpg,Harsh,Biogenic Swamp,2,Wastes,4,Nether,2,,,Lunarian,1,,,,5336,
 5337,https://assets.otherside.xyz/otherdeeds/63cbbd92e3ee243088ef5be8ab83f2afabad25fb2d9865977229817c8f3c65a1.jpg,Mineral,Biogenic Swamp,1,Luster,1,,,Lumileaf,2,Lumileaf,2,Runa,3,,5337,
@@ -5076,6 +5137,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 5383,https://assets.otherside.xyz/otherdeeds/0f6f3ff264211c8c2fcbdb8ea83e1e6d6a7b5569b0ec1c26e5be13e5488f89cf.jpg,Growth,Biogenic Swamp,3,Botanical,2,,,Lumileaf,2,Psychosilk,1,,,,5383,7393
 5385,https://assets.otherside.xyz/otherdeeds/224455db0981332dd272efd9c0fb91e57160406ae80108b2a6c77a5d828e7a88.jpg,Mineral,Biogenic Swamp,3,Luster,2,,,Aurelian,2,Aurelian,2,,,,5385,
 5386,https://assets.otherside.xyz/otherdeeds/381049f72471cefcd96b68367662e8a5685f87c332ad37ddf0de5cbac23b0295.jpg,Decay,Biogenic Swamp,1,Ruins,1,,,,,,,Luster,1,Magic Powder,5386,
+5387,https://assets.otherside.xyz/otherdeeds/fe78e54ea80ad32f2590a701033589e56799935c06808e95981389a03ee7921e.jpg,Harsh,Biogenic Swamp,1,Splinter,5,,,Spikeweed,2,Lumileaf,3,,,Rugged Axe,5387,
 5388,https://assets.otherside.xyz/otherdeeds/54f051679874585b95e8840875b6e11864c59aabd89c333fe9a9347887be4fa4.jpg,Harsh,Biogenic Swamp,3,Splinter,3,Kinsoul,3,,,Spikeweed,3,,,,5388,
 5389,https://assets.otherside.xyz/otherdeeds/a6ca9f8f607e52ad5e50d540ac6221937c7db3000dcc9831d17c8cbd36aff8ed.jpg,Volcanic,Biogenic Swamp,1,Sulfuric,3,,,Lumileaf,3,Petrified,3,Chlorocite,1,Sooper Box,5389,
 5390,https://assets.otherside.xyz/otherdeeds/82f8ee0e6c97f86a733dbb66114b2cdb92f26c90d9ae8e0e3717a2c263bea2f2.jpg,Harsh,Biogenic Swamp,3,Glacia,4,,,,,Shatterfrost,1,,,,5390,
@@ -5095,6 +5157,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 5404,https://assets.otherside.xyz/otherdeeds/ca0bcfc2a71b1c24218dd0385d6f3267b0a9c92deb9957aee63481e1824e5072.jpg,Psychedelic,Biogenic Swamp,1,Mallow,4,Spikeweed,1,Bonestone,1,,,,,Celestial Tear,5404,
 5405,https://assets.otherside.xyz/otherdeeds/ccaa9697509ccbc309ab5194bbef9e6a0dc9ff850e016f00925f9d6f6c3da787.jpg,Growth,Biogenic Swamp,2,Jungle,1,,,Nether,2,Runa,2,,,,5405,
 5406,https://assets.otherside.xyz/otherdeeds/6f0b71cccd13b57ea7536e95c1e629bc7f511abf258b6051ad5cefc5d312137e.jpg,Harsh,Biogenic Swamp,2,Splinter,2,,,,,Kinsoul,2,,,,5406,
+5407,https://assets.otherside.xyz/otherdeeds/3b4bda94125bd9db72a4bb0a666696dedef6fda8b2eabf45fff61d38849a3f5b.jpg,Volcanic,Biogenic Swamp,3,Molten,1,Runa,2,,,Luster,3,,,Celestial Orb,5407,
 5408,https://assets.otherside.xyz/otherdeeds/c50b25b093811fb8bd885680678c720bfae73f4f355f082ced81d5b3a4889e3d.jpg,Volcanic,Biogenic Swamp,1,Obsidian,3,,,Psychosilk,3,Kinsoul,2,Abyssia,2,,5408,
 5409,https://assets.otherside.xyz/otherdeeds/b306d8f2a096a82b26bc66880e52b4efbfa90116cf8a0139358aee84ae9ef340.jpg,Spirit,Biogenic Swamp,3,Steppes,1,,,,,,,Petrified,2,,5409,
 5410,https://assets.otherside.xyz/otherdeeds/10877210fbd71c6eedceef6be655007612fc0b57f632d8e28e5e373c8dbd6f47.jpg,Growth,Biogenic Swamp,1,Mycelium,1,Petrified,1,,,,,Spikeweed,2,Rugged Pickaxe,5410,
@@ -5118,6 +5181,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 5429,https://assets.otherside.xyz/otherdeeds/36063dd5dad09f05c10d5c1af67b1102d62f2c355aae8ca11d8358401b0e2544.jpg,Decay,Biogenic Swamp,1,Bog,1,,,,,,,,,,5429,6677
 5430,https://assets.otherside.xyz/otherdeeds/1b337902258a9a045da2518f8416cb90459fe1d0a230ae4fc5136cdc7ac47938.jpg,Volcanic,Biogenic Swamp,1,Crimson,4,Oblivion,1,Moldium,3,,,Bonestone,3,,5430,
 5431,https://assets.otherside.xyz/otherdeeds/63d9e2ebefedb6733ec3fcce1420d29a492eafb04c07e4477bcb8abbad5c2403.jpg,Harsh,Biogenic Swamp,1,Bone,3,Amberskull,1,,,,,,,Glass Eye,5431,
+5432,https://assets.otherside.xyz/otherdeeds/fae9405ca31048cea8d7e71ede9bc2e11a01236d86fdcae2feff1de6fc14aa9b.jpg,Decay,Biogenic Swamp,1,Thornwood,1,,,,,,,,,,5432,
 5433,https://assets.otherside.xyz/otherdeeds/2cdf7c1698de9730cf36834cc33d22f66a0166c477ed6f413a5764334e5c75da.jpg,Psychedelic,Biogenic Swamp,1,Shadow,2,Lumileaf,1,Kinsoul,1,,,Gloomia,3,,5433,
 5434,https://assets.otherside.xyz/otherdeeds/e09ce7ce8174d45909d8f3e406ccd8c97d6bb1e394955b95f044d2dd1704f309.jpg,Harsh,Biogenic Swamp,1,Splinter,2,Lumileaf,1,,,,,Moldium,1,,5434,
 5435,https://assets.otherside.xyz/otherdeeds/4b1181e12f74b075ff7e79a91e128534e7fb8dc3fa39300f7c94f4cc00d4b0ff.jpg,Decay,Biogenic Swamp,1,Thornwood,1,Oblivion,3,Whisper,1,Psychosilk,1,,,Rugged Shovel,5435,
@@ -5177,6 +5241,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 5491,https://assets.otherside.xyz/otherdeeds/c5aba9c1aba8b2825c9c710a7ca06aab8783a5c6cf1988f80dc0abd99a4f3909.jpg,Harsh,Biogenic Swamp,1,Bone,1,,,Amberskull,1,Moldium,3,,,,5491,
 5492,https://assets.otherside.xyz/otherdeeds/5d4432da3b3d3434f184f4f685171c0a45ad856422e9e3dd7660409080621a4a.jpg,Volcanic,Biogenic Swamp,3,Crimson,4,Moldium,3,Runa,2,Kinsoul,2,,,,5492,
 5493,https://assets.otherside.xyz/otherdeeds/5943ff712d962a76ea777671632c85008f553542b7aa463ccf2aa5277c691095.jpg,Harsh,Biogenic Swamp,2,Wastes,1,,,Psychosilk,1,Oblivion,1,Brimstone,1,,5493,
+5494,https://assets.otherside.xyz/otherdeeds/eaa0f42d50077e770d864f7ac0e4655664ee7efd42e40e0cce370f7c22ca57cb.jpg,Spirit,Biogenic Swamp,1,Sands,3,,,,,,,,,,5494,
 5495,https://assets.otherside.xyz/otherdeeds/2e3ef408d08ba5e5bfafe3af373453502b1f4d59a739e03296cf293c14c81002.jpg,Volcanic,Biogenic Swamp,3,Obsidian,3,Psychosilk,2,,,,,,,,5495,
 5496,https://assets.otherside.xyz/otherdeeds/9857f0399137763de4366a4c7e010302c69f8a5ffb34a58c4d18304aa1091a57.jpg,Growth,Biogenic Swamp,1,Jungle,5,Lunarian,2,Nether,2,Moldium,2,Nether,1,,5496,
 5497,https://assets.otherside.xyz/otherdeeds/11df1fb989af2a6c2e0346b4538046230a46985779fdd78209e20707de33c95d.jpg,Harsh,Biogenic Swamp,1,Glacia,4,,,,,Nether,2,,,,5497,
@@ -5197,6 +5262,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 5515,https://assets.otherside.xyz/otherdeeds/7649a6699ef9cef65b51eecb81d6427a225959eddefa0020ac97e35b38ca6ceb.jpg,Decay,Biogenic Swamp,2,Bog,1,Moldium,2,,,,,Nether,2,,5515,
 5516,https://assets.otherside.xyz/otherdeeds/a6ac78b467db16bc0d68750e1f09cbd6925d7a43597b4862a64edcfe69c180f7.jpg,Decay,Biogenic Swamp,1,Ruins,3,Runa,3,Luster,2,,,,,,5516,
 5517,https://assets.otherside.xyz/otherdeeds/249833cfd39a889899cbf1e3585a2ccac85c4392b72fc7651da717b7d73f15f9.jpg,Decay,Biogenic Swamp,1,Ruins,1,Petrified,2,,,Petrified,2,Kinsoul,2,Sloth Juice,5517,8561
+5518,https://assets.otherside.xyz/otherdeeds/424caf9aef612695d2d700b569e1eb86b95379a0de6c8f3155b2780a92e6f063.jpg,Spirit,Biogenic Swamp,1,Sands,4,,,,,,,,,,5518,
 5519,https://assets.otherside.xyz/otherdeeds/b25505ab3e57f44bba54d6c5f1935753a22e665aece3c73554e23a981990f529.jpg,Mineral,Biogenic Swamp,3,Luster,1,,,Lumileaf,1,,,,,,5519,
 5520,https://assets.otherside.xyz/otherdeeds/53bff4bdbcebce2da77c9a0bc2026be719ae6df8e6ab0921092d32626e11de64.jpg,Growth,Biogenic Swamp,2,Mystic,3,,,,,Bonestone,2,Bonestone,1,,5520,
 5521,https://assets.otherside.xyz/otherdeeds/60b06c9285aefb7abc7d97b5aaf58ed2f815406d4b8ba996326e67af75c2fddb.jpg,Decay,Biogenic Swamp,3,Plague,1,Luster,2,Luster,3,Lumileaf,3,Lumileaf,1,,5521,
@@ -5205,6 +5271,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 5524,https://assets.otherside.xyz/otherdeeds/cb743cd223d8bbe5db2e9c91d5be7c7ef305059816ca404d60d68fbe48f31423.jpg,Harsh,Biogenic Swamp,2,Glacia,1,,,Kinsoul,1,,,,,,5524,
 5525,https://assets.otherside.xyz/otherdeeds/b4ffbe909bc39ed9b1bdbf440dcbcb0983f473b683049d3405531534d43cd241.jpg,Mineral,Biogenic Swamp,2,Spires,5,Psychosilk,3,,,Pyrum,2,Moldium,2,,5525,
 5526,https://assets.otherside.xyz/otherdeeds/ee0d0ef83d7449e0e6e88efd17e51d94d3264616984ca96d9c84c132b6afe8bd.jpg,Spirit,Biogenic Swamp,2,Veldan,2,Oblivion,1,,,,,,,Slime Juice,5526,
+5527,https://assets.otherside.xyz/otherdeeds/941031db31ef3947dd39399a882366df8fe7b0f2b7f2172e57bb57bbac99cb81.jpg,Volcanic,Biogenic Swamp,3,Crimson,1,,,,,,,Spikeweed,1,,5527,
 5528,https://assets.otherside.xyz/otherdeeds/351a60ce4ab354e4ce1bc532f5f85ceaedd480ada9b4b681e4e0e2fb78710c29.jpg,Mineral,Biogenic Swamp,3,Luster,3,Kinsoul,3,Fragmentia,3,Lunarian,2,,,,5528,
 5529,https://assets.otherside.xyz/otherdeeds/cf4210f71eba31575d00e10a643d7b9b17e924c3856b1046f2e208564970b769.jpg,Volcanic,Biogenic Swamp,1,Sulfuric,4,,,,,Luster,2,,,,5529,
 5530,https://assets.otherside.xyz/otherdeeds/9bd3adc615b7728ad2f7ec026477b9ea85db607de00ebb46489aa2adad204158.jpg,Psychedelic,Biogenic Swamp,1,Sludge,5,Petrified,2,,,Spikeweed,2,Lunarian,1,,5530,
@@ -5243,6 +5310,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 5563,https://assets.otherside.xyz/otherdeeds/9154a7baf09032409aa0d2e94657f4a34bf666a2a6cce133d7a64755467e460b.jpg,Psychedelic,Biogenic Swamp,2,Mallow,4,,,,,Petrified,1,,,,5563,
 5564,https://assets.otherside.xyz/otherdeeds/bcf54c3b97d400fef26974c545ecb560c71e518fdf88480016a31338b81ed59e.jpg,Growth,Biogenic Swamp,1,Mycelium,5,Brimstone,3,,,,,,,,5564,
 5565,https://assets.otherside.xyz/otherdeeds/7c9655eb06d27dc17165ecbdc99a2ad6669dbba6dccfb35d74f426f6f2015a67.jpg,Volcanic,Biogenic Swamp,2,Molten,2,Thermodite,1,,,,,Thermodite,2,,5565,
+5566,https://assets.otherside.xyz/otherdeeds/b30dc3fd42fb35484d9d0812788a16a6e59711d53f585c0eb72538ccb4287f85.jpg,Harsh,Biogenic Swamp,1,Bone,4,,,Petrified,1,,,,,,5566,4158
 5567,https://assets.otherside.xyz/otherdeeds/ea2fbff9cf5c41f5213074e8557b3f6b2bf35f68ec68a199d2e29ec1759bddca.jpg,Growth,Biogenic Swamp,3,Mycelium,3,,,,,Psychosilk,1,Moldium,2,Ancient Coin,5567,
 5568,https://assets.otherside.xyz/otherdeeds/e94dbc80280d9eb0a0eee79ee950fea6d656d47c9e4307969beda1348ae59d80.jpg,Decay,Biogenic Swamp,1,Ruins,4,Lumileaf,2,,,,,Lumileaf,1,,5568,
 5569,https://assets.otherside.xyz/otherdeeds/2edf21f8d12afaf04722dadd96c1e32960503487fd39833507b7656c1ef4bc85.jpg,Volcanic,Biogenic Swamp,2,Sulfuric,2,Psychosilk,3,Spikeweed,3,Runa,3,Runa,3,Banana Peel,5569,
@@ -5392,6 +5460,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 5720,https://assets.otherside.xyz/otherdeeds/132faaa6278f2b660d9d086607a0ebb9018c984cc888917d8a9ea88a0f3393ec.jpg,Decay,Biogenic Swamp,3,Bog,5,Nether,1,Moldium,2,Runa,2,Petrified,3,,5720,
 5721,https://assets.otherside.xyz/otherdeeds/317b398b1ab963e1807733cf53cc8e165dacf6559627aba61e4b59fa9c9caf18.jpg,Growth,Biogenic Swamp,1,Mycelium,1,Runa,2,Moldium,2,Lumileaf,3,Bonestone,3,Forged Shovel,5721,
 5722,https://assets.otherside.xyz/otherdeeds/d605b5d32db79f1f7f680b226d588df4800cd3cb5c58b40e371e8097c66a01f6.jpg,Harsh,Biogenic Swamp,2,Splinter,3,,,,,,,,,,5722,
+5723,https://assets.otherside.xyz/otherdeeds/0ec8ae85aa9da2876f8b644739f7c0ad6000e2434f30d71fa0b1d262db8eeec0.jpg,Decay,Biogenic Swamp,1,Bog,3,,,Spikeweed,1,,,Psychosilk,2,,5723,
 5724,https://assets.otherside.xyz/otherdeeds/871d1470c669411a5eb1a4df666608e878d872c330d2e7e1080a5a7c179a4b66.jpg,Spirit,Biogenic Swamp,1,Sands,3,,,,,Spikeweed,2,Brimstone,2,Sloth Juice,5724,2344
 5725,https://assets.otherside.xyz/otherdeeds/8fb730ab86421d2026acb6b28b707fede4107d5dc5ed4de5d1c12ae381a5ca9f.jpg,Harsh,Biogenic Swamp,2,Bone,2,,,Bonestone,2,,,,,,5725,
 5726,https://assets.otherside.xyz/otherdeeds/cfd77213f0c17114b3a3e8c7fe0f29440d78cb8fc5f95ecb4e1a1d406ff1da99.jpg,Volcanic,Biogenic Swamp,1,Obsidian,1,Petrified,3,,,,,Psychosilk,3,,5726,
@@ -5518,6 +5587,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 5857,https://assets.otherside.xyz/otherdeeds/6cd5efd41ed4223cc17d43305e55134ac2ea403ea501591b4ecefb3441bb0af2.jpg,Harsh,Biogenic Swamp,1,Splinter,3,,,Brimstone,3,,,,,,5857,
 5858,https://assets.otherside.xyz/otherdeeds/345d8562c3661a0684f323255af76401b480a4460da0708a775fabd10ba4d234.jpg,Spirit,Biogenic Swamp,2,Sky,2,Nether,3,,,,,Spikeweed,3,,5858,
 5859,https://assets.otherside.xyz/otherdeeds/6010cb7c6b88fd6741efc58fc86865beaee36a96bea87281ee92468ced68e3bc.jpg,Decay,Biogenic Swamp,1,Bog,3,Whisper,2,,,,,,,Fire Sale Scroll,5859,
+5860,https://assets.otherside.xyz/otherdeeds/efacc0a77e1dc8658d2ba152ae9d0961914f9d2c6076704a4ddfa263d69bb6af.jpg,Psychedelic,Biogenic Swamp,3,Shadow,4,Phantom,1,Petrified,2,Oblivion,2,,,Relic Card,5860,
 5861,https://assets.otherside.xyz/otherdeeds/0edb9f0fa3abfdb3a923c55052a5d1eb36fedcbe0b45f509eb2ce90bb1a63c29.jpg,Spirit,Biogenic Swamp,2,Veldan,1,Lumileaf,1,Lumileaf,1,Psychosilk,1,Moldium,3,,5861,
 5862,https://assets.otherside.xyz/otherdeeds/a4d49b0a7d11d029b54855cc37ecb84557de550206fb373e8e36d7e4d69f87b8.jpg,Mineral,Biogenic Swamp,2,Spires,2,,,Pyrum,1,Runa,1,Spikeweed,1,Mystic Triangles,5862,
 5863,https://assets.otherside.xyz/otherdeeds/5f89c6f605821d0930d34bbe0fb66c9be51c0ef03557c52963efd7467b9f794d.jpg,Mineral,Biogenic Swamp,2,Crystal,4,Bonestone,3,Moldium,3,Luster,1,Oblivion,1,,5863,
@@ -5729,6 +5799,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 6072,https://assets.otherside.xyz/otherdeeds/6e364ef4239976efd3c458b886ae907fbf23201fce543e675d995161a4a3b62d.jpg,Harsh,Biogenic Swamp,2,Splinter,1,,,,,Nether,2,,,,6072,
 6073,https://assets.otherside.xyz/otherdeeds/f3e1178cfc97168ddf131cea9957692fe5b190a00e69dfd7f0248acd237e3ab9.jpg,Mineral,Biogenic Swamp,2,Biolume,1,,,,,Lunarian,2,,,Glass Eye,6073,
 6074,https://assets.otherside.xyz/otherdeeds/71acc3f6a5e3af94151e8d989716e6dff8f12caf508a71c8739d925e2ec4f26b.jpg,Harsh,Biogenic Swamp,1,Splinter,4,,,Nether,3,Luster,3,Brimstone,2,,6074,3630
+6075,https://assets.otherside.xyz/otherdeeds/c3c7e2c967a0a421ab74f0ffd74cec17b8e7c4bb78d01c80c72bc69cf63ce840.jpg,Volcanic,Biogenic Swamp,1,Molten,2,Lumileaf,2,,,,,Whisper,2,Mystic Triangles,6075,
 6076,https://assets.otherside.xyz/otherdeeds/91e5b659d84c6af85f00ddc64ab38ad17627a093a87f703542b68ae41d5eac20.jpg,Chaos,Biogenic Swamp,2,Chaos,5,Omni,1,Degradia,3,Omni,2,Omni,2,,6076,
 6077,https://assets.otherside.xyz/otherdeeds/94fee0552cf7be5eb89ba0c507cce3aa6721616a3382a0b7b3f4d54e96acec0d.jpg,Volcanic,Biogenic Swamp,1,Molten,3,,,,,,,,,,6077,
 6078,https://assets.otherside.xyz/otherdeeds/18da6a519a7f910249c843d90832b55665769fe4dd999c4b8c5e71331622b607.jpg,Volcanic,Biogenic Swamp,3,Sulfuric,2,,,,,,,Whisper,3,,6078,
@@ -5798,6 +5869,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 6146,https://assets.otherside.xyz/otherdeeds/aed3a2099492e80865410eab81588c029c484c9bbc8856372490b7f5df5bcd26.jpg,Harsh,Biogenic Swamp,2,Wastes,3,,,,,,,,,,6146,
 6147,https://assets.otherside.xyz/otherdeeds/223940b8cf8180bb32a480264e902f6ebbd1f7fdaac10911db3077430a0a930b.jpg,Psychedelic,Biogenic Swamp,2,Sludge,2,,,,,Lunarian,3,Moldium,3,,6147,9904
 6148,https://assets.otherside.xyz/otherdeeds/fbbc00ce66324c48daa67030289aea2c5ac7f0989dc497efec2bf8db73ef3c4a.jpg,Decay,Biogenic Swamp,3,Ruins,4,,,Petrified,1,Psychosilk,1,Luster,1,,6148,278
+6149,https://assets.otherside.xyz/otherdeeds/4d87c8748bf59ac52dca8d64bb2adcf5f1b54d3c84f93dee6202828f19607ee7.jpg,Spirit,Biogenic Swamp,3,Steppes,1,,,,,Nebula,2,,,,6149,
 6150,https://assets.otherside.xyz/otherdeeds/a388543b3717eab788eb5661aa42b67048f81827f45d9f49dfa7a521b9db92fe.jpg,Harsh,Biogenic Swamp,3,Wastes,4,,,,,Psychosilk,2,,,,6150,
 6151,https://assets.otherside.xyz/otherdeeds/a35dbe9bcef5b8ac8cc5d2684b7e89429da93286ca3e28e439f9f0d5ec2adadd.jpg,Spirit,Biogenic Swamp,1,Sands,3,Bonestone,1,,,Runa,1,,,,6151,
 6152,https://assets.otherside.xyz/otherdeeds/84776821f6408cbbe88feaf5ce4f7c90e0ecc05eee31fd85bb7ffcc44f76d312.jpg,Spirit,Biogenic Swamp,2,Sands,2,,,Brineslime,2,,,Coralia,1,,6152,
@@ -5884,6 +5956,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 6234,https://assets.otherside.xyz/otherdeeds/030bb1a6b47074fca7bccdffe6a32c032dfc1a0958456e80ae7567db263cdd8c.jpg,Volcanic,Biogenic Swamp,1,Molten,1,,,Whisper,3,Oblivion,2,Slaglia,2,,6234,
 6235,https://assets.otherside.xyz/otherdeeds/e67380ffb045191fccbf8f15cd8aba2fb2bec08cf82af38cd021fa0cb5fbc62f.jpg,Decay,Biogenic Swamp,1,Bog,3,Lunarian,1,,,Moldium,1,Mossmoon,1,,6235,
 6236,https://assets.otherside.xyz/otherdeeds/42d1f9ac9a348faaad7e978353784bb572a68400ac8bc5e54670debc03d3f6b3.jpg,Harsh,Biogenic Swamp,1,Wastes,3,Brimstone,3,,,Whisper,1,,,,6236,
+6237,https://assets.otherside.xyz/otherdeeds/6f509187a3d6fcc1f65cee7e327567874ced13027c6103dfbc78d98f75d274f1.jpg,Decay,Biogenic Swamp,3,Plague,1,,,Luster,1,Bubonium,2,,,,6237,
 6238,https://assets.otherside.xyz/otherdeeds/adef4fa2ee2d2855057a66527062fc1093e0f71256655241245fe2e3fc840aa0.jpg,Harsh,Biogenic Swamp,1,Wastes,2,Obsilica,3,Lumileaf,1,Hollowcine,2,Lunarian,1,,6238,
 6239,https://assets.otherside.xyz/otherdeeds/66aa0d3f570df6d988dd10009d6da9b6068af3982c6e53c70d1e6745f7c182f0.jpg,Mineral,Biogenic Swamp,1,Biolume,2,,,Bonestone,3,,,,,,6239,
 6240,https://assets.otherside.xyz/otherdeeds/88fc1645d1eb15003477362cc2ee93133c9a504101de6d7e736a4d5602019b45.jpg,Decay,Biogenic Swamp,3,Bog,3,Brimstone,2,Runa,1,,,,,,6240,
@@ -5987,6 +6060,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 6345,https://assets.otherside.xyz/otherdeeds/62043ab356654d8b12fe192fcd5e951498c3a2cc99df514c7ad1f3601d72f016.jpg,Decay,Biogenic Swamp,1,Thornwood,1,Omni,1,Oblivion,1,,,Runa,2,,6345,
 6346,https://assets.otherside.xyz/otherdeeds/c11ab246f2d7e0713cced4dc1ceb5aa453037240bb149fc62de5788249392406.jpg,Spirit,Biogenic Swamp,1,Sands,1,Oblivion,2,,,,,,,Banana Peel,6346,
 6347,https://assets.otherside.xyz/otherdeeds/68451b59f3b4e3e396db3b51e8eb1477407ee540aefc0774a5722384f329c91b.jpg,Spirit,Biogenic Swamp,1,Steppes,3,Moldium,1,,,Brimstone,1,Oblivion,1,,6347,847
+6348,https://assets.otherside.xyz/otherdeeds/a0af97613be8b4ca5665749e46e5dff3cd1183b76bc9df77b9b7f8ca3338b59d.jpg,Harsh,Biogenic Swamp,3,Splinter,4,,,Lunarian,3,Moldium,1,,,,6348,
 6349,https://assets.otherside.xyz/otherdeeds/5f7005654ea85028a2cc850bb89d07feb4eb68363d4e5090316483d35b8f1faf.jpg,Growth,Biogenic Swamp,1,Mystic,3,Kinsoul,1,Petrified,1,Glowpod,1,Runa,1,Yellow Orb,6349,
 6350,https://assets.otherside.xyz/otherdeeds/622c55c72e01ed8ad60d0b96035b92ece93f36a5c6de73becaaa094ad0320780.jpg,Growth,Biogenic Swamp,1,Botanical,5,Nether,3,Moldium,1,Lumileaf,1,,,Mystic Triangles,6350,7040
 6351,https://assets.otherside.xyz/otherdeeds/b4f21356f60244563d34ef34e47b18c707356f4c7dbaa5ff20c028857f9aeebd.jpg,Growth,Biogenic Swamp,2,Jungle,2,Nether,3,Luster,1,Oblivion,1,,,,6351,
@@ -6010,6 +6084,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 6369,https://assets.otherside.xyz/otherdeeds/092ee03e0cc20986ebc9339b13416adfcd7243772b49662bc8a534cf749d2983.jpg,Spirit,Biogenic Swamp,3,Steppes,1,,,Petrified,1,Brimstone,3,Nether,1,,6369,
 6370,https://assets.otherside.xyz/otherdeeds/65c941d9eb866b47d281c778401fbe682e1be61618e327c3d05f7d2b0f59f219.jpg,Decay,Biogenic Swamp,3,Bog,1,,,,,Oblivion,2,,,,6370,
 6372,https://assets.otherside.xyz/otherdeeds/45042664202069d81c125425a9bfa08af4c7bcc3d528915b8acb8c4ec783b703.jpg,Harsh,Biogenic Swamp,2,Glacia,1,,,,,Slushia,1,Lunarian,3,,6372,
+6373,https://assets.otherside.xyz/otherdeeds/d749aaf94c09979f05e070efda35556d9b3ab759c4d052c50cfe58a683064248.jpg,Growth,Biogenic Swamp,1,Mystic,5,,,Glowpod,1,,,Luster,2,,6373,7918
 6374,https://assets.otherside.xyz/otherdeeds/cc29ab74379425071ada959de100ec4fe2dcf4d7e93032be0dee60d7a72bd235.jpg,Harsh,Biogenic Swamp,1,Splinter,2,Lumileaf,3,Brimstone,2,Claymer,3,Bonestone,2,,6374,
 6375,https://assets.otherside.xyz/otherdeeds/042fe64ce37386b464d8d0160faa4e18455d775d96f8e68e0d82903a9d265e2d.jpg,Growth,Biogenic Swamp,2,Botanical,2,Kinsoul,2,Sporicite,2,Moldium,1,Petrified,2,,6375,
 6376,https://assets.otherside.xyz/otherdeeds/fdb33bcd0164699293d602ce65ea973c3adae5eb26a49a6482a3e6b6996cafa6.jpg,Growth,Biogenic Swamp,1,Mystic,3,Luster,1,Moldium,3,Lumileaf,2,,,,6376,
@@ -6033,6 +6108,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 6395,https://assets.otherside.xyz/otherdeeds/d538e6c6660347aed97839ea59c210836212395674cb12cf16a5088ec72bbc25.jpg,Volcanic,Biogenic Swamp,1,Obsidian,2,,,,,Luster,1,,,,6395,2403
 6396,https://assets.otherside.xyz/otherdeeds/976a7501928831693a943bf24b6554e0756fb5d32a53035efe15cc5f6c76efe8.jpg,Harsh,Biogenic Swamp,3,Wastes,1,,,Hollowcine,2,Brimstone,2,Runa,2,,6396,
 6397,https://assets.otherside.xyz/otherdeeds/331cfa847438bf2f4fff14ac1b88565aa704d1c18a9e94f080960519f65d026b.jpg,Growth,Biogenic Swamp,2,Botanical,2,Brimstone,1,,,Nether,2,,,,6397,
+6398,https://assets.otherside.xyz/otherdeeds/f5034cfc1992a56f1884f5f9e58ef65b674c87ef71c61f0966529445070206a4.jpg,Spirit,Biogenic Swamp,1,Steppes,1,,,Nebula,1,Runa,3,Brimstone,2,Knight's Pail,6398,
 6399,https://assets.otherside.xyz/otherdeeds/160b3a161deac3ba4bc38ce057dce886fe8f3f1993d57e918f22ffa121774fcf.jpg,Volcanic,Biogenic Swamp,3,Crimson,2,Petrified,1,,,Spikeweed,2,,,Rugged Hammer,6399,
 6400,https://assets.otherside.xyz/otherdeeds/a42bd75875f9ec921cc045a420fcc1c4432f3114ce8ea316c2c8e99a65639ca6.jpg,Harsh,Biogenic Swamp,2,Wastes,1,,,Brimstone,2,Luster,3,,,,6400,
 6401,https://assets.otherside.xyz/otherdeeds/ed93bb26aeb75e8e889fe2584d4b888087b222776aa973510ee13b82510bbf6f.jpg,Mineral,Biogenic Swamp,1,Crystal,2,Runa,1,Luster,1,,,Brimstone,1,Rugged Pickaxe,6401,
@@ -6066,6 +6142,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 6430,https://assets.otherside.xyz/otherdeeds/c78b3de9b6d1cc83966fbffae04ae6bc51321b4cd906626c405abc6e3fa7fe21.jpg,Harsh,Biogenic Swamp,1,Glacia,5,Slushia,2,Brimstone,2,,,,,,6430,
 6431,https://assets.otherside.xyz/otherdeeds/b0126646e286c5aa1578dddaa30df43e3e0ac3995f42afc774bd5ccf586af3f8.jpg,Decay,Biogenic Swamp,2,Ruins,1,Brimstone,2,Moldium,1,,,,,Camp Fire,6431,
 6432,https://assets.otherside.xyz/otherdeeds/ea0304c875f1271d1bb2722e718dbaf28fc1bd0f3cabe67f8b06e8b501349b77.jpg,Growth,Biogenic Swamp,1,Mycelium,4,,,Moldium,1,,,,,Knight's Pail,6432,
+6433,https://assets.otherside.xyz/otherdeeds/1e850a0b0e11f135f707ab624000d3c2b0b985b892e8c21132d4b34535ca7a5e.jpg,Growth,Biogenic Swamp,1,Mystic,5,Spikeweed,1,,,Oblivion,2,Oblivion,3,,6433,
 6434,https://assets.otherside.xyz/otherdeeds/9e9a0db0e26811e8357c04e2d7c7e1303587c23298739a9914be0e48d950f1fc.jpg,Harsh,Biogenic Swamp,1,Splinter,2,,,Luster,1,,,Psychosilk,2,Koda Axe,6434,
 6435,https://assets.otherside.xyz/otherdeeds/4e6d1effa4150f00222a042532f1e0f79f7a592f9bc77d4846998140dbb71b28.jpg,Harsh,Biogenic Swamp,1,Wastes,5,Whisper,1,,,,,Petrified,1,,6435,
 6436,https://assets.otherside.xyz/otherdeeds/4ae51239089ad8f6c4f717a5bf5c36eb68a5eba6f3a774df068421a266f2ae1a.jpg,Psychedelic,Biogenic Swamp,3,Shadow,4,Gloomia,2,,,,,Moldium,3,,6436,
@@ -6374,6 +6451,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 6748,https://assets.otherside.xyz/otherdeeds/2a6c11587c9f0fd0ce305e13ad3e3cb7d228d8044afd81fc9f4df666013db2a9.jpg,Harsh,Biogenic Swamp,2,Wastes,1,Bonestone,1,Obsilica,1,Moldium,1,,,Rugged Pickaxe,6748,6988
 6749,https://assets.otherside.xyz/otherdeeds/98c14ac0666d66c1e72a22f5f87d1a643b3f34861a589389fdf99ed06286fc2e.jpg,Spirit,Biogenic Swamp,1,Sands,5,,,Petrified,1,Moldium,2,Lunarian,2,Rugged Pickaxe,6749,
 6750,https://assets.otherside.xyz/otherdeeds/96413b8d3eaacac90001f2930316169d6ba9c791fe1e21fd7dcd54d2c0d29003.jpg,Harsh,Biogenic Swamp,1,Splinter,1,Psychosilk,1,,,Psychosilk,2,,,Celestial Orb,6750,
+6751,https://assets.otherside.xyz/otherdeeds/aebbfe879dbf1d12bc0543c766cc851e5257fccba32c6f0fac16111c6e79b88a.jpg,Spirit,Biogenic Swamp,2,Sky,4,Element 115,2,,,,,,,,6751,
 6752,https://assets.otherside.xyz/otherdeeds/e32c85bd13e4769c0f1f45b0a6e268fdc9de5e6ff192264a880bee19b292e88a.jpg,Decay,Biogenic Swamp,1,Bog,2,,,,,Spikeweed,1,Bonestone,2,Fire Sale Scroll,6752,871
 6753,https://assets.otherside.xyz/otherdeeds/f6dd058d5c66ca723f9b29edee58045656e74011e11affe9e42ef8d3ed15727a.jpg,Decay,Biogenic Swamp,3,Thornwood,5,Bonestone,2,Lumileaf,2,,,Lumileaf,3,Whim,6753,
 6754,https://assets.otherside.xyz/otherdeeds/8f0a133df4beb028098c94b516a82bf5af8e338cabf434d083c3b0b1671f274f.jpg,Harsh,Biogenic Swamp,1,Glacia,2,Psychosilk,1,Whisper,3,Luster,1,,,,6754,
@@ -6643,6 +6721,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 7034,https://assets.otherside.xyz/otherdeeds/d6d4597a40ab2970614a7478614b1f4eb77956c5f9ff4bc75717b00d01a40748.jpg,Spirit,Biogenic Swamp,1,Steppes,2,Vaporhaze,3,,,Brimstone,3,Psychosilk,2,Forged Pickaxe,7034,
 7035,https://assets.otherside.xyz/otherdeeds/81573e0d7cd75c5d3c60206d53e337a572f4cc6908c1e8dfa914df2916ce17f9.jpg,Growth,Biogenic Swamp,1,Jungle,3,,,Spikeweed,3,Runa,2,,,,7035,
 7036,https://assets.otherside.xyz/otherdeeds/084dd72e24a79e415a652dc39588a92b99cd03019351fec146a4dcee2bc2ffb6.jpg,Harsh,Biogenic Swamp,1,Wastes,4,,,Hollowcine,2,Oblivion,3,,,,7036,
+7037,https://assets.otherside.xyz/otherdeeds/d6163d44511c15304aa2afd48d6e93d269690141ede01a4ffe6d5fb907709549.jpg,Psychedelic,Biogenic Swamp,2,Sludge,3,Lapidite,1,,,,,,,,7037,
 7038,https://assets.otherside.xyz/otherdeeds/57da6f4e4dec40bbbc454119423622482521ae114678528f81726015a0808bc7.jpg,Spirit,Biogenic Swamp,2,Veldan,2,Luster,1,,,,,,,,7038,
 7039,https://assets.otherside.xyz/otherdeeds/01bdb65d95135e94b3a161cf2bfc76bd5283e25722a56bc4d1cf9e7348aaf58b.jpg,Volcanic,Biogenic Swamp,2,Sulfuric,4,Whisper,3,Luster,3,Psychosilk,3,Whisper,3,Sands of Time,7039,7704
 7040,https://assets.otherside.xyz/otherdeeds/bf5d5a998cf22577937ef020082bba914959a1dbdda8237b265b7a2bf6560824.jpg,Harsh,Biogenic Swamp,2,Splinter,3,Lunarian,3,Spikeweed,1,Oblivion,2,Psychosilk,3,,7040,
@@ -6851,6 +6930,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 7256,https://assets.otherside.xyz/otherdeeds/7c558ee6601b5a5ab935748dced5aacc2f2f45a51e1e2adc0bb3f62f797067d2.jpg,Psychedelic,Biogenic Swamp,3,Acid,2,Nether,1,,,,,Kinsoul,2,Card from a Deck,7256,
 7257,https://assets.otherside.xyz/otherdeeds/39dac60b395c022c350132dc097b2a287f6d2d4f8a86b362bfa693357e3dfbf2.jpg,Decay,Biogenic Swamp,3,Thornwood,4,,,,,,,,,,7257,
 7258,https://assets.otherside.xyz/otherdeeds/5e1ed379bb0241a2b6a4a6984fe3950817dcecedbcd7d7dee3e00afef6aa7c8c.jpg,Harsh,Biogenic Swamp,3,Wastes,2,Hollowcine,3,Lunarian,2,Bonestone,3,Bonestone,3,Forged Pickaxe,7258,
+7259,https://assets.otherside.xyz/otherdeeds/68735144e938c832abb989d2f255e769db258fcf64050d8ce32458a985137cc5.jpg,Growth,Biogenic Swamp,1,Jungle,5,Lumileaf,1,,,,,Luster,2,,7259,
 7260,https://assets.otherside.xyz/otherdeeds/13199c6a257c5d01f1b6f39c5ec355355af19408e73a7ef64fcddb3d3dcfedc5.jpg,Mineral,Biogenic Swamp,3,Luster,1,,,Kinsoul,2,,,Kinsoul,1,,7260,
 7261,https://assets.otherside.xyz/otherdeeds/b899990d74967df17282f90c0e3d7dec13d5e66956f2058ddb3ded107e3fab3c.jpg,Growth,Biogenic Swamp,2,Botanical,1,Spikeweed,3,Lunarian,2,,,,,Magic Powder,7261,
 7262,https://assets.otherside.xyz/otherdeeds/e74aeadd51325351cc6c8414628a5920c4f1b60d6624c95866e23644c8423c7b.jpg,Harsh,Biogenic Swamp,3,Bone,3,,,Fossica,1,Moldium,1,Nether,1,,7262,
@@ -6897,6 +6977,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 7307,https://assets.otherside.xyz/otherdeeds/75ba29f7639e1bf1178a7651b8eccc2c9abaaa6f3dca9b6cd0ede7c2918f8d1e.jpg,Volcanic,Biogenic Swamp,1,Molten,5,Brimstone,2,Psychosilk,1,Petrified,3,Runa,2,,7307,
 7308,https://assets.otherside.xyz/otherdeeds/a127abe3639d82d34914bb214007d16a3e9f04b1191928a0254b53c88a28898f.jpg,Growth,Biogenic Swamp,2,Mystic,4,,,,,,,,,,7308,
 7310,https://assets.otherside.xyz/otherdeeds/75887c679ecae6de32d44e4b8a5ab7dd9c9d915fb79164112c764bf0ac653be2.jpg,Volcanic,Biogenic Swamp,3,Sulfuric,2,,,Sulfirica,1,Kinsoul,1,,,,7310,
+7311,https://assets.otherside.xyz/otherdeeds/6ea9063f2698ee2bffd981fbfdc912112f73757dac41c3e8902bf97f6ce7383d.jpg,Spirit,Biogenic Swamp,3,Steppes,1,Moldium,3,Whisper,1,Nether,1,Runa,1,Celestial Heart,7311,
 7312,https://assets.otherside.xyz/otherdeeds/c96a1cc6c3f7e01c24b981f85d570184fb8ae4a9d1026553fcdcdc8b7b9f284e.jpg,Decay,Biogenic Swamp,2,Plague,1,Oblivion,1,Runa,2,,,Kinsoul,3,Chomps,7312,3862
 7313,https://assets.otherside.xyz/otherdeeds/949f711556696810b76a9335ca119b9758d142b1d1a32776a0475da8b88cc4e2.jpg,Growth,Biogenic Swamp,1,Mycelium,3,Petrified,2,Lumileaf,1,,,Runa,1,Mystical Crown,7313,
 7314,https://assets.otherside.xyz/otherdeeds/c9ef87e8f707e47391c6d1832a801ea26eb0460e596e69b3c032a08c114a386c.jpg,Spirit,Biogenic Swamp,1,Steppes,3,,,,,Petrified,3,,,,7314,
@@ -7035,6 +7116,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 7453,https://assets.otherside.xyz/otherdeeds/e2d522984a0eb8b22bb149c7c46f3cfdb650bf35a884bb1786d95b74d345f324.jpg,Decay,Biogenic Swamp,1,Ruins,4,Psychosilk,1,Spikeweed,2,,,Lumileaf,2,,7453,
 7454,https://assets.otherside.xyz/otherdeeds/84ae91600e757b0ee0828475db9c2b3c229fa84c957c8bc1ec282aab4f5e6192.jpg,Spirit,Biogenic Swamp,2,Veldan,1,,,,,Oblivion,2,,,,7454,
 7455,https://assets.otherside.xyz/otherdeeds/a44df46d7fad15f5c6ff79ad133e1c0fc8b7db5fbff9928d7c634de9f7e3efeb.jpg,Decay,Biogenic Swamp,2,Ruins,1,,,,,,,,,,7455,
+7456,https://assets.otherside.xyz/otherdeeds/973f40b6bc253439745d19234d573abe172e9061acfd751f46ea6243ef1878ea.jpg,Harsh,Biogenic Swamp,1,Splinter,1,Psychosilk,1,Whisper,1,,,,,Sands of Time,7456,
 7457,https://assets.otherside.xyz/otherdeeds/4d116c159e6e40d9973f1b4c9042ed4e618c3c8c3f78a16ef21bf09331e9af61.jpg,Decay,Biogenic Swamp,1,Bog,1,Scumbria,3,,,,,Whisper,2,,7457,
 7458,https://assets.otherside.xyz/otherdeeds/ca2c90da39c51d12e62a0861364b87c7a106878ccfea02e0b0e2ddf225f0d8bf.jpg,Volcanic,Biogenic Swamp,1,Molten,4,Bonestone,1,Petrified,2,Runa,3,Thermodite,1,Relic Card,7458,
 7459,https://assets.otherside.xyz/otherdeeds/32d5773b4b715fad557fc00abd89078d4068fe4540d29570868d7997885b43c9.jpg,Spirit,Biogenic Swamp,1,Sky,2,Bonestone,2,,,Lumileaf,3,,,,7459,
@@ -7121,6 +7203,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 7541,https://assets.otherside.xyz/otherdeeds/f399a2828ca95aac757803fa246246c169a9a23c590271d4c63dc8e5eb3a5075.jpg,Mineral,Biogenic Swamp,2,Spires,1,Whisper,1,Lunarian,1,,,,,,7541,
 7542,https://assets.otherside.xyz/otherdeeds/86f51a4f631c83943cbf936321f48763ca0cbd42ee58ca2431f8de0e8bbbe010.jpg,Decay,Biogenic Swamp,3,Ruins,4,,,,,Prysmatica,3,Nether,2,,7542,
 7543,https://assets.otherside.xyz/otherdeeds/325b1933d5b3ca5d63678dc9d0159515252521924c1bb6b1efc49eeff5dd97b9.jpg,Decay,Biogenic Swamp,3,Bog,2,Brimstone,2,Petrified,1,Runa,1,Whisper,2,,7543,
+7544,https://assets.otherside.xyz/otherdeeds/3ed42fe680a63120eafa9f107abb7dd96a48c2504c07f8bdb526df7e13bf3c8b.jpg,Decay,Biogenic Swamp,2,Thornwood,2,Bonestone,2,,,Kinsoul,2,,,,7544,
 7545,https://assets.otherside.xyz/otherdeeds/7f1c69d38d61bef4bdbbb5b961fbc4fadda7a3f24ffce175566e84acb4e611f2.jpg,Decay,Biogenic Swamp,1,Thornwood,3,,,Luster,2,Moldium,2,Whisper,2,,7545,
 7546,https://assets.otherside.xyz/otherdeeds/db082ea67d32eb6f7f5f4de7f944db31130dd661683285990ef400c04bfe4697.jpg,Volcanic,Biogenic Swamp,2,Obsidian,1,,,,,Luster,2,Lumileaf,3,,7546,7343
 7547,https://assets.otherside.xyz/otherdeeds/b1e5144c1731f8162a1231f2ac5b84c23b29ba19ff0bc4275628d1d1286b4c22.jpg,Decay,Biogenic Swamp,2,Bog,5,Nether,3,Luster,1,,,,,Glass Eye,7547,
@@ -7163,6 +7246,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 7586,https://assets.otherside.xyz/otherdeeds/bc13e9dde85c29eb8ba89eb658773c7ab206dfaf8bed7a65b718efbc16fe9a15.jpg,Growth,Biogenic Swamp,2,Jungle,1,Tanglevine,1,,,Psychosilk,1,Petrified,2,,7586,
 7587,https://assets.otherside.xyz/otherdeeds/6459548abaadfcfa0fcf552debbf17ee3119c44b7652fc113a176b81833126b1.jpg,Decay,Biogenic Swamp,1,Thornwood,2,Lunarian,3,Spikeweed,2,Whisper,1,Nether,2,,7587,
 7588,https://assets.otherside.xyz/otherdeeds/94fdd575c3ff7bd51e20d74383d71b4f04fb091de3855f703d8632038d8bbb33.jpg,Growth,Biogenic Swamp,2,Mystic,1,,,Degradia,1,,,,,Fire Sale Scroll,7588,
+7589,https://assets.otherside.xyz/otherdeeds/103b0f8b48df4957563bd56f121ff20e8160745b8cecdeceee0c84715408a8f2.jpg,Mineral,Biogenic Swamp,1,Luster,4,Moldium,3,Moldium,2,Petrified,3,,,,7589,
 7590,https://assets.otherside.xyz/otherdeeds/0a22a7c3d88155e5268d1e9354a1754034814df2222b54affb4653108a573f57.jpg,Spirit,Biogenic Swamp,1,Sands,1,Brimstone,2,,,,,,,,7590,
 7591,https://assets.otherside.xyz/otherdeeds/c5578024d21575f5b4909c9c02a68233516e2304d558473ff3374f4f148a3044.jpg,Decay,Biogenic Swamp,1,Thornwood,1,,,,,,,Luster,2,,7591,
 7592,https://assets.otherside.xyz/otherdeeds/249b10b27a32e5089fa7b33849e80f18fa67e9a33786b303b500351ab0fec126.jpg,Growth,Biogenic Swamp,1,Mystic,4,Bonestone,3,,,,,,,,7592,
@@ -7222,6 +7306,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 7648,https://assets.otherside.xyz/otherdeeds/ed554768087a1018954c2d227024592ff5bec60024278a641e33b375d5ba0c0e.jpg,Volcanic,Biogenic Swamp,2,Obsidian,1,Petrified,3,Bonestone,1,,,,,,7648,
 7649,https://assets.otherside.xyz/otherdeeds/71662c33fc26c65ca880bc6b004229745312c695547f87ec463776e053a31b33.jpg,Harsh,Biogenic Swamp,1,Glacia,2,Lumileaf,1,,,Shatterfrost,1,,,,7649,
 7650,https://assets.otherside.xyz/otherdeeds/ba95c94e122b75ca276b19654b27d81bc3c20279faa06333702633486285dfb7.jpg,Mineral,Biogenic Swamp,1,Biolume,2,,,Runa,2,,,,,,7650,
+7651,https://assets.otherside.xyz/otherdeeds/63aa62db2b7d3193efd8dc47cec472d509bc79112d0695ba36095db0069d9378.jpg,Decay,Biogenic Swamp,1,Ruins,1,Luster,1,Lumileaf,2,Bonestone,1,Lumileaf,2,Forged Pickaxe,7651,
 7652,https://assets.otherside.xyz/otherdeeds/033dfb586b330ac904b6a3a67f0895b90b2b6c9a957f0940eee6d9353b4dd6ad.jpg,Spirit,Biogenic Swamp,3,Steppes,2,Bonestone,1,,,,,Nether,2,,7652,
 7653,https://assets.otherside.xyz/otherdeeds/cd8d077536f2b5e315199906fceb5140b67c87b7652458cec15654966bd9c4c6.jpg,Spirit,Biogenic Swamp,1,Sands,2,,,,,,,Petrified,2,,7653,
 7654,https://assets.otherside.xyz/otherdeeds/6d0d060e95ba447742b08c71e0f6d03f354069f71929e61a987f35dbf6f2de25.jpg,Volcanic,Biogenic Swamp,1,Obsidian,3,,,Whisper,2,Onyx,2,,,,7654,
@@ -7320,6 +7405,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 7748,https://assets.otherside.xyz/otherdeeds/3dff9e25a7cd4d9c67964bb6709f37cfa591802510b806bca7bb30277b95942b.jpg,Spirit,Biogenic Swamp,1,Sands,1,,,Lumileaf,1,Psychosilk,2,,,,7748,
 7749,https://assets.otherside.xyz/otherdeeds/c5eefc3e680b0a67ab58471fa420d32597a052d023e924c64ef770f80d491c67.jpg,Harsh,Biogenic Swamp,3,Glacia,1,,,,,,,Kinsoul,3,Sticky Cauldron,7749,
 7750,https://assets.otherside.xyz/otherdeeds/543d38ca8419fb8d4baf574d27a1f537b42c0c6ce655c2d1e360ebf2573d866f.jpg,Growth,Biogenic Swamp,1,Mycelium,2,,,,,,,Lunarian,1,Sticky Cauldron,7750,
+7751,https://assets.otherside.xyz/otherdeeds/1e18988f3a62c89019740ef98ba949b18cb454f0fe9f0fddc7815b9b5f2cc9df.jpg,Volcanic,Biogenic Swamp,1,Sulfuric,1,Petrified,2,Runa,1,Luster,1,,,,7751,
 7752,https://assets.otherside.xyz/otherdeeds/64fb152b92f52309d895fc5dd58b3a0c71fc5d730a53e6a7be2c5171fb6ffdec.jpg,Decay,Biogenic Swamp,1,Thornwood,3,,,,,,,,,,7752,
 7753,https://assets.otherside.xyz/otherdeeds/6ea5984fa32d1f32113d9fb4869dcec6277d8fc314a6ccd880467adeab3706f2.jpg,Decay,Biogenic Swamp,1,Bog,3,,,Luster,3,Lumileaf,1,,,Rugged Pickaxe,7753,
 7754,https://assets.otherside.xyz/otherdeeds/d9ac95338ae9978a0b5b0f2bdd965c9ffa1bfe4b3e74326a7e6af661db97ad7d.jpg,Volcanic,Biogenic Swamp,1,Sulfuric,4,Spikeweed,1,Runa,2,Oblivion,3,Kinsoul,2,,7754,
@@ -7476,6 +7562,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 7909,https://assets.otherside.xyz/otherdeeds/6791e5e318765da73adfaa7982ff1ee5cebb56de97c567a2f5a728cb827703b6.jpg,Volcanic,Biogenic Swamp,1,Crimson,4,Kinsoul,1,Lumileaf,2,Psychosilk,3,Spikeweed,3,,7909,
 7910,https://assets.otherside.xyz/otherdeeds/92ab134ed5822554a5e7f537653f692b992cad0fa33db2769c51a0b71b8ea22a.jpg,Decay,Biogenic Swamp,2,Bog,5,,,,,,,,,,7910,
 7911,https://assets.otherside.xyz/otherdeeds/7bd5eeb711a4b55c1cb6d357643af79cb9ef61bc7f3dbd700b0680c6bc8fa094.jpg,Decay,Biogenic Swamp,1,Thornwood,1,Lunarian,1,Luster,1,,,,,,7911,
+7912,https://assets.otherside.xyz/otherdeeds/458f8c225e0d4cd6cdac7a15eb83677c5bdbdbe0699a01fddb94c54951900d1e.jpg,Harsh,Biogenic Swamp,2,Splinter,4,Kinsoul,2,Spikeweed,3,Luster,1,,,,7912,
 7913,https://assets.otherside.xyz/otherdeeds/d1c82e1fc006f3593b56da7d54d9f39b96244911bdd1c2eab9b9ded0e191cdfb.jpg,Decay,Biogenic Swamp,1,Ruins,3,,,Petrified,2,,,Psychosilk,3,,7913,
 7914,https://assets.otherside.xyz/otherdeeds/5c9cefbe93214410fdfeb577ef5d77e4d886a89f047b534096ac0d0712961a1e.jpg,Spirit,Biogenic Swamp,2,Veldan,3,Runa,1,Lumileaf,3,Lunarian,2,Spikeweed,1,Mystical Crown,7914,
 7915,https://assets.otherside.xyz/otherdeeds/0286c692b52e8b1163e5a7ce32169736a0b647788c84b9de592fb080c58a965a.jpg,Psychedelic,Biogenic Swamp,1,Mallow,5,,,Maltosia,3,,,,,,7915,
@@ -7496,6 +7583,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 7931,https://assets.otherside.xyz/otherdeeds/ae73ca8a26e4a2398253cfa61027453898bdbb0e7ea1b7160252ea25db509769.jpg,Volcanic,Biogenic Swamp,3,Obsidian,5,Bonestone,1,Abyssia,2,,,,,Rugged Pickaxe,7931,
 7932,https://assets.otherside.xyz/otherdeeds/1c8e42f807e07414ce1ae92a298e26c934123bcb98575004d9b01f9b5673506f.jpg,Volcanic,Biogenic Swamp,1,Molten,2,,,,,,,,,,7932,
 7933,https://assets.otherside.xyz/otherdeeds/46b1e432968c0c1a393e04f5f038802767f22f8a12130d9c9d208edd7f60ce64.jpg,Volcanic,Biogenic Swamp,2,Sulfuric,5,,,,,,,,,,7933,
+7934,https://assets.otherside.xyz/otherdeeds/480f93f8935c4c2a89d88b4f7f1427cfcafc5618dc45c1719952524b55327000.jpg,Decay,Biogenic Swamp,2,Bog,1,Kinsoul,2,,,,,Runa,2,Sloth Juice,7934,
 7935,https://assets.otherside.xyz/otherdeeds/cecda0eb53a0c57ea7d1f9d0a3cadcf2ab611e2f50c73bba96a3a4e03b4f9a9d.jpg,Growth,Biogenic Swamp,1,Botanical,1,Kinsoul,2,Lumileaf,1,Whisper,1,,,,7935,
 7936,https://assets.otherside.xyz/otherdeeds/5fab3bd7d93e361183208a4b58b89ea2ea22989d3841312505961d0e312f1e77.jpg,Mineral,Biogenic Swamp,3,Crystal,2,,,,,,,Petrified,2,,7936,8332
 7937,https://assets.otherside.xyz/otherdeeds/31e6e438de876a65cbdbb1988de874e7fe84e7e0feab1279d229a40cb7893194.jpg,Harsh,Biogenic Swamp,1,Glacia,1,,,Slushia,2,,,,,,7937,5632
@@ -7630,6 +7718,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 8074,https://assets.otherside.xyz/otherdeeds/293354cfa67be2982543b83e36d7e11214ca0405ebcc69402101fa0ab9bce527.jpg,Decay,Biogenic Swamp,1,Bog,1,,,Kinsoul,3,,,,,Rugged Pickaxe,8074,
 8075,https://assets.otherside.xyz/otherdeeds/e1c3e3cdd104ae3477157e9b1a05bd3080ab9e7a3b0709d3054d2b5c31382eef.jpg,Harsh,Biogenic Swamp,1,Splinter,3,Oblivion,1,,,,,,,Cryptid,8075,
 8076,https://assets.otherside.xyz/otherdeeds/6b19e74df26665b3166d76d811e7ccd410741b17a0642e361f4d9f8690c863c3.jpg,Harsh,Biogenic Swamp,1,Wastes,2,Obsilica,3,Psychosilk,2,Brimstone,2,Psychosilk,3,,8076,
+8077,https://assets.otherside.xyz/otherdeeds/ed2a43af96ef6bce99680d0d012a5393226e34cac750a2e45b45f2697da2b142.jpg,Growth,Biogenic Swamp,2,Mycelium,4,Petrified,1,Luster,2,,,,,,8077,
 8078,https://assets.otherside.xyz/otherdeeds/da0f557b285b30381bb0660a933d801276b047ee019957f1acf585368e5a1122.jpg,Decay,Biogenic Swamp,2,Ruins,2,,,Moldium,2,,,,,,8078,8042
 8079,https://assets.otherside.xyz/otherdeeds/57bb3f977fa3b917b001442a967b6a8e1811137437ec193cf611a49535e99fe9.jpg,Spirit,Biogenic Swamp,1,Steppes,1,,,Vaporhaze,3,,,,,Celestial Orb,8079,
 8081,https://assets.otherside.xyz/otherdeeds/fbe720e7eade3a101801a306cf5a44bc590cbe6357bc92c7a517c88c4e54a37f.jpg,Volcanic,Biogenic Swamp,3,Crimson,1,Nether,2,Kinsoul,3,Psychosilk,3,Moldium,3,,8081,
@@ -7644,6 +7733,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 8091,https://assets.otherside.xyz/otherdeeds/c054571ce19d54080e906d2a90b3c9b909ef2d37618958f0400cb36809e201b0.jpg,Volcanic,Biogenic Swamp,3,Crimson,4,,,Lunarian,1,Oblivion,3,Pricklia,1,Card from a Deck,8091,
 8092,https://assets.otherside.xyz/otherdeeds/a5ae1a8770dbe62cdaf3f3d3d8ddf21b39826314dd56a346f03c254899517356.jpg,Psychedelic,Biogenic Swamp,1,Acid,3,Oblivion,3,,,Spikeweed,1,Galactica,2,,8092,
 8093,https://assets.otherside.xyz/otherdeeds/c838d55a0519df91b77b7e9c2299af9ca020d1ca19c91cdfe7fc66d3e2fc54b0.jpg,Psychedelic,Biogenic Swamp,3,Acid,1,Nether,1,Luster,1,,,,,Banana Peel,8093,
+8094,https://assets.otherside.xyz/otherdeeds/36eff19b3d45dd64a51ba053ec836ee8ab68eeaa1b6885f9da9ad2d5c4120475.jpg,Growth,Biogenic Swamp,1,Mycelium,3,Psychosilk,2,Spikeweed,2,,,Psychosilk,3,,8094,9236
 8095,https://assets.otherside.xyz/otherdeeds/6d28e1066d0278d6757185c02098a1deca43d6ec7afcd81146866da24dae3760.jpg,Growth,Biogenic Swamp,3,Jungle,4,,,,,,,Kinsoul,1,,8095,
 8096,https://assets.otherside.xyz/otherdeeds/fc6acf686ca45412e3f21e14c55907d83667dea98418e521ca48e89b2daa2f86.jpg,Harsh,Biogenic Swamp,2,Glacia,2,Slushia,2,,,,,Lumileaf,3,,8096,
 8097,https://assets.otherside.xyz/otherdeeds/79f15390eae94358fd256cffa561d42bc8502b74cd9dfbf52a8714140b7301ed.jpg,Spirit,Biogenic Swamp,1,Veldan,1,Nether,3,,,Runa,3,Moldium,1,,8097,
@@ -7655,10 +7745,12 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 8103,https://assets.otherside.xyz/otherdeeds/5ff421868b99b14b885acab7641971b4e438101f84fa3304d2845f31508cc12b.jpg,Mineral,Biogenic Swamp,3,Spires,2,Runa,2,Opalia,2,,,Kinsoul,2,,8103,
 8104,https://assets.otherside.xyz/otherdeeds/dbbe20b98f54f02e1707bcd00a3087f1dbfca0309928eb818cce9ab1fffde9df.jpg,Psychedelic,Biogenic Swamp,2,Shadow,2,,,,,,,,,,8104,
 8105,https://assets.otherside.xyz/otherdeeds/27ffeb92ffe497fcaca57d2ffa7f5ebcda4fbb232f7da5c777215d5d1a7b3637.jpg,Decay,Biogenic Swamp,1,Plague,2,,,Spikeweed,1,Nether,1,,,,8105,
+8106,https://assets.otherside.xyz/otherdeeds/2e10f1e5992ec90b95d576fb29bec0799126e4b85be9534651ab53645e6c61f2.jpg,Growth,Biogenic Swamp,1,Mycelium,1,Psychosilk,1,Petrified,2,Lunarian,1,,,,8106,
 8107,https://assets.otherside.xyz/otherdeeds/e997a6043535a72d019c7de98d68711aaad86b2ad67ac621d46079b023e431c3.jpg,Growth,Biogenic Swamp,1,Botanical,2,Sporicite,1,,,,,Nether,1,Tavo,8107,8234
 8108,https://assets.otherside.xyz/otherdeeds/21c6448151f9c9c0ed5b8397178b415c9fcde4c0213056090740c507b0ac3abe.jpg,Growth,Biogenic Swamp,1,Mystic,3,Nether,3,,,,,,,,8108,
 8109,https://assets.otherside.xyz/otherdeeds/17b1ff01a90291b334faee212d0de21b1f465a5af0b3fc85f09de54e316294d6.jpg,Growth,Biogenic Swamp,3,Mycelium,4,Luster,3,,,Petrified,3,Kinsoul,3,,8109,
 8110,https://assets.otherside.xyz/otherdeeds/2a0cc1bf0de1374c4a4324f7ea3314759d8e640bc70678a9c490d2639ddb14bc.jpg,Psychedelic,Biogenic Swamp,3,Mallow,2,Oblivion,1,,,,,,,,8110,
+8111,https://assets.otherside.xyz/otherdeeds/5e210ca14d34e5e18d84203f1ee49efc6235e4f19f996ef2e50e7646bab4c87f.jpg,Decay,Biogenic Swamp,3,Bog,4,,,Oblivion,3,Nether,2,,,Rugged Axe,8111,
 8113,https://assets.otherside.xyz/otherdeeds/d65ed4912f8fd088515c083b99c6295a94f59ccce3d2a39c5c7a2bf4fb13d722.jpg,Spirit,Biogenic Swamp,1,Steppes,2,,,,,Spikeweed,3,,,,8113,
 8114,https://assets.otherside.xyz/otherdeeds/2113cb848d578fe6427b772e5dce7d7f72bdf5d0bbf3cd2d1d97fd2168b77ecd.jpg,Decay,Biogenic Swamp,1,Thornwood,2,,,,,,,,,Forged Axe,8114,
 8115,https://assets.otherside.xyz/otherdeeds/b0dccb9087e755eea3df5fb5de6c79f207e1405552ec39762fd01b1691259e45.jpg,Spirit,Biogenic Swamp,2,Steppes,3,,,,,,,Lumileaf,2,,8115,
@@ -7670,6 +7762,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 8121,https://assets.otherside.xyz/otherdeeds/ed98c88013d2a55f95ec9d640d6169bf6ba7d475f71c6af66a36947c542fde09.jpg,Volcanic,Biogenic Swamp,1,Sulfuric,3,,,,,Psychosilk,3,Petrified,1,,8121,
 8122,https://assets.otherside.xyz/otherdeeds/ffbb5a5cd9bc81bad23cb746cbda26b70bdd5731a7e83a47f35f7afe083416ee.jpg,Growth,Biogenic Swamp,3,Jungle,2,,,,,Spikeweed,1,,,,8122,
 8123,https://assets.otherside.xyz/otherdeeds/5bee6afd4e6f7a049f3068d250ddef57372137170c7f8ad3d96f1e23425a8bf8.jpg,Decay,Biogenic Swamp,2,Ruins,4,,,Brimstone,3,Oblivion,3,Kinsoul,1,,8123,
+8124,https://assets.otherside.xyz/otherdeeds/6c89db19955adc1f94f1902d6e83f0b3a06d921b973221a183234de2b1cc5c5e.jpg,Mineral,Biogenic Swamp,2,Crystal,2,Luminite,2,Psychosilk,2,Runa,2,,,Celestial Tear,8124,4315
 8125,https://assets.otherside.xyz/otherdeeds/88df8bcee94baef2ce37a3cd1a462ccb691e4daf99fc347d2b19ab42b3ef5b13.jpg,Decay,Biogenic Swamp,3,Bog,4,,,Brimstone,2,,,,,Whim,8125,
 8126,https://assets.otherside.xyz/otherdeeds/3b15e6718d01b5bba4442baadf20b9913b33f6eafbb856c185e95ba5ad66515f.jpg,Growth,Biogenic Swamp,2,Jungle,5,Nether,3,Psychosilk,1,Kinsoul,1,Brimstone,2,,8126,
 8127,https://assets.otherside.xyz/otherdeeds/b33b995355684027a22b5428e301a46ad2f80c9d5ebbdeb7547f5b2006a197fa.jpg,Harsh,Biogenic Swamp,1,Splinter,2,Oblivion,2,,,Bonestone,2,,,,8127,
@@ -7948,6 +8041,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 8406,https://assets.otherside.xyz/otherdeeds/56d8dcc21b5dccbd6b3a2c473d1ec3f304b2ae46c9b81e0255b4a7e8f40d9b76.jpg,Mineral,Biogenic Swamp,1,Biolume,5,,,,,,,Psychosilk,1,Chest of Holding,8406,
 8407,https://assets.otherside.xyz/otherdeeds/c1e6546c7bf03a67843d3ac103671eab9cf57eda01784795b2134e63da0a4259.jpg,Harsh,Biogenic Swamp,2,Splinter,2,Lunarian,2,Spikeweed,1,Claymer,2,,,,8407,
 8408,https://assets.otherside.xyz/otherdeeds/466bd7663532deea2e4461975829b322b3712f22d8ee72449523afb468595a42.jpg,Harsh,Biogenic Swamp,2,Glacia,2,Nether,2,Brimstone,1,Kinsoul,1,,,,8408,
+8409,https://assets.otherside.xyz/otherdeeds/b3f511d49a89268779f9ec2143f0c86fdbe8bf6a1d012bc01f76f17091c5e689.jpg,Decay,Biogenic Swamp,1,Thornwood,1,,,Petrified,1,,,,,Rugged Hammer,8409,
 8410,https://assets.otherside.xyz/otherdeeds/5e753552a72507f7a024f700aa6a6819b50969a72c88634ad78b23986b3300a0.jpg,Spirit,Biogenic Swamp,1,Sky,3,,,Spikeweed,1,,,Moldium,3,,8410,
 8411,https://assets.otherside.xyz/otherdeeds/593f402eea08f196a7b94e930b456cd6ecfd74be06ef2fd15e7672287a058301.jpg,Spirit,Biogenic Swamp,3,Steppes,2,Oblivion,2,Luster,2,Spikeweed,2,,,,8411,
 8412,https://assets.otherside.xyz/otherdeeds/01b71e4702ee2c3917b266b8ea846b132493d417af1c5b643904424b672599c6.jpg,Decay,Biogenic Swamp,1,Bog,1,,,Spikeweed,2,Petrified,3,,,Knight's Pail,8412,4506
@@ -7996,6 +8090,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 8457,https://assets.otherside.xyz/otherdeeds/422256867e274e0b061bab15fd1e35e104bb8dcf6d369895b2c8820ddca74662.jpg,Mineral,Biogenic Swamp,1,Spires,3,,,Pyrum,1,,,,,Forged Pickaxe,8457,
 8458,https://assets.otherside.xyz/otherdeeds/db4375b5d2ebdd713137c4f1690ca9fe2cbd4dfea04962a1cf0d3a19dc4ee8f9.jpg,Mineral,Biogenic Swamp,1,Spires,2,,,,,,,Kinsoul,2,,8458,
 8459,https://assets.otherside.xyz/otherdeeds/c1e54d63d56f76ec3850ed7f88c6f31543f79a7109ff594d23ba7cb7524dd9b4.jpg,Decay,Biogenic Swamp,2,Bog,5,Runa,2,Spikeweed,3,Mossmoon,1,Brimstone,1,,8459,
+8460,https://assets.otherside.xyz/otherdeeds/e0e03d30bc90140852b5fad633b2e3ae95628cb1097b00de45074aad2bb36203.jpg,Mineral,Biogenic Swamp,1,Spires,2,Runa,3,,,,,,,,8460,
 8461,https://assets.otherside.xyz/otherdeeds/f0846628d27720ebdfb90f0e82528a3d1a0810a83704b4ad7e3d3f1ea34e473f.jpg,Decay,Biogenic Swamp,3,Thornwood,2,Lunarian,2,Brimstone,1,Oblivion,3,,,Fire Sale Scroll,8461,
 8462,https://assets.otherside.xyz/otherdeeds/f3f608e573c15892957b9ab1ce5db4ddbf90c34412a000b05a1fe6ff5d63bb10.jpg,Psychedelic,Biogenic Swamp,3,Sludge,3,Runa,3,Psychosilk,3,,,Kinsoul,1,,8462,
 8463,https://assets.otherside.xyz/otherdeeds/592647bbbeb4539c4f7ff0a4cc61a58e8ade4188340e1ad7f41945c3cc0c901e.jpg,Psychedelic,Biogenic Swamp,1,Shadow,1,Petrified,2,Spikeweed,2,,,Brimstone,1,Vivec,8463,
@@ -8217,6 +8312,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 8687,https://assets.otherside.xyz/otherdeeds/66d8ef3d14fb7c7dd8630465cc512dfd6de4c17b9d080ee3c19a97ed4ef5088b.jpg,Mineral,Biogenic Swamp,2,Spires,3,Pyrum,1,Lunarian,3,Bonestone,1,,,,8687,
 8688,https://assets.otherside.xyz/otherdeeds/9f59b841798a15b91bb63a5c7df6eb9d480bad81a686e4b486b69241f40537fe.jpg,Decay,Biogenic Swamp,1,Thornwood,2,,,,,Brimstone,1,,,,8688,
 8689,https://assets.otherside.xyz/otherdeeds/cb57095d2fcead5bad5e02de720136a29c3b87252d1c150c005646dbbadc5fde.jpg,Growth,Biogenic Swamp,1,Mystic,2,,,,,,,,,,8689,
+8690,https://assets.otherside.xyz/otherdeeds/ab424c4302f677b04bbfdca9dd4f93edc74edb912bc651bd9043762c6be02d68.jpg,Spirit,Biogenic Swamp,2,Veldan,5,Luster,1,,,,,Luster,2,,8690,
 8691,https://assets.otherside.xyz/otherdeeds/eef7c5617e01cc3d741efd17b640db778e7de613ae23aa0458ba60257ef37e38.jpg,Growth,Biogenic Swamp,1,Mystic,5,Oblivion,3,,,Kinsoul,2,Moldium,2,,8691,
 8692,https://assets.otherside.xyz/otherdeeds/7aad262b5d2c19b26ae3b11a9319a9d577c1ab33ac98dafd26a1f653bffc188b.jpg,Harsh,Biogenic Swamp,2,Splinter,4,,,Moldium,2,,,,,Rugged Axe,8692,
 8693,https://assets.otherside.xyz/otherdeeds/dc79c7dbc0642c234d4a1e5cac816793dc53b9a45c47efb5a1fb2342e655d4ba.jpg,Spirit,Biogenic Swamp,1,Sky,5,,,,,Moldium,2,Nether,1,,8693,
@@ -8228,6 +8324,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 8700,https://assets.otherside.xyz/otherdeeds/6ff4f706a03ba69e27ba0600e0da91cc08f9667b85395e8973a6f0bedacc7b68.jpg,Harsh,Biogenic Swamp,1,Wastes,1,Whisper,1,,,Moldium,2,Spikeweed,2,,8700,3762
 8701,https://assets.otherside.xyz/otherdeeds/edc2d7a832a11a7adc3027589112558d38d8b16ca6dbf7413e9496d9d9bf0e88.jpg,Spirit,Biogenic Swamp,1,Sands,2,,,Moldium,3,,,,,,8701,7365
 8702,https://assets.otherside.xyz/otherdeeds/e93d31c0dd71e9a4394a41096cb9a4f98c2897bf441a91908d67f04c22ad5b96.jpg,Volcanic,Biogenic Swamp,1,Molten,1,Kinsoul,3,Brimstone,1,Runa,1,Whisper,2,,8702,
+8703,https://assets.otherside.xyz/otherdeeds/14d70987bd8c17eb734ffe99d5c6c6958192d3a06aa07a2a6784948f620faa7a.jpg,Harsh,Biogenic Swamp,2,Splinter,2,Steppesalt,1,,,Psychosilk,2,,,Unknown Map,8703,
 8704,https://assets.otherside.xyz/otherdeeds/d186e5dfc8268739dc090026e1c3f8d8e44bb32bd310edb12061520d707f18c6.jpg,Spirit,Biogenic Swamp,1,Veldan,4,Luster,1,Scholara,2,,,Lumileaf,3,,8704,
 8705,https://assets.otherside.xyz/otherdeeds/7d91c0342885ec3f75fcecc6b20642ace03b625845f1721926f964493c296049.jpg,Decay,Biogenic Swamp,1,Thornwood,5,,,,,Lumileaf,2,,,,8705,
 8706,https://assets.otherside.xyz/otherdeeds/909bd6ea9a7adec8acadaef84ee7981e7c16f0d64648fe8d31a8f4fc33fde7fd.jpg,Harsh,Biogenic Swamp,3,Glacia,1,Petrified,2,,,,,,,,8706,
@@ -8281,6 +8378,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 8757,https://assets.otherside.xyz/otherdeeds/b5ede7830ac5f233f3ea331fee2007e2f781a9b84debc530d54a7314d1e9d4d8.jpg,Decay,Biogenic Swamp,2,Plague,5,,,,,Kinsoul,1,,,,8757,
 8758,https://assets.otherside.xyz/otherdeeds/8ea2d3fe14c77bc9f15b8e721d51272d86e53cf00cbce0a6436cbc63d25b63ec.jpg,Decay,Biogenic Swamp,3,Thornwood,2,Brimstone,1,,,Oblivion,2,,,,8758,
 8759,https://assets.otherside.xyz/otherdeeds/d58a3147332f6ae0091c1a779fbc868b5d5059806ce787e9ec2f869d6ec51387.jpg,Decay,Biogenic Swamp,2,Thornwood,1,,,,,,,,,Celestial Heart,8759,
+8760,https://assets.otherside.xyz/otherdeeds/d509381eb20422267272cf242e0a0b00190064deffdea774c2a435131afc6459.jpg,Psychedelic,Biogenic Swamp,2,Mallow,2,Mallo,1,,,,,Nether,2,,8760,
 8761,https://assets.otherside.xyz/otherdeeds/61c181d54b3ed6da9e343bf6600e0fe45c9a24c8f68cd6ce329c7e1be4a8ac89.jpg,Spirit,Biogenic Swamp,1,Sky,1,Moldium,2,,,Oblivion,1,,,,8761,
 8762,https://assets.otherside.xyz/otherdeeds/a35f9bb7f4161c771f8eb7c624ff48fa31d21ba2bdfb71832e78a5f3525e67b7.jpg,Chaos,Biogenic Swamp,1,Chaos,5,Entropy,2,Omni,3,Degradia,3,Degradia,2,,8762,3085
 8763,https://assets.otherside.xyz/otherdeeds/76c5fc5057562dae183d9c7f12264691e9d8447cbf7185c67297bfe89919ffef.jpg,Volcanic,Biogenic Swamp,1,Molten,5,,,Slaglia,3,,,Moldium,1,Sticky Cauldron,8763,
@@ -8378,6 +8476,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 8862,https://assets.otherside.xyz/otherdeeds/fd86c3aa65178015f7b471f07481930a36e0f5d50fe304aea21561b5a6b12b4c.jpg,Mineral,Biogenic Swamp,1,Luster,3,Fragmentia,2,,,,,,,,8862,
 8863,https://assets.otherside.xyz/otherdeeds/f1fdda23d4da12732235aa5a614de4003c6988e3ec1cb56d2dc4209d81912da8.jpg,Psychedelic,Biogenic Swamp,3,Shadow,3,Phantom,1,Phantom,3,Gloomia,1,Spikeweed,1,Rugged Shovel,8863,
 8864,https://assets.otherside.xyz/otherdeeds/8444b04044fb9fe6b13800c1fc459dbb18e387367be3e8f07d0d57576ad9736c.jpg,Volcanic,Biogenic Swamp,2,Crimson,1,,,,,Whisper,3,Brimstone,2,,8864,2381
+8865,https://assets.otherside.xyz/otherdeeds/76e1b494dabb8d914d963902e4d75fd5229abc2895b2d50e04ba43b8db490b02.jpg,Growth,Biogenic Swamp,1,Mycelium,4,Runa,1,,,Petrified,1,,,,8865,
 8866,https://assets.otherside.xyz/otherdeeds/6566a426c49f8d5a3f7e99e18a8a4fcd9b9dfdc7ce01bbc85a18ab6e752878da.jpg,Spirit,Biogenic Swamp,1,Steppes,2,Nebula,2,Moldium,1,,,Psychosilk,1,,8866,
 8867,https://assets.otherside.xyz/otherdeeds/16d8e20dddf2f62391fe9c749ccd51f28d552f92e78ba5d0849c112844087fd3.jpg,Harsh,Biogenic Swamp,1,Bone,2,,,Fossica,2,,,Whisper,2,,8867,6945
 8868,https://assets.otherside.xyz/otherdeeds/8af0a1efefe900ec3e99b6a8d688721d45bf240f7982fd3d15f854c075709835.jpg,Volcanic,Biogenic Swamp,2,Molten,3,,,Oblivion,2,,,,,,8868,
@@ -8464,12 +8563,14 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 8954,https://assets.otherside.xyz/otherdeeds/841a16d3c08dee2770601f1a749e09c70dba080a52e7c5f2f9192b2eaee178ce.jpg,Growth,Biogenic Swamp,2,Mycelium,2,,,,,Moldium,2,,,Sticky Cauldron,8954,
 8955,https://assets.otherside.xyz/otherdeeds/15514fcd0e7dabed0268e97006dcacd9701264884e226effa14c1ed54b7d3466.jpg,Decay,Biogenic Swamp,1,Bog,4,Brimstone,3,,,,,Oblivion,3,Fire Sale Scroll,8955,
 8956,https://assets.otherside.xyz/otherdeeds/4240adfa623e7ba18d32a324e7137abe87596f7d6331a54b875908dcb1421324.jpg,Volcanic,Biogenic Swamp,2,Molten,2,Lumileaf,2,,,Whisper,3,Spikeweed,1,,8956,6611
+8957,https://assets.otherside.xyz/otherdeeds/cff652042aaa1a0fe826619b8d6f3dae3014d3fcf8f01d4ac31fc29f86ab7254.jpg,Spirit,Biogenic Swamp,3,Steppes,2,,,Oblivion,1,Kinsoul,2,Luster,1,,8957,9465
 8958,https://assets.otherside.xyz/otherdeeds/c2e236fbddb929566b6b87be107b6867d8fc9d7f5fb6b7715f500336f7885c66.jpg,Spirit,Biogenic Swamp,1,Steppes,3,,,Spikeweed,1,,,,,,8958,
 8959,https://assets.otherside.xyz/otherdeeds/e9c083570cdf2625390aff79de3033df00abb4add7517e476cb541d249015386.jpg,Growth,Biogenic Swamp,3,Jungle,2,,,,,Runa,1,,,,8959,
 8960,https://assets.otherside.xyz/otherdeeds/30bc554b7f4d26ee96f6eea44175ec87eb3c52ac9480949c20c6e9ecd5182a62.jpg,Volcanic,Biogenic Swamp,1,Crimson,3,Petrified,1,Psychosilk,1,,,Whisper,3,Relic Card,8960,
 8961,https://assets.otherside.xyz/otherdeeds/4f9bf6f321179d84e51e58d2903eda6919ce065a346264f2d651da1ca4dc5795.jpg,Mineral,Biogenic Swamp,2,Biolume,4,,,Psychosilk,1,,,Brimstone,1,Slime Juice,8961,
 8962,https://assets.otherside.xyz/otherdeeds/a618c01a15c122448deeaea5130df337511073988e92170b4106eb40cddcc001.jpg,Volcanic,Biogenic Swamp,2,Molten,1,Whisper,1,Spikeweed,1,Thermodite,3,Bonestone,1,,8962,
 8963,https://assets.otherside.xyz/otherdeeds/f3f06449bbeb430db7cbdf47834c36b60407110fc871fd9c469c0bde0911c8e6.jpg,Mineral,Biogenic Swamp,2,Spires,3,Whisper,1,,,Petrified,2,Spikeweed,1,,8963,8556
+8964,https://assets.otherside.xyz/otherdeeds/5a9ae6610e9abb2e07c70b52ee2d9bf4ee03075f13dfc3809be48ae5753db509.jpg,Volcanic,Biogenic Swamp,1,Crimson,1,,,,,Runa,1,Spikeweed,3,Rugged Shovel,8964,
 8965,https://assets.otherside.xyz/otherdeeds/08c64490b0c9726c01658018589cb596189eabce4ad6989f7cec77a8418b1870.jpg,Growth,Biogenic Swamp,2,Jungle,2,,,Petrified,1,,,,,,8965,
 8966,https://assets.otherside.xyz/otherdeeds/c25f3e37e4c48f7296ec432a4588d5c7c55d24fbd6e31024bfc13dbbcfc2937d.jpg,Decay,Biogenic Swamp,1,Bog,1,,,Nether,2,Luster,3,Kinsoul,1,Koda Pickaxe,8966,
 8967,https://assets.otherside.xyz/otherdeeds/3f68ea9e9f703329740b791624f63e9cb235db5e72032ab686b81691392f34ef.jpg,Harsh,Biogenic Swamp,1,Glacia,1,,,,,,,,,Mystical Crown,8967,
@@ -8509,6 +8610,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 9001,https://assets.otherside.xyz/otherdeeds/e0ea2ba858ae9c82520c3dae8f9c5f78a4b5825ce817e56a6a236aedf1b71781.jpg,Harsh,Biogenic Swamp,1,Glacia,1,,,,,,,,,,9001,
 9002,https://assets.otherside.xyz/otherdeeds/5247887b5c52cebe3547bd05388377f603fd234e3f18e824df8d5c3e666eaa8f.jpg,Decay,Biogenic Swamp,1,Bog,3,Psychosilk,2,Psychosilk,1,Moldium,2,Mossmoon,3,,9002,6729
 9003,https://assets.otherside.xyz/otherdeeds/a473e37cba7b9a4df16f3e1b9ff85b920dfdec319c727f4bd117b93a706c32f5.jpg,Spirit,Biogenic Swamp,2,Sky,1,Lumileaf,3,Petrified,1,,,,,,9003,
+9004,https://assets.otherside.xyz/otherdeeds/dc3c60ca5bed854550a28859ba53a93eb2fb7f22482ef82b0e542eeb3723c776.jpg,Spirit,Biogenic Swamp,3,Veldan,4,Psychosilk,2,,,Runa,1,Whisper,1,,9004,6469
 9005,https://assets.otherside.xyz/otherdeeds/3b19368541bbfa3e96a5d7ac4b64fc3c19dcd4f91b8087bcd71530eec9b3967d.jpg,Decay,Biogenic Swamp,1,Thornwood,5,Duskia,2,Lunarian,2,Lumileaf,3,,,,9005,
 9006,https://assets.otherside.xyz/otherdeeds/92b8114600c97b7f48b0b8b29461414562bca15b2978d8284e95d60cc0533ed4.jpg,Mineral,Biogenic Swamp,2,Luster,2,,,Nether,2,Psychosilk,3,Kinsoul,1,,9006,3304
 9007,https://assets.otherside.xyz/otherdeeds/2dec97b20995fb7444ecdb1801688cb903570be2d51258a54dca42311cc0d818.jpg,Spirit,Biogenic Swamp,2,Veldan,5,Lunarian,2,,,,,Runa,1,Whale Statue,9007,
@@ -8536,6 +8638,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 9032,https://assets.otherside.xyz/otherdeeds/e7bfb318e32e1743cf052567c0580aa0a8e69dd2ac0da416d778098e92b7da35.jpg,Mineral,Biogenic Swamp,1,Spires,1,Opalia,1,,,,,,,,9032,
 9033,https://assets.otherside.xyz/otherdeeds/c703db271716706e4b675794ca21d968a2c2f2026da3e48f2d288377caf090f2.jpg,Decay,Biogenic Swamp,2,Thornwood,1,Nocturna,1,Bonestone,2,Runa,1,Lumileaf,2,,9033,
 9034,https://assets.otherside.xyz/otherdeeds/a0cd900897d54795736f1d249714cc9ae421c6fc3e78f312e98633b687895ed7.jpg,Spirit,Biogenic Swamp,2,Sands,3,Luster,1,Oblivion,1,,,Psychosilk,1,,9034,6552
+9035,https://assets.otherside.xyz/otherdeeds/ac1fd636a8daf0810a8143eb9c00272e9323b337f5b2511cef62fc3b551e00b7.jpg,Decay,Biogenic Swamp,1,Bog,1,Bonestone,1,Psychosilk,3,Lumileaf,1,,,Rugged Shovel,9035,4154
 9036,https://assets.otherside.xyz/otherdeeds/f1738bf413785ea05b3e87e683c0065cfe432843b76d36241d6c8cdaaa90b27e.jpg,Spirit,Biogenic Swamp,3,Steppes,2,,,Luster,1,,,Brimstone,1,,9036,
 9037,https://assets.otherside.xyz/otherdeeds/36c3f3a9c704cf8ce17a4d6cd2437adcfe688d71196ab413886039613d0fc1e9.jpg,Spirit,Biogenic Swamp,2,Sands,4,Oblivion,3,Lunarian,1,Petrified,1,Brineslime,1,Rugged Pickaxe,9037,
 9038,https://assets.otherside.xyz/otherdeeds/74c9463b2d43b7b4c50a191cc89e5540ba19756cfe6eff6d11131998b37f6d36.jpg,Psychedelic,Biogenic Swamp,1,Acid,4,,,Runa,3,,,,,,9038,
@@ -8585,6 +8688,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 9087,https://assets.otherside.xyz/otherdeeds/67b6ae4088b3ad0569e43cf16045d6bdc53221fb45df963822fe2c5f7567e557.jpg,Decay,Biogenic Swamp,1,Thornwood,4,,,,,,,Runa,1,Forged Pickaxe,9087,
 9088,https://assets.otherside.xyz/otherdeeds/9b7c2b3f88d0ae8042f527198d546713b239003eb80c9d6fc398d52ad3534dda.jpg,Decay,Biogenic Swamp,1,Thornwood,1,,,Spikeweed,3,Spikeweed,3,Moldium,3,,9088,
 9089,https://assets.otherside.xyz/otherdeeds/b32f1f76c6a206253c41f548d7856314a27fd8ba57e59afb36708dcd70395ca6.jpg,Growth,Biogenic Swamp,2,Mystic,1,Spikeweed,2,,,,,Runa,2,,9089,
+9090,https://assets.otherside.xyz/otherdeeds/97886dcec57cec6acdc64752abc935f8d9ce94d76b7c4f10d5f48e3d48425b7c.jpg,Spirit,Biogenic Swamp,2,Steppes,4,,,Nether,1,Nebula,2,,,Lovans,9090,3330
 9091,https://assets.otherside.xyz/otherdeeds/64b25641bde732ecc47bce68a53d86262dd25d90fcd61abd1cd55c907a392180.jpg,Harsh,Biogenic Swamp,3,Bone,1,,,,,,,Lumileaf,2,,9091,
 9092,https://assets.otherside.xyz/otherdeeds/2fe684e2ee3e8ee2ae45b29790078d68a83410366babb209eb9458d61e6d1cfa.jpg,Spirit,Biogenic Swamp,2,Steppes,2,Petrified,2,Nebula,1,,,Moldium,3,,9092,
 9093,https://assets.otherside.xyz/otherdeeds/8079382001c2741d2e3bf8d63810023cb66b748fdcbe72d78e110a80329b537c.jpg,Spirit,Biogenic Swamp,2,Steppes,4,,,Moldium,3,Runa,1,Kinsoul,2,,9093,
@@ -8664,11 +8768,13 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 9173,https://assets.otherside.xyz/otherdeeds/92461eb71d41ad9d6dfedf0c76e0a36ec7ca15750eac0c5be999b7db43925ae2.jpg,Volcanic,Biogenic Swamp,2,Molten,2,,,Runa,1,,,Luster,1,Mystic Triangles,9173,
 9174,https://assets.otherside.xyz/otherdeeds/c1cd5c35c8810d8f87475e9c08dfb73eea301a0decf8a817362aa60a92987dfa.jpg,Volcanic,Biogenic Swamp,3,Molten,2,,,,,Runa,1,Thermodite,3,Ancient Coin,9174,
 9175,https://assets.otherside.xyz/otherdeeds/00d6950571449778d97c3dc99ef98e6bb033ca2e8bc87d857354c3e95696055c.jpg,Volcanic,Biogenic Swamp,2,Molten,1,,,Whisper,3,Runa,2,,,Ancient Coin,9175,
+9176,https://assets.otherside.xyz/otherdeeds/d50ceac4caab95b9b4cf3635272da32c5d9cc51f268de3bb86805bb06e9d795a.jpg,Psychedelic,Biogenic Swamp,2,Sludge,1,,,Moldium,3,,,Spikeweed,2,,9176,
 9177,https://assets.otherside.xyz/otherdeeds/10c144c48be4fcea74e3910b93064eaf38cb89db117e31f28f6a3c0b0aed796c.jpg,Spirit,Biogenic Swamp,1,Sands,2,,,,,,,,,,9177,7992
 9178,https://assets.otherside.xyz/otherdeeds/e30321009f119e38f0831a62cbdfedecbfd2e5fcbd40432ea9701f9fbe89ae7d.jpg,Mineral,Biogenic Swamp,1,Crystal,4,,,Etheria,2,,,,,Rugged Hammer,9178,
 9179,https://assets.otherside.xyz/otherdeeds/4397aec7671d45980153b43e6c3c17587d494ca01a4717032a491f5e7d16a847.jpg,Psychedelic,Biogenic Swamp,3,Shadow,1,Bonestone,2,Moldium,2,Moldium,1,,,,9179,
 9180,https://assets.otherside.xyz/otherdeeds/0a9259aa135db85e31254c951f95196180f47a4c1ff958073fbd69f9b022b4d0.jpg,Decay,Biogenic Swamp,3,Plague,5,,,,,,,,,,9180,5901
 9181,https://assets.otherside.xyz/otherdeeds/4087a6250e9d94c3c8a32b2dd17e005573df74c6b28cac35e573439ffdd32160.jpg,Spirit,Biogenic Swamp,3,Steppes,4,,,,,Oblivion,2,Petrified,2,Rugged Pickaxe,9181,
+9182,https://assets.otherside.xyz/otherdeeds/f61efe8f2b0d93aa2c5bd84cee1da91a2a55deb832e41e314d18b8206e90d5ee.jpg,Psychedelic,Biogenic Swamp,2,Shadow,4,Phantom,2,,,Spikeweed,1,,,,9182,
 9183,https://assets.otherside.xyz/otherdeeds/419451f4fe3dfc5add0ad070a793eeacf5d13dd0539e7af4a8525e29f7923f8c.jpg,Psychedelic,Biogenic Swamp,2,Mallow,2,Mallo,2,Mallo,1,,,Bonestone,2,Fire Sale Scroll,9183,
 9184,https://assets.otherside.xyz/otherdeeds/099142fd40c59c4c60552f3793251a6a486b234dc8704804c5599494e5e77197.jpg,Psychedelic,Biogenic Swamp,3,Shadow,1,Bonestone,2,Oblivion,3,Psychosilk,1,Nether,1,,9184,
 9185,https://assets.otherside.xyz/otherdeeds/3c60e0cbb1fa73482c53d592bc4ea3d6838c75c3f717e4b17f567bd91d9db0a2.jpg,Spirit,Biogenic Swamp,2,Veldan,5,,,,,,,Nether,3,,9185,
@@ -8740,6 +8846,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 9255,https://assets.otherside.xyz/otherdeeds/00a833f9e97ca58ecab63c08caff448b502675fab261a27e4321ec0e2aaef57a.jpg,Decay,Biogenic Swamp,1,Bog,3,Nether,1,,,Lunarian,2,Psychosilk,3,Forged Axe,9255,
 9256,https://assets.otherside.xyz/otherdeeds/d2031a28b344a59d0d75443fb5db374cd46d4d2f1267edc232bcfec54a0c5dd3.jpg,Decay,Biogenic Swamp,1,Thornwood,3,Oblivion,2,,,,,Nether,3,,9256,
 9257,https://assets.otherside.xyz/otherdeeds/a5ae07b3da8e60888b9de5dbf122c60308c36c0b4467337d797c6ce5be5a535a.jpg,Mineral,Biogenic Swamp,1,Spires,5,Oblivion,3,Moldium,1,Opalia,1,Psychosilk,1,,9257,
+9258,https://assets.otherside.xyz/otherdeeds/b594e2ac00857e41f359d602824b4c6d535be58d51a2267a6a26f2c1ad0ab461.jpg,Spirit,Biogenic Swamp,1,Veldan,2,,,Scholara,1,,,Lumileaf,3,Rugged Hammer,9258,
 9260,https://assets.otherside.xyz/otherdeeds/d80b2d030183400915d60a5afdaa3bfed8e8e6ccb2cd4227e43cac0b494d9771.jpg,Decay,Biogenic Swamp,2,Ruins,2,Chroma,2,Brimstone,2,Bonestone,2,Moldium,1,Celestial Tear,9260,
 9261,https://assets.otherside.xyz/otherdeeds/cd26b08789e857819d984174c752fc87a35e38f8a4627b829d2caf170992f0f9.jpg,Volcanic,Biogenic Swamp,2,Obsidian,4,,,Spikeweed,2,,,,,,9261,
 9262,https://assets.otherside.xyz/otherdeeds/695d212f29bf094b5ce6b04cdc82412104ee09d387882c2f2ca2141dfdac67b3.jpg,Growth,Biogenic Swamp,2,Botanical,2,,,Moldium,2,,,,,,9262,
@@ -8841,6 +8948,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 9367,https://assets.otherside.xyz/otherdeeds/0cb04c62a927fdc0b8dca4d34f67ef7ab0ccf1495aee909527312845c651bd85.jpg,Growth,Biogenic Swamp,3,Mystic,5,Lunarian,2,,,,,Glowpod,3,Banana Peel,9367,
 9368,https://assets.otherside.xyz/otherdeeds/1c107b202df1b58edff7f0a44b0c858ed4aa5bb935438c1203d9144f0b872d6f.jpg,Harsh,Biogenic Swamp,3,Glacia,1,,,Slushia,1,Moldium,2,,,,9368,
 9369,https://assets.otherside.xyz/otherdeeds/c2ba7f54fc44c5b6e18aa3549d17b9887cc395d7e20efc754d429d06073b177e.jpg,Volcanic,Biogenic Swamp,1,Sulfuric,1,Lumileaf,3,Moldium,2,,,,,,9369,
+9370,https://assets.otherside.xyz/otherdeeds/ff6b3b58dcbb6ebaff2f4c508e01c6ad0112b1440fda2bb54730f0ee577a532a.jpg,Volcanic,Biogenic Swamp,1,Molten,2,,,,,,,Spikeweed,1,,9370,
 9371,https://assets.otherside.xyz/otherdeeds/5690963031b03ebde14cd4df092accf5ff6266b28ae6fe32861c039a09a3b51a.jpg,Growth,Biogenic Swamp,1,Mystic,1,Spiritseep,1,,,Kinsoul,2,,,,9371,
 9372,https://assets.otherside.xyz/otherdeeds/e8444e1c9d4dfe53873a2b7740a6afc00695ef466195bf7a6963b04eafd690df.jpg,Mineral,Biogenic Swamp,1,Biolume,1,,,,,,,Kinsoul,1,,9372,
 9373,https://assets.otherside.xyz/otherdeeds/10543ec35c6f20ec6cbd3b0ba7eb4130d1758d7967389f3c0789208d94cc496f.jpg,Growth,Biogenic Swamp,1,Jungle,5,Oblivion,1,Luster,2,Petrified,2,Magentia,2,,9373,5972
@@ -8857,6 +8965,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 9384,https://assets.otherside.xyz/otherdeeds/5f2df9fc63355734bb17cc65dbf06d6755f4229fce14a3d3b22a2864e56462ba.jpg,Mineral,Biogenic Swamp,3,Spires,1,,,,,,,,,Sticky Cauldron,9384,
 9385,https://assets.otherside.xyz/otherdeeds/e9de1f2a3a83bef0d6476621a0d2c1d2dd05a33a0898ba8dbe5df1dae7609f72.jpg,Psychedelic,Biogenic Swamp,3,Mallow,2,,,Kinsoul,2,,,Lunarian,1,Sticky Cauldron,9385,
 9386,https://assets.otherside.xyz/otherdeeds/0cac9251269bda82e05ab7866fa30def22ab952ed60cfafff58e3dfcaf788bc0.jpg,Psychedelic,Biogenic Swamp,1,Sludge,3,,,,,,,,,,9386,
+9388,https://assets.otherside.xyz/otherdeeds/3d2890d440ddd47cb8fd350257603315366add86cc03903b5a27bb24c48dad3a.jpg,Decay,Biogenic Swamp,3,Bog,4,,,,,Psychosilk,3,,,,9388,
 9389,https://assets.otherside.xyz/otherdeeds/2b608e208c6f97f439add2ece9dbf3133f5b539c9ba72a7b9db3a53c34866a24.jpg,Spirit,Biogenic Swamp,2,Steppes,2,Oblivion,2,,,Psychosilk,2,,,,9389,
 9390,https://assets.otherside.xyz/otherdeeds/221f42afe1452f688c946f3c71ef1051cc13644c45a3adf0c26d62456f6e27da.jpg,Mineral,Biogenic Swamp,1,Biolume,5,Lumileaf,2,,,Lunarian,3,Tantalite,2,,9390,
 9391,https://assets.otherside.xyz/otherdeeds/0d1011acb3b29416a6a511277a5d27c71a2616d6526a1b9cc912a0a9c3add3a8.jpg,Volcanic,Biogenic Swamp,1,Molten,2,,,Brimstone,1,,,,,,9391,
@@ -9001,6 +9110,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 9533,https://assets.otherside.xyz/otherdeeds/72e4deb295a5d34c9ad6cadbbd3fd3a812ce57898909101922e9ec1b4d072f59.jpg,Mineral,Biogenic Swamp,2,Biolume,1,Spikeweed,3,,,,,,,,9533,
 9534,https://assets.otherside.xyz/otherdeeds/67469f5a7bbd2bf46c53eff0b6deda1a5b254c3b5f1373f7ec9b63d8d58b6069.jpg,Harsh,Biogenic Swamp,2,Wastes,5,Void,2,,,,,Lumileaf,2,,9534,
 9535,https://assets.otherside.xyz/otherdeeds/39dac60b395c022c350132dc097b2a287f6d2d4f8a86b362bfa693357e3dfbf2.jpg,Decay,Biogenic Swamp,1,Thornwood,4,,,,,,,,,,9535,
+9536,https://assets.otherside.xyz/otherdeeds/408c48e745891e096e8b8825add477ea83f88a71f78dd0dfd8a4c93a2eabcb2e.jpg,Decay,Biogenic Swamp,1,Ruins,2,Lunarian,2,,,,,,,,9536,
 9537,https://assets.otherside.xyz/otherdeeds/9fd73b8774d6bd20626d7900aa37b29b1e9a3ee1068511293c147bfa5f21d28e.jpg,Growth,Biogenic Swamp,2,Jungle,3,,,Magentia,3,,,Psychosilk,1,,9537,
 9538,https://assets.otherside.xyz/otherdeeds/01d680bb6c403f0dbce907bb9ecddd317210db5b1b44644ad4e4e459738cb916.jpg,Mineral,Biogenic Swamp,1,Biolume,3,Oblivion,2,Whisper,1,,,,,,9538,
 9539,https://assets.otherside.xyz/otherdeeds/ff6e47f7cc6aa60d824143ed10aec793190c4f81ac194f271ecf95e39464cef5.jpg,Decay,Biogenic Swamp,2,Thornwood,2,,,Bonestone,2,,,Moldium,1,,9539,
@@ -9037,6 +9147,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 9574,https://assets.otherside.xyz/otherdeeds/4fc53a7f9b9904b912c35097e4ab4e7a7411a70917d343975f7c8572c2108fd2.jpg,Harsh,Biogenic Swamp,2,Glacia,1,,,,,Bonestone,2,,,,9574,
 9575,https://assets.otherside.xyz/otherdeeds/fe80d1c42c9e411df03470a6270282e00a3ba526b7e62b3ba39fe1f0c192ecf9.jpg,Mineral,Biogenic Swamp,2,Biolume,3,Oblivion,2,Brimstone,1,,,Lunarian,2,,9575,
 9576,https://assets.otherside.xyz/otherdeeds/acac749c04e8a7a40a6f17915921a3384ad6bc2ff753f2a44db407534830702d.jpg,Decay,Biogenic Swamp,1,Ruins,4,Brimstone,1,Runa,3,Spikeweed,1,Luster,1,,9576,
+9577,https://assets.otherside.xyz/otherdeeds/a3227cf59da5197bf6c0864cd7ad78e782487a866906adafd38f6c56a3c8ad5c.jpg,Volcanic,Biogenic Swamp,2,Molten,2,Runa,3,,,Thermodite,2,,,,9577,
 9578,https://assets.otherside.xyz/otherdeeds/15b82cb4a9940995942b00f0e4e12947d99cc5b988341a53c4fb26e5c37c0c0a.jpg,Spirit,Biogenic Swamp,1,Steppes,2,,,Runa,1,Brimstone,1,Brimstone,1,Card from a Deck,9578,
 9580,https://assets.otherside.xyz/otherdeeds/a7677e9906fb9310c518982b0e98a6b3094e2c01ac38d95220731baa31434dc8.jpg,Spirit,Biogenic Swamp,3,Steppes,4,,,,,Kinsoul,2,,,,9580,
 9581,https://assets.otherside.xyz/otherdeeds/2638c8d0cd7017207e82a55f7153495840fec3a4bd60542eb1c29f134b234de5.jpg,Mineral,Biogenic Swamp,2,Crystal,3,,,,,,,Etheria,1,,9581,1082
@@ -9212,6 +9323,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 9756,https://assets.otherside.xyz/otherdeeds/5048eebf600454765c7419b8d28369bc7e7ccb51534ff790e3964b02e614ddd5.jpg,Harsh,Biogenic Swamp,2,Bone,2,Nether,2,Spikeweed,1,Brimstone,2,Whisper,2,Koda Axe,9756,
 9757,https://assets.otherside.xyz/otherdeeds/df49d9457dc56c40d935303b82712813f66ab850749e3542b3cad735f29809ea.jpg,Growth,Biogenic Swamp,2,Mycelium,4,,,,,,,,,,9757,
 9758,https://assets.otherside.xyz/otherdeeds/1b9737f20d32123571956f60e6238f85bdffda4cfbc3c28aa1a5419d4c916212.jpg,Mineral,Biogenic Swamp,1,Luster,1,Brimstone,2,,,,,Brimstone,3,,9758,
+9759,https://assets.otherside.xyz/otherdeeds/ede94760559577e40df92db8355917cc648ea43a7f93c253a2c228da37ff6258.jpg,Mineral,Biogenic Swamp,1,Crystal,5,,,,,,,Brimstone,3,,9759,
 9760,https://assets.otherside.xyz/otherdeeds/4a8a088934b24b24bb4343ae82996441508f2dafb71a0a1b4534234c9c249bcc.jpg,Mineral,Biogenic Swamp,1,Luster,3,Aurelian,1,Moldium,2,Runa,2,Luster,1,,9760,
 9761,https://assets.otherside.xyz/otherdeeds/849de81f8c5a0c15f09cf5cb0d30ecfd672ed7dc77841f0b6d592d64a6bed6a4.jpg,Volcanic,Biogenic Swamp,3,Sulfuric,3,,,Whisper,3,Spikeweed,1,Kinsoul,3,Card from a Deck,9761,
 9762,https://assets.otherside.xyz/otherdeeds/44cd91a20c06dff63b913e16b5a8745f8a5f17f91755d04228825211ba4892ab.jpg,Harsh,Biogenic Swamp,1,Glacia,3,,,,,,,Kinsoul,1,,9762,
@@ -9291,6 +9403,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 9840,https://assets.otherside.xyz/otherdeeds/bede93f1d19d2bcb53e736c31e1b05ae828a13041a9eb4c13c6f68794c1a0040.jpg,Growth,Biogenic Swamp,1,Jungle,4,,,,,,,Runa,3,,9840,
 9841,https://assets.otherside.xyz/otherdeeds/36ec807d680089b08966e423bbed818482b575f878048f5bb75c8d408b2b3a47.jpg,Harsh,Biogenic Swamp,2,Glacia,5,Spikeweed,2,,,,,Shatterfrost,3,,9841,
 9843,https://assets.otherside.xyz/otherdeeds/15ab869702bad35562aa7e88f82e707943aaadf3ad22b615bed3a5a3b67501f3.jpg,Volcanic,Biogenic Swamp,3,Molten,3,,,,,Moldium,1,Lunarian,3,,9843,
+9844,https://assets.otherside.xyz/otherdeeds/5194eb83e162201b525adf7cb03153dd6374efe76b186a8838e68f0c023ff439.jpg,Volcanic,Biogenic Swamp,1,Molten,4,,,,,Nether,1,Whisper,1,,9844,
 9845,https://assets.otherside.xyz/otherdeeds/8c366eb43da8930d26c96798ecf07458a47296d10e235cb5307ff027215c61c9.jpg,Spirit,Biogenic Swamp,1,Steppes,1,Nebula,3,Whisper,1,,,,,,9845,
 9846,https://assets.otherside.xyz/otherdeeds/ffabf32e7e7875c15cc56950d49d62dc3d60565db3295b7322bffcfddd8e283b.jpg,Mineral,Biogenic Swamp,3,Spires,3,,,,,Spikeweed,3,,,,9846,
 9847,https://assets.otherside.xyz/otherdeeds/7c50458ae8d9087ecd87b688b2f1d14b6d9702102b9ea1323189ebcf1677d762.jpg,Growth,Biogenic Swamp,1,Mycelium,1,Lunarian,1,Entradium,3,Bonestone,3,,,,9847,
@@ -9419,6 +9532,7 @@ token_id,image,category,sediment,sediment_tier,environment,environment_tier,east
 9978,https://assets.otherside.xyz/otherdeeds/a477c237dffe237db7ab5398edc63fdc8f6108c677ef49b79f2f3e4da112be0f.jpg,Psychedelic,Biogenic Swamp,3,Acid,4,Bonestone,3,,,Lunarian,3,Whisper,1,Forged Shovel,9978,
 9979,https://assets.otherside.xyz/otherdeeds/ea00946bcf91482ef5449197c3c0fd6d60fafef860e06cb3e7611ff1507b1409.jpg,Volcanic,Biogenic Swamp,1,Crimson,3,Petrified,2,,,,,Luster,2,Daniel,9979,
 9980,https://assets.otherside.xyz/otherdeeds/acf2a3687ca717c623e12da89306bfe55d23dfe2e75edffd77079ef4fb6fc9b4.jpg,Harsh,Biogenic Swamp,3,Splinter,4,Kinsoul,2,Kinsoul,1,,,,,,9980,
+9981,https://assets.otherside.xyz/otherdeeds/f408b66b5ca40f75492de498f329137f63e3abf37bcf8377963282bfda50ef4e.jpg,Decay,Biogenic Swamp,1,Bog,3,,,Lumileaf,2,,,,,,9981,
 9982,https://assets.otherside.xyz/otherdeeds/68c0dbf54ca0468f5a2ffc1b667b12304018090649b215e808e097652a77f364.jpg,Psychedelic,Biogenic Swamp,2,Sludge,3,,,Degradia,3,,,,,,9982,
 9983,https://assets.otherside.xyz/otherdeeds/3059c4255bf14d9f308adee9556df446fe6d6caca5fe1f48de18368861b8b8ca.jpg,Volcanic,Biogenic Swamp,2,Molten,2,,,,,Lumileaf,1,Whisper,1,,9983,
 9984,https://assets.otherside.xyz/otherdeeds/2935e6a2edc2e599e404fb97ff8a65a3076b558ff61dfd7d7bfd33e56ca13c1c.jpg,Decay,Biogenic Swamp,2,Bog,2,,,,,,,,,,9984,
